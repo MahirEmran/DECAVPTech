@@ -1,0 +1,557 @@
+26. How can management reduce the business's level of risk associated with ethics? 
+A. Advise employees that following business ethics depends on the situation
+B. Assume employees know what constitutes ethical behavior
+C. Allow employees to follow their own set of ethics
+D. Train employees about expectations in relation to workplace ethics
+
+26. D
+Train employees about expectations in relation to workplace ethics. Employees must clearly understand the business's ethical standards and expectations. Offering ethics training can help employees understand the business's rules and ethical standards. Employees who do not have a clear understanding of the business's expectations in relation to ethical behavior put the business at risk. Employees who do not follow the business's ethics guidelines may cross a legal line without knowing they have done so. Because employees' experiences and beliefs often vary and because there are many gray areas in the business world, the business should not allow employees to follow their personal set of ethics or assume that the employees know what the business considers ethical behavior. Ethics are a set of principles that do not vary by situation. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+66. A car manufacturer in Country A purchases parts from a factory in Country B. When Country B suffers a massive earthquake, the car manufacturer is forced to put production on hold until it can find another factory to supply the parts. What type of risk does this situation illustrate? 
+A. Employee
+B. Environmental
+C. Political
+D. Health and safety
+
+66. B
+Environmental. Environmental risks include natural disasters. When relying on a factory in another country, the car manufacturer in Country A assumes the risk that if a natural disaster occurs in Country B, it will possibly be unable to continue production. This is not an example of employee, political, or health and safety risk. 
+SOURCE: RM:092 Describe international considerations affecting risk management
+SOURCE: Partner Engineering and Science. (2023). Business environmental risk. Retrieved August 4, 2023,
+from https://www.partneresi.com/resources/glossary/business-environmental-risk 
+
+82. Which of the following is a type of insurance company in which the policyholders retain the profits: 
+A. Insurance underwriting association
+B. Risk retention group
+C. Insurance broker
+D. Local insurance agency
+
+82. B
+Risk retention group. A risk retention group is a type of insurance company that is owned by its members—its policyholders. As the owner of the insurance company, a risk retention group retains and controls its liability rather than transferring its risks to another entity. Because the risk retention group retains control, it retains the profits that it generates. Risk retention groups are typically formed by similar businesses and industries and pay lower licensing fees than traditional insurance companies. Local insurance agencies are not owned by their policyholders. Insurance brokers deal with many insurance carriers/products to meet the needs of their clients. An insurance underwriting association is a professional association, which is a group of individuals who work in the same profession. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Kagan, J. (2021, June 26). Risk retention group (RRG): Meaning, benefits, history. Retrieved August
+4, 2023, from https://www.investopedia.com/terms/r/risk-retention-group-rrg.asp 
+
+92. Which of the following is a form of technology used to manage business risk in relation to online security: 
+A. Meta tags
+B. Frames
+C. Site maps
+D. Firewalls
+
+92. D
+Firewalls. Risk management is a business activity that involves the planning, controlling, preventing, and procedures to limit business losses. Businesses use technology to minimize security risks. One way that businesses control security risks is by installing firewalls on their computer networks. Firewalls are computer programs designed to prevent computer hackers from obtaining confidential financial data. A frame allows a computer user the ability to view more than one web page at a time in a single browser. Meta tags are HTML codes that display information about web pages. A site map is a flowchart that puts information on the Web in a logical format so that internet users can find what they are looking for. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Cisco. (2023). What is a firewall? Retrieved August 4, 2023, from
+https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html 
+
+14. Which of the following is an external ethical issue that ethical risk management seeks to address: 
+A. Fairness among employees
+B. Safety in the workplace
+C. Misuse of resources
+D. Regulation compliance
+
+14. D
+Regulation compliance. No matter how ethical a company is within its own walls, it’s still likely to encounter ethical dilemmas in the external environment. All organizations are subject to regulations and laws. Complying with them is one of the most important functions of risk management. When making compliance decisions, risk managers need to consider not just the legality but also the ethics of the issue. Safety in the workplace, misuse of resources, and fairness among employees are examples of internal ethical issues that ethical risk management seeks to address. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+32. Which of the following is most likely to automate risk management practices: 
+A. Risk management personnel
+B. Trends
+C. Laws and regulations
+D. Technology
+
+32. D
+Technology. Automation is a method of operating or controlling a process in which tasks are completed by automatic means, such as technology, thereby reducing human effort and labor. Technology allows companies to automate risk management practices. While laws and regulations, risk management personnel, and trends may impact risk management practices, they are not likely to automate these practices. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Vashistha, A. (2021, February 25). The future of risk management is automated. Retrieved October
+10, 2023, from https://www.forbes.com/sites/forbestechcouncil/2021/02/25/the-future-of-riskmanagement-is-automated/?sh=90598f04ed02 
+
+35. A country’s government changes its policies to enact a trade barrier, impacting companies who do business there. This is an example of __________ risk. 
+A. currency
+B. political
+C. internal
+D. technological
+
+35. B
+Political. Risk is the possibility of loss (failure) or gain (success). There are different types of risk, including political, currency (foreign exchange), internal, external, technological, human, etc. Political risk, a major international risk for businesses, occurs when a country’s government changes its policies, such as by enacting trade barriers or requesting additional funds to export items in the country. This is not an example of currency, internal, or technological risk. 
+SOURCE: RM:092 Describe international considerations affecting risk management
+SOURCE: Beers, B. (2023, July 17). Top risks for international businesses. Retrieved October 4, 2023, from
+https://www.investopedia.com/ask/answers/06/internationalfinancerisks.asp 
+
+73. Foreign exchange risk is also called __________ risk. 
+A. human
+B. environmental
+C. currency
+D. social
+
+73. C
+Currency. Foreign exchange risks—also called currency risk, FX risk, and exchange-rate risk—occur when a currency’s exchange rate fluctuates, thereby impacting the value of an investment. Because exchange rates can be volatile, it is difficult to protect against this type of international risk. Foreign exchange risk is also not called human, social, or environmental risk. 
+SOURCE: RM:092 Describe international considerations affecting risk management
+SOURCE: Beers, B. (2023, July 17). Top risks for international businesses. Retrieved October 4, 2023, from
+https://www.investopedia.com/ask/answers/06/internationalfinancerisks.asp 
+
+2. A company is considering whether to expand its operations into a neighboring country. The company predicts that the expansion will increase profits, but the firm's financial officials are concerned about the strength of the foreign dollar. This is an example of which of the following risk factors associated with international business: 
+A. Governmental regulations
+B. Environmental fluctuations
+C. Foreign currency exchange
+D. Domestic financial policies
+
+2. C
+Foreign currency exchange. The rate of exchange between foreign currencies is constantly fluctuating. If a foreign currency's value decreases significantly, companies may lose money. It is important for companies to consider this risk before engaging in international business. Environmental fluctuations, domestic financial policies, and governmental regulations are also important to consider before expanding into a foreign country; however, they are not described in this example. 
+SOURCE: RM:092 Describe international considerations affecting risk management
+SOURCE: Saint-Leger, R. (2019, January 25). Risk involved in an international business. Retrieved September
+22, 2023, from https://bizfluent.com/info-7766597-risk-involved-international-business.html 
+
+56. Which of the following statements regarding captive insurance is true: 
+A. There is no financial advantage to forming a captive insurance company rather than using a traditional
+insurance company. B. Tax laws generally require that the insured demonstrate that they will be materially harmed if financial
+losses occur to the captive insurer. C. Businesses or industries often form captive insurance companies to evade tax laws.
+D. Captive insurance companies are able to get away with simply serving as “reserve accounts” for saving
+
+56. B
+Tax laws generally require that the insured demonstrate that they will be materially harmed if financial losses occur to the captive insurer. Captive insurance companies are wholly owned and operated by the members they insure. Tax laws generally require that the members that are insured by captive insurers demonstrate that they will be materially harmed if financial losses occur to the captive insurer. Businesses or industries often form captive insurance companies for one of three reasons: 1) because there is no other insurance offered in the industry; 2) to obtain cheaper insurance; 3) to gain more control over their insurance. Businesses do not generally create captive insurance companies for the sole purpose of evading tax laws. A common tax law governing captive insurers requires that captive insurance companies actually function as insurance companies—not just as reserve accounts or “rainy day funds.” There are several small advantages to forming a captive insurance company, including the ability to be taxed on investment earnings rather than on gross income, among others. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: International Risk Management Institute, Inc. (2018, August 8). What is captive insurance? Retrieved
+September 22, 2023, from https://www.captive.com/captives-101/what-is-captive-insurance 
+
+74. Why has the use of risk modeling increased in recent years? 
+A. Wider availability of data
+B. More expensive technology
+C. Decreased regulation
+D. Less focus on efficiency
+
+74. A
+Wider availability of data. Risk modeling not only relies on data, but it also makes data more useful. The rise of available data has made risk modeling more possible and more necessary. Increased regulation rather than decreased regulation has contributed to the rise of risk modeling. More expensive technology has not increased the use of risk modeling. Finally, less focus on efficiency has also not increased the use of risk modeling. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Risk and Compliance. (2023). Technology risk management. Retrieved September 22, 2023, from
+https://riskandcompliancemagazine.com/technology-risk-management/ 
+
+76. What can businesses do to reduce risks associated with noncompliance? 
+A. Monitor regulations
+B. Obtain customer feedback
+C. Evaluate competitors
+D. Allocate operating funds
+
+76. A
+Monitor regulations. Risk management is a business activity that involves the planning, controlling, preventing, and procedures to limit business losses. If a business does not comply with laws, the government may fine the business, which could result in substantial financial losses. Therefore, it is important for a business to continuously monitor government regulations to ensure that it is in compliance, and make changes, if necessary, to become compliant. Evaluating competitors, obtaining customer feedback and allocating operating funds are not actions that will reduce risks associated with noncompliance. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Compliance Quest. (2018, May 24). Minimizing non-compliance. Retrieved September 22, 2023,
+from https://www.compliancequest.com/blog/minimizing-non-compliance/ BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 19 
+
+94. Sasha recently announced that she is planning an overnight company outing in a state park. Since that announcement, several members of her team have expressed concern about the event because of rumors of bear attacks in the area. What is the first thing that Sasha should do to determine the actual level of risk associated with camping at the park? 
+A. Risk communication
+B. A SWOT analysis
+C. Environmental scan
+D. A risk assessment
+
+94. D
+A risk assessment. An important aspect of risk management is conducting a risk assessment, which is the process of determining the level of risk associated with an action or product. Sometimes as a result of conducting a risk assessment, a manager may find that a perceived risk is much less threatening than they originally thought. For example, although Sasha's team members were alarmed by rumors of bear attacks, she may discover while conducting her risk assessment that the rumors are untrue and that there is little chance of bear attack at the park. An environmental scan is a process in which businesses gather information about their surroundings, analyze that information, and determine the future impact of that information. Risk communication focuses on how to effectively communicate information associated with risk. A SWOT analysis is a marketing tool that investigates a business's strengths, weaknesses, opportunities, and threats in an organized fashion. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+5. The first step in an organizational risk assessment is 
+A. pinpointing who might be harmed.
+B. evaluating the risks and making a plan.
+C. recording and implementing your findings.
+D. identifying the potential hazards.
+
+5. D
+Identifying the potential hazards. A risk assessment is a careful assessment of what could cause harm within an organization, along with determining whether the organization is doing enough to prevent those risks. The first step in a risk assessment is identifying the potential hazards. After the risks are identified, the next steps include determining who might be harmed by the risks, evaluating the risks and making a plan, and recording and implementing your findings. 
+SOURCE: RM:059 Explain ways to assess risk
+SOURCE: Lucidchart. (2018, June 11). A complete guide to the risk assessment process. Retrieved August 11,
+2023, from https://www.lucidchart.com/blog/risk-assessment-process 
+
+65. Which of the following words best describes enterprise risk management: 
+A. Hazardous
+B. Empathetic
+C. Segmented
+D. Comprehensive
+
+65. D
+Comprehensive. Enterprise risk management is a top-down business activity that involves planning, controlling, preventing, and procedures used by management to limit company losses. This approach considers risk management from the perspective of the entire, comprehensive organization rather than by distinct business units. Therefore, words like “segmented” are not accurate descriptions of enterprise risk management. Risk management assesses potential hazards but is not necessarily hazardous. Empathy is the ability to understand and share the feelings of other people, which is not necessarily a component of enterprise risk management. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it
+works. Retrieved August 11, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 
+
+32. A flood has caused damage to a company's inventory warehouse. This is an example of what type of risk that enterprise risk management addresses? 
+A. Security
+B. Legal
+C. Operational
+D. Strategic
+
+32. C
+Operational. Enterprise risk management (ERM) is an organization-wide strategy to identify, assess, and prepare for potential dangers and hazards that may harm or interfere with an organization's finances, operations, and objectives. ERM addresses several types of risk, including operational, security, strategic, legal, financial, and compliance risk. This scenario is an example of operational risk, which threatens the day-to-day activities required for a company to operate. Security risk threatens a company's physical or digital assets, such as inadequate controls over sensitive customer information stored on network servers. Strategic risk threatens a company's long-term plan. Legal risk threatens a company if it faces a lawsuit or penalty of any sort. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved January 10, 2024, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 2024 HS ICDC ENTREPRENEURSHIP EXAM—KEY 9 
+
+65. Which of the following is an example of an external risk a business may face: 
+A. Damaged equipment
+B. Poor infrastructure
+C. Economic trends
+D. Employee performance
+
+65. C
+Economic trends. External risks are those that come from outside of an organization, which it has no control over. External risks include economic trends, competition in the market, government regulation, and consumer taste changes. Internal risks are risks within a company that it has the power to prevent or mitigate. Examples of internal risks include employee performance, damaged equipment, and poor infrastructure. 
+SOURCE: RM:094 Assess business risks
+SOURCE: Beers, B. (2022, October 31). How do modern companies assess business risk? Retrieved January
+10, 2024, from https://www.investopedia.com/ask/answers/061015/how-do-modern-companiesassess-business-risk.asp 2024 HS ICDC ENTREPRENEURSHIP EXAM—KEY 17 
+
+94. Which of the following is a disadvantage of enterprise risk management practices: 
+A. They only identify risks a company is not aware of.
+B. They lead to more unexpected risks.
+C. They increase redundant processes and employee satisfaction.
+D. They rely heavily on management estimates and inputs.
+
+94. D
+They rely heavily on management estimates and inputs. Enterprise risk management (ERM) is an organizationwide strategy to identify, assess, and prepare for potential dangers and hazards that may harm or interfere with an organization's finances, operations, and objectives. A disadvantage of ERM is that it relies heavily on management estimates and inputs, which sometimes can be very difficult to accurately predict. ERM identifies risk that a company has been exposed to in the past, and is thus limited in identifying future risk that a company is not yet aware of. ERM benefits a business because it leads to less unexpected risks and greater employee satisfaction, while reducing or even eliminating redundant processes. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved January 10, 2024, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 2024 HS ICDC ENTREPRENEURSHIP EXAM—KEY 24 
+
+95. Which of the following is an example of a location risk: 
+A. Employee injuries
+B. Fires
+C. Earthquakes
+D. Power outages
+
+95. C
+Earthquakes. Location risks are any type of hazard risks businesses may encounter due to their location. For example, in the United States, companies based in the west coast are more susceptible to earthquakes, whereas companies near the Gulf of Mexico or the Pacific Coast are more susceptible to hurricanes. Fires are an example of building risks. Employee injuries are an example of human risks. Power outages are an example of technology risks. 
+SOURCE: RM:056 Identify business risks
+SOURCE: Davis, M. (2023, July 31). Identifying and managing business risks. Retrieved January 10, 2024,
+from https://www.investopedia.com/articles/financial-theory/09/risk-management-business.asp 
+
+7. The first step of assessing risk is to 
+A. identify hazards.
+B. confirm that hazards have been eliminated.
+C. monitor controls.
+D. determine the likelihood of harm.
+
+7. A
+Identify hazards. The first step of assessing risk is to identify any potential hazards that could affect your organization. Hazards have the potential to cause harm, and risk is the likelihood of that harm being realized. Confirming that hazards have been eliminated, monitoring controls, and determining the likelihood of harm are steps that follow the identification of hazards. 
+SOURCE: RM:094 Assess business risks
+SOURCE: Canadian Centre for Occupational Health and Safety. (2023, June 13). Hazard and risk. Retrieved
+October 3, 2023, from https://www.ccohs.ca/oshanswers/hsprograms/hazard/risk_assessment.html 
+
+59. The Lyle Group is incorporating an enterprise risk management (ERM) plan to better manage its risk this year. The Lyle Group should include its finalized ERM plan in its __________ to make the information available to all stakeholders. 
+A. annual report
+B. quarterly projections
+C. balance sheet
+D. annual budget
+
+59. A
+Annual report. Enterprise risk management allows corporations to identify risks and decide which risks to manage. They should include their finalized ERM plans in their annual reports to make the information available to all their stakeholders. The annual budget, balance sheets, and quarterly projections are financial documents that do not deal with risk management. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What it is and how it works.
+Retrieved October 3, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 
+
+78. Which of the following is a true statement regarding the relationship between risk and business objectives: 
+A. Risks help businesses determine objectives.
+B. The more objectives a business has, the less risk it faces.
+C. Objectives should never be modified because of risk.
+D. Effective business objectives are not risky.
+
+78. A
+Risks help businesses determine objectives. When businesses are determining their objectives, they must consider risks related to these objectives and ensure that these risks are manageable. Objectives should be modified because of risk. If a new risk threatens a business objective, it should be changed to accommodate that risk. Business objectives almost always have at least some risk associated with them. Finally, the number of objectives is not necessarily related to the amount of risk. 
+SOURCE: RM:044 Discuss the relationship between risk and business objectives
+SOURCE: Pike, R. (2018, October 31). Building a bridge between risk management and business objectives.
+Retrieved October 3, 2023, from https://www.finance-monthly.com/2018/10/building-a-bridgebetween-risk-management-and-business-objectives/ ENTREPRENEURSHIP EXAM—KEY 19 
+
+42. To reduce the risk of loss due to fire or power outages, a financial business should protect its computer data by 
+A. monitoring data-transmission rates.
+B. using encryption techniques.
+C. implementing an authorization process.
+D. conducting backup procedures.
+
+42. D
+Conducting backup procedures. Backup procedures involve duplicating computer entries, records, and transactions on a regular basis and storing the duplicate files in a different location. By having backup files, the business can retrieve information that might be lost due to a computer crash, a power outage, or a fire. Encryption is the process of transforming information into a secret code so that only the recipient can read it. An authorization process is a way to limit the access to certain information. Using encryption techniques, implementing an authorization process, and monitoring data-transmission rates are not ways in which a business can protect its computer data from loss due to fire or power outages. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Ward, S. (2019, July 23). How successful companies backup data. Retrieved August 8, 2023, from
+https://www.liveabout.com/data-backup-is-the-best-data-protection-2947129 FINANCE CLUSTER EXAM—KEY 10 
+
+55. A business risks losing its good reputation if it 
+A. provides accurate information to stockholders.
+B. encourages employees to report questionable behavior.
+C. uses questionable tactics to achieve profitability.
+D. requires new suppliers to provide credit information.
+
+55. C
+Uses questionable tactics to achieve profitability. A business that continuously "pushes the limit" by using questionable tactics to earn or show profits may get a poor reputation. Customers may become distrustful of the business and decide to purchase elsewhere. Providing accurate information to stockholders, encouraging employees to report questionable or potentially unethical behavior, and requiring new suppliers to provide credit information are ethical actions and are less likely to damage a business's reputation than the use of questionable tactics. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: Zeiger, S. (2019, March 11). Effects of a lack of ethics on a business environment. Retrieved August
+8, 2023, from https://smallbusiness.chron.com/effects-lack-ethics-business-environment-23332.html FINANCE CLUSTER EXAM—KEY 13 
+
+59. Knowing that a bad storm is coming, a company shuts down a construction site so no one will be hurt by the bad weather. This is an example of what risk control technique? 
+A. Loss prevention
+B. Separation
+C. Avoidance
+D. Duplication
+
+59. C
+Avoidance. Avoidance is a risk response strategy that involves choosing not to do something that is considered risky. In the example, the company chooses not to risk the safety of workers on the construction site during the storm. Duplication is a risk control technique that involves creating a backup plan. Separation is a risk control technique that involves dividing assets so not all are affected by the same issue. Loss prevention accepts a risk but aims to minimize, rather than eliminate, the loss. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Kenton, W. (2023, May 4). Risk control: What it is, how it works, example. Retrieved August 8, 2023,
+from https://www.investopedia.com/terms/r/risk-control.asp FINANCE CLUSTER EXAM—KEY 14 
+
+87. A benefit of enterprise risk management is that it gives companies the opportunity to 
+A. consider risks in a positive way.
+B. focus on risks by department.
+C. respond to events as they happen.
+D. take a reactive approach to problem-solving.
+
+87. A
+Consider risks in a positive way. Enterprise risk management focuses on both the downside and the upside of risks. Businesses must take risks to be successful, so utilizing an effective enterprise risk management program gives them the opportunity to take advantage of these risks in the most effective, strategic, and calculated way. In this way, risk leads to increased growth and opportunity. Taking a reactive approach to problem-solving, responding to events as they happen, and focusing on risks by department are components of traditional risk management and are not always beneficial. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved August 8, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 
+
+99. When a business actively takes steps to ensure that it is complying with safety standards, its goal is to reduce 
+A. property disputes.
+B. social responsibility.
+C. liability exposure.
+D. fraudulent activity.
+
+99. C
+Liability exposure. Businesses are morally obligated to be cautious and behave in ways that are not harmful to others. A business that takes steps to ensure that its facilities are safe tends to run a lower risk of liability exposure (e.g., lawsuits, damaged reputation, and financial loss). Complying with safety standards does not reduce a business's obligation to be socially responsible. Fraudulent activity involves dishonest behavior such as theft. Property disputes are conflicts associated with the use or ownership of land and buildings. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Hakim Law Group. (2019, December 12). How to effectively reduce liability exposure of your
+business. Retrieved August 8, 2023, from https://hakimlawgroup.com/how-to-effectively-reduceliability-exposure-of-your-business/ FINANCE CLUSTER EXAM—KEY 23 
+
+2. Carter is usually the last person to leave his office. Occasionally, he forgets to set the security alarm when he leaves. This situation results in risks related to 
+A. product liability.
+B. conflicts of interest.
+C. fairness.
+D. security.
+
+2. D
+Security. Businesses are vulnerable to security threats such as theft and robbery—especially when employees are not careful to take the necessary precautions against them. Failing to set the alarms exposes a business to security risks. This example is not related to product liability, conflicts of interest, or fairness. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+31. Which of the following is an example of ethical risk management: 
+A. Reviewing invoices
+B. Having a strong legal team
+C. Asking for a raise
+D. Ensuring product safety
+
+31. D
+Ensuring product safety. Companies need to consider the ethics of product safety. Many products carry the risk of harming or injuring customers—therefore companies must practice ethical risk management by protecting the customer as much as possible. Asking for a raise and reviewing invoices are normal business practices, but they are not necessarily related to risk management. Having a strong legal team is a risk management practice but is not necessarily ethical because a strong legal team does not always act in the best interest of customers. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+2024 HS ICDC FINANCE CLUSTER EXAM—KEY 8 
+
+36. Businesses can obtain __________ insurance to limit their exposure in situations where they are held legally responsible. 
+A. renter’s
+B. disability
+C. liability
+D. life
+
+36. C
+Liability. Professional liability insurance is a type of insurance that provides financial protection for certain types of professionals, such as doctors, nurses, lawyers, architects, and accountants. The purpose of the insurance is to reduce the risk of financial loss to the individual and to the company for whom they work if a client or patient sues them. The purpose of disability insurance is to cover people who cannot work for long periods of time due to illness or injury. Renter’s insurance is a type of property insurance that covers the policyholder’s belongings without covering their physical household or dwelling. Life insurance is a type of insurance that offers a beneficiary compensation upon the death of the policyholder. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Kagan, J. (2022, June 21). Liability insurance. Retrieved December 21, 2023, from
+https://www.investopedia.com/terms/l/liability_insurance.asp 
+
+56. Enterprise risk management goes beyond traditional risk management by addressing 
+A. accounting discrepancies.
+B. each risk one-by-one.
+C. issues within specific departments.
+D. non-insurable risks.
+
+56. D
+Non-insurable risks. Within traditional risk management, an organization only looks at things that are insurable. Enterprise risk management (ERM) goes beyond insurable risks and addresses hazards that cannot be mitigated through insurance. Examples include data risks and reputational risks. Addressing accounting discrepancies is a more specialized task that would be the responsibility of the financial department. While ERM can address issues within specific departments, this is also a task performed by traditional risk management. Enterprise risk management also manages issues that span the entire organization. Because ERM is a more comprehensive and proactive approach to risk management, it does not have to address issues one-by-one. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Williams, C. (2019, September 24). 8 ways enterprise risk management is different (and better) than
+traditional risk management. Retrieved January 2, 2024, from https://strategicdecisionsolutions.com/traditional-risk-management-erm-differences/ 
+
+67. What can businesses do to better protect online accounts and databases? 
+A. Monitor network speeds
+B. Use secure passwords
+C. Send daily risk reports to the authorities
+D. Monitor employee internet use
+
+67. B
+Use secure passwords. To reduce the risk of unauthorized access to confidential information, businesses often maintain secure passwords to allow authorized employees to view secured information. It is unnecessary for companies to send daily risk reports to the authorities. Monitoring network speeds can help increase efficiency, not security. Monitoring employee internet use is often impractical and can pose numerous ethical and legal risks. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Ten Six. (2018, February 1). What risk management technology should you use? Retrieved
+December 21, 2023, from https://tensix.com/what-risk-management-technology-should-you-use/ 2024 HS ICDC FINANCE CLUSTER EXAM—KEY 17 
+
+72. Which of the following situations is a potential internal risk to a business: 
+A. Climate change
+B. Supply chain disruptions
+C. Use of outdated technology
+D. Cybercrime
+
+72. C
+Use of outdated technology. Outdated technology poses several risks to businesses. In addition to the risk of falling behind its competitors, outdated technology can cause safety hazards for employees and result in major operational setbacks. Supply chain disruptions, climate change, and cybercrime are all external risks to businesses. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Smolinski, I. (2023, November 29). External risks: How to define them. How to fight them. Retrieved
+December 21, 2023, from https://www.pnc.com/insights/corporate-institutional/gain-marketinsight/external-risks-how-to-define-them-how-to-fight-them.html 
+
+77. Which of the following is a challenge of implementing enterprise risk management (ERM): 
+A. Employees in different departments have different understandings of risk.
+B. Enterprise risk management does not proactively address risks.
+C. Patents, copyrights, and trademarks are not included in the ERM framework.
+D. Enterprise risk management deals primarily with relationships among employees.
+
+77. A
+Employees in different departments have different understandings of risk. A challenge to implementing enterprise risk management (ERM) is that people in various departments have different definitions and understandings of risk. Employees need to be on the same page for ERM to be successful, so a group of employees from across the organization should collaborate to form a common definition of risk. Enterprise risk management is proactive, rather than traditional risk management, which is reactive. ERM does not deal with employee relationships. Risks are not usually related to relationships among employees; there are many types of risks related to all aspects of an organization. Legal business protections, such as patents, copyrights, and trademarks, are included within the enterprise risk management framework. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM). Retrieved January 2, 2024,
+from https://www.investopedia.com/terms/e/enterprise-risk-management.asp 
+
+86. Properly training employees on safety procedures is an effective way for companies to limit their __________ liability exposure. 
+A. product
+B. customer
+C. employee
+D. fiduciary
+
+86. C
+Employee. Employee-liability exposure is the total risk businesses face from employees who have suffered a job-related injury, illness, or other adversity. Businesses can limit this risk by training and educating their employees on safety procedures. Training employees on safety procedures is not related to product-, fiduciary-, or customer-liability exposure. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Buckner, S. (2023, August 15). An employer’s liability for employee’s acts. Retrieved December 21,
+2023, from https://www.findlaw.com/smallbusiness/liability-and-insurance/an-employer-s-liability-foremployee-s-acts.html 
+
+92. Which of the following situations is a potential external risk to a business: 
+A. An employee is injured on the job.
+B. The inflation rate changes over time.
+C. Management delays approval for the yearly budget.
+D. An inaccurate inventory count leads to missing products.
+
+92. B
+The inflation rate changes over time. Inflation is an external, macroeconomic phenomenon that can have a major impact on companies and the economy as a whole. Inflation can pose risks to businesses by altering the habits of consumers and devaluing the business’s liquid assets. An injured employee, an inaccurate inventory count, and budget delays are all examples of internal risks to a business. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Smolinski, I. (2023, November 29). External risks: How to define them. How to fight them. Retrieved
+December 21, 2023, from https://www.pnc.com/insights/corporate-institutional/gain-marketinsight/external-risks-how-to-define-them-how-to-fight-them.html 
+
+35. What is a potential negative consequence to a business that fails to manage risk by implementing an ethics training program for employees? 
+A. Damaged reputation
+B. Decreased conflict
+C. Inflated profit margins
+D. Increased credit rating
+
+35. A
+Damaged reputation. The purpose of an ethics training program is to advise employees about the business's expectations in relation to workplace behavior. When employees don't have a clear understanding of the business's expectations, they put the business at risk. Employees who do not follow the business's ethics guidelines may cross a legal line without knowing they have done so. If employees cross ethical lines, and perhaps break the law, the business may obtain a poor reputation. When a business experiences a poor or damaged reputation, customers may start buying from the business's competitors, which reduces the business's sales and profits. Unethical behavior increases the risk of workplace conflict. If the business is unable to pay its debts, the business's credit rating is likely to decrease. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+42. How can a company limit the chance that it will face lawsuits for negligence? 
+A. Purchase captive insurance
+B. Implement risk management strategies
+C. Hire lawyers to find loopholes in regulations
+D. Limit its interaction with customers
+
+42. B
+Implement risk management strategies. Risk management is the planning, controlling, preventing, and limiting of business losses and enhancing possibilities for gain. It involves preparing for risks including those that might result in a lawsuit. If a business implements risk management strategies ahead of time, it will be less likely to face a lawsuit for negligence. Limiting interactions with customers is not realistic for a business. Hiring lawyers to find loopholes in regulations is not ethical and will not limit the chance that the company will face lawsuits. Finally, purchasing captive insurance can assist a company when it does face lawsuits, but it does not limit the chance of lawsuits occurring in the first place. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Kaufman, G. (2015). Risk management: Avoiding a lawsuit. Retrieved September 29, 2023, from
+http://convention.asbsd.org/wp-content/uploads/Risk-Management-Avoiding-a-Lawsuit.pdf FINANCE CLUSTER EXAM—KEY 11 
+
+59. What is one way that companies can reduce the risks associated with unethical behavior? 
+A. Establishing rewards for ethical behavior
+B. Training only top-level executives on ethics
+C. Making it difficult to report unethical conduct
+D. Implementing complex, intricate guidelines
+
+59. A
+Establishing rewards for ethical behavior. Ethics can help mitigate risks, whereas unethical behavior brings more risk. One way to reduce risks is by establishing rewards for ethical behavior. These will encourage a culture of ethics. All employees should be trained on ethics, not just top-level executives. Companies should make it easy and comfortable to report unethical conduct, rather than making it difficult to do so. Finally, clear, easy-to-understand ethical guidelines should be implemented. 
+SOURCE: RM:041 Explain the role of ethics in risk management
+SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+63. A company installs automatic sprinklers in all of its facilities. Which of the following techniques is the company using to combat the internal threat of fire: 
+A. Loss prevention
+B. Loss avoidance
+C. Loss reduction
+D. Risk transfer
+
+63. C
+Loss reduction. Loss reduction is a form of risk control. Risk control methods are used to reduce or minimize loss. Loss reduction lessens the impact of a loss after it occurs. For instance, although the automatic sprinklers won't prevent a fire from starting, they will lessen the impact that the fire has on the company's buildings. Companies utilize loss avoidance when they choose not to take part in risky activity. Loss prevention focuses on stopping certain losses from occurring. Companies transfer risk by purchasing insurance and entering into contracts that transfer the risk to others. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Insuranceopedia. (2023, June 9). Loss reduction. Retrieved September 29, 2023,
+from https://www.insuranceopedia.com/definition/2795/loss-reduction 
+
+69. The Kramer Pharmaceutical Company lists the possible side effects of its nighttime cold medicine on the bottle's label and exterior packaging. By disclosing this information, the company is reducing risks associated with 
+A. mechanical product defects.
+B. product returns.
+C. product recalls.
+D. inadequate product warnings.
+
+69. D
+Inadequate product warnings. Though specifications vary by product type, businesses must provide adequate information about their products. For example, pharmaceutical companies must advise consumers about a medication's dosage, ingredients, side effects, and possible negative interactions with food, other medications, alcohol, etc. Businesses that do not appropriately label their products increase their risks of lawsuits in relation to inadequate product warnings. Medications are not mechanical in nature. Product recalls occur when quality issues are detected after the products are released for sale. When this occurs, businesses take steps to retrieve those goods to reduce the consumers' exposure to safety risks. A product return is the process by which buyers return defective or unwanted goods to the seller. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Shoop. (2023, August 4). The role of warning labels in product liability cases. Retrieved September
+
+72. Cyrus uses a methodology of risk management in his organization that takes a top-down, company-wide approach when preparing for possible hazards. This strategy is called __________ risk management. 
+A. traditional
+B. ad hoc
+C. medium
+D. enterprise
+
+72. D
+Enterprise. Enterprise risk management is a top-down business activity that involves planning, controlling, preventing, and procedures used by management to limit company losses. This approach considers risk management from the perspective of the entire, comprehensive organization rather than by distinct business units, which is characteristic of traditional risk management. Ad hoc and medium risk management are fictitious terms. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved September 29, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp FINANCE CLUSTER EXAM—KEY 18 
+
+78. What risk is being avoided when financial institutions use cloud computing? 
+A. Pure risk
+B. Speculative risk
+C. Loss of customers risk
+D. Return on investment risk
+
+78. D
+Return on investment risk. Cloud computing keeps businesses from having to invest in computer hardware, such as servers, and software, thereby avoiding return on investment risk. Instead, businesses pay a provider only for the services that they use—much like paying an electric bill. The contract with the provider can be ended at any time. Customers will probably receive better service since the business is not having down time when its computers malfunction. Speculative risk is the chance of loss or gain. Pure risk exists when, if something happens, it will result in a loss. 
+SOURCE: RM:042 Describe the use of technology in risk management
+SOURCE: Coles, C. (2015, June 22). 11 advantages of cloud computing and how your business can benefit
+from them. Retrieved September 29, 2023, from https://cloudsecurityalliance.org/blog/2015/06/22/11advantages-of-cloud-computing-and-how-your-business-can-benefit-from-them 
+
+54. Which of the following actions can the LBS Company take to control risk that is associated with external factors: 
+A. Implement business policies
+B. Update customer data
+C. Review compliance requirements
+D. Maintain intranet security
+
+54. C
+Review compliance requirements. Risk is the possibility of loss. Many internal and external factors affect the business's level of risk. Because risk affects the business's financial well-being, it must take steps to minimize risk. The government implements regulations, which are external factors that affect the business. It is important for the business to understand and keep up with the regulations that affect the way the business operates. If the business fails to comply with the regulations, it could be subject to penalties and fines, which can be very costly to the business. Updating customer data, maintaining intranet security, and implementing business policies are ways that the business controls its internal risks. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Kenton, W. (2023, May 4). Risk control. Retrieved August 4, 2023, from
+https://www.investopedia.com/terms/r/risk-control.asp HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 13 
+
+9. Enterprise risk management deals with several types of risk. For example, it addresses a hurricane damaging a company's warehouse where inventory is stored. This scenario describes what type of risk? 
+A. Compliance
+B. Financial
+C. Legal
+D. Operational
+
+9. D
+Operational. Enterprise risk management (ERM) is a top-down strategy to identify and prepare for hazards with an organization’s operations, finances, and objectives. Operational risks threaten the day-to-day activities required for a company to operate, such as natural disasters that damage company warehouses. Legal risks threaten a company should the company face a lawsuit or penalty for dispute, regulatory, or contractual issues. Compliance risks threaten a company due to a violation of external law. Financial risks threaten the debt or financial standing of a company. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved November 28, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 3 
+
+15. Risk management is different from risk control in that risk management 
+A. aims to increase risk.
+B. is a type of risk treatment.
+C. identifies, analyzes, and treats risks.
+D. involves implementing automations to reduce risk.
+
+15. C
+Identifies, analyzes, and treats risks. Risk management refers to the process of identifying, analyzing, and treating risks. Risk control involves implementing procedures, policies, and automations to reduce risk. Risk control is a type of risk treatment. Risk management uses risk control as a way to treat identified risks. Neither risk management nor risk control aims to increase risk. 
+SOURCE: RM:058 Discuss the nature of risk control (i.e., internal and external)
+SOURCE: Spacey, J. (2017, April 14). Risk management vs. risk control. Retrieved November 28, 2023, from
+https://simplicable.com/risk/risk-management-vs-risk-control 
+
+92. Why has enterprise risk management developed? 
+A. Declining quality standards
+B. The elimination of certain insurance plans
+C. Reduced government regulation
+D. An increasingly diverse array of risks
+
+92. D
+An increasingly diverse array of risks. In the past, risks were managed through the purchase of insurance. However, companies have begun to manage many different types of risks that need to be managed on a broader level. Enterprise risk management is now a plan-based strategy that is incorporated throughout an organization. Enterprise risk management has not developed due to the elimination of certain insurance plans, reduced government regulation, or declining quality standards. 
+SOURCE: RM:062 Discuss the nature of enterprise risk management (ERM)
+SOURCE: Hayes, A. (2022, September 7). Enterprise risk management (ERM): What is it and how it works.
+Retrieved September 27, 2023, from https://www.investopedia.com/terms/e/enterprise-riskmanagement.asp HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 22 
+

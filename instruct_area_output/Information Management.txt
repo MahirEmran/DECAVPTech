@@ -1,0 +1,2108 @@
+3. Which of the following is a potential risk involved with information management: 
+A. Higher interest rates
+B. Increased use of outsourcing
+C. Privacy and security issues
+D. Increased competition
+
+3. C
+Privacy and security issues. Dealing with privacy and security issues is a potential risk involved with information management. Companies have a responsibility to protect their clients from identity theft as well as to protect them from getting unwanted spam and junk mail. An information management program that is not running effectively may put clients' information at risk. Appropriate information management will not necessarily prevent increased use of outsourcing, increased competition, or higher interest rates. In fact, increased use of outsourcing and increased competition are considered trends of information management, not risks. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+24. William is thinking about getting a new smartphone, so he logged on to a well-known website to read others' opinions and experiences with different types of smartphones that are currently on the market. William is reading internet product reviews to 
+A. determine which company has the best phone plan.
+B. compare the prices of smartphones from various online stores.
+C. make an informed buying decision.
+D. reaffirm his recent purchasing selection.
+
+24. C
+Make an informed buying decision. The internet has revolutionized the ways in which business is conducted. The internet provides customers with the ability to obtain product information in a variety of ways—from business websites, blogs, newsfeeds, and consumer information websites. In the example, William is doing research to find out how other users like different smartphones before he makes a decision about the one that he wants to buy. William will likely visit various smartphone retailers to get product specifications and pricing before making his decision. Although phone plans are often a factor when making a mobile-phone purchasing decision, there is not enough information provided to determine whether phone plans will affect William's buying decision. William hasn't purchased his smartphone yet, so he can't reaffirm his recent purchase. 
+SOURCE: NF:086 Describe the scope of the Internet
+SOURCE: Smith, C. (2023, January 1). Making informed purchasing decisions. Retrieved August 9, 2023, from
+https://www.lifestyle.social/ethical-consumerism-making-informed-purchasing-decisions 
+
+25. The most efficient way to obtain the current interest rates on certificates of deposit purchased through Main Street Community Bank is to 
+A. visit the bank's website.
+B. go to the bank to get a product brochure.
+C. make an appointment with a bank teller.
+D. call the bank's financial officer.
+
+25. A
+Visit the bank's website. Because many businesses post and update product information on their websites, their customers can access information they need 24 hours a day, seven days a week. Many customers obtain product information from websites because it is quick, convenient, accurate, and secure. A bank's financial officer does not usually take routine customer-service calls and may not be available to take a customer's call. Customers usually do not need to make appointments with bank tellers. Driving to the bank to get a product brochure is not as efficient as visiting the bank's website. Because the interest rates for financial products change, product brochures may not contain the most current rates. 
+SOURCE: NF:078 Obtain needed information efficiently
+SOURCE: Myers, B., & Tretheway, C. (2023, July 13). What is the interest rate on my savings
+account? Retrieved August 9, 2023, from https://www.fool.com/the-ascent/banks/what-is-mysavings-interest-rate 
+
+34. Which of the following symbols placed before a word in a search-engine query field will exclude the word from the search: 
+A. Number sign
+B. Exclamation point
+C. Minus sign
+D. Quotation marks
+
+34. C
+Minus sign. Placing the minus sign (-) before a word entered in the query field will exclude the word from the search. For example, if an individual wanted to conduct a search for information about cars but doesn't want information about Ford cars, they enter the query [cars -Ford]. To search for an exact phrase, the user should place quotation marks around the phrase (e.g., "AMC cars"). Exclamation points (!) and the number sign (#) are not symbols that exclude a word from a web search. 
+SOURCE: NF:006 Demonstrate basic web-search skills
+SOURCE: Google. (2023). Refine Google searches. Retrieved August 9, 2023, from
+https://support.google.com/websearch/answer/2466433?hl=en&visit_id=6382719560222333371116728321&rd=1 
+
+36. One of the advantages to businesses of using spreadsheet software is its ability to 
+A. do calculations.
+B. create visuals.
+C. store information.
+D. write brochures.
+
+36. A
+Do calculations. Businesses often use spreadsheet software to organize and prepare financial documents, such as budgets and profit statements. One of the advantages of using spreadsheet software is its ability to do mathematical calculations. A business can input columns and rows of dollar amounts or percentages, and the software will complete the computations accurately and quickly. Also, businesses can change various figures to determine the effect a planned price increase would have on profit. Word-processing software is used to write brochures. Graphics software is used to create visuals. Database software is used to store information. 
+SOURCE: NF:010 Demonstrate basic spreadsheet applications
+SOURCE: Natter, E. (2019, January 25). The advantages and disadvantages of spreadsheets. Retrieved
+August 9, 2023, from https://smallbusiness.chron.com/advantages-disadvantages-spreadsheets26551.html BUSINESS ADMINISTRATION CORE EXAM—KEY 9 
+
+38. Gina has been called into a meeting while composing an important email message. So Gina will not need to delete and retype the message after the meeting, she should save the message as a 
+A. reply.
+B. draft.
+C. postscript.
+D. flagged response.
+
+38. B
+Draft. Saving a message as a draft allows the sender to save the message, change or add text, and send the message at a more convenient time. The reply function allows a message recipient to respond to a sender's message. Flagging an email reminds the message recipient to follow-up with the message at a later time. A postscript is a short message added to a letter after the letter has been signed. Senders sometimes add postscripts to their email messages, too. 
+SOURCE: NF:004 Demonstrate basic e-mail functions
+SOURCE: Computer Hope. (2022, October 18). What is the purpose of a draft e-mail? Retrieved August 9,
+2023, from https://www.computerhope.com/issues/ch002284.htm 
+
+53. The basic structure of a web page is typically dictated by 
+A. JavaScript.
+B. CDML.
+C. online visitors.
+D. HTML.
+
+53. D
+HTML. HTML, or HyperText Markup Language, is the basic language that provides the structure for a web page. HTML is then modified and enhanced by other technologies and languages such as JavaScript. CDML is not a type of web language. The basic structure of a web page is not dictated by online visitors. 
+SOURCE: NF:042 Create and post basic web page
+SOURCE: Cox, L.K. (2021, July 21). Coding for web design 101: How HTML, CSS, and JavaScript work.
+Retrieved August 9, 2023, from https://blog.hubspot.com/marketing/web-design-html-cssjavascript#sm.001qvoxy11ebkfnptoy1u7m9vr7lb 
+
+56. Determine if the following statement is true or false: Groupware applications often stimulate workplace creativity. 
+A. False; the groupware application only allows users to update numerical data on shared documents.
+B. True; groupware allows users to share and brainstorm ideas that may improve work processes.
+C. False; the primary focus of groupware is to communicate policies and procedures to users.
+D. True; groupware streamlines the work effort, so users have more time for social interaction.
+
+56. B
+True; groupware allows users to share and brainstorm ideas that may improve work processes. Groupware applications allow several people to interact from remote locations in many ways. Interaction may include sharing written and verbal information, solving problems, making decisions, and brainstorming new ideas, which is a creative-thinking technique. Groupware streamlines the work effort, which allows users to complete their work more efficiently. Engaging in social interaction and communicating policies and procedures are not the primary uses of groupware applications. 
+SOURCE: NF:011 Demonstrate collaborative/groupware applications
+SOURCE: Gliffy. (2022, May 26). What is groupware and how do teams use it to collaborate? Retrieved August
+9, 2023, from https://www.gliffy.com/blog/groupware 
+
+79. A company's computer network allows many users to access the same programs on different computer units throughout the company. What type of computer operating system is the company using? 
+A. Augmented
+B. Hosted
+C. Multiprocessing
+D. Multithreading
+
+79. C
+Multiprocessing. The computer's operating system consists of the components needed to run all of the computer applications and programs. An operating system that allows several central processing units (computers) to access a single program has multiprocessing capabilities. Multithreading capabilities allow different components of one computer program to run at the same time. Augmented and hosted are not types of operating systems. 
+SOURCE: NF:085 Use basic operating systems
+SOURCE: Beal, V. (2022, April 14). Operating system. Retrieved August 9, 2023, from
+https://www.webopedia.com/definitions/operating-system/ BUSINESS ADMINISTRATION CORE EXAM—KEY 18 
+
+99. To learn objective information about a news topic, you should 
+A. read opinion columns in the newspaper.
+B. rely on a single news source for information.
+C. distrust the national news media.
+D. compare numerous different sources.
+
+99. D
+Compare numerous different sources. By gathering and comparing information from many different news sources, you can distinguish fact from bias more easily—allowing you to learn about a topic as objectively as possible. It's not a good idea to rely on a single news source for information, since that source may be biased. Opinion columns in the newspaper are inherently biased because they are personal opinions rather than fact. It is unnecessary to distrust the national news media to learn objective information about a news topic. 
+SOURCE: NF:079 Evaluate quality and source of information
+SOURCE: PressBooks. (n.d.). News as a source. Retrieved August 9, 2023, from
+https://ohiostate.pressbooks.pub/choosingsources/chapter/news-as-a-source/ BUSINESS ADMINISTRATION CORE EXAM—KEY 
+
+8. Effective information management means retaining and evaluating information that is 
+A. encrypted.
+B. accurate.
+C. interesting.
+D. positive.
+
+8. B
+Accurate. To make business decisions, companies access, store, maintain, and evaluate a variety of information. To make appropriate decisions, companies need to make sure the information that they are basing their decisions upon is accurate and relevant. Encryption is the process of transforming information into a secret code so that only the recipient can read it. Not all information needs to be encrypted. While positive and interesting information about the company is useful, it is more important that the information is honest and accurate. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+17. Quantitative data are different than qualitative data in that quantitative data are 
+A. collected by interviewing and observing.
+B. sometimes analyzed using thematic analysis.
+C. gathered by measuring and counting.
+D. subjective and dynamic.
+
+17. C
+Gathered by measuring and counting. Quantitative data are information based on numbers, statistics, or hard facts. Qualitative data are information based on thoughts, feelings, experiences, or opinions, and are descriptive and nonstatistical in nature. Quantitative data are gathered by measuring and counting, while qualitative data are collected by interviewing and observing. Quantitative data are fixed and universal, whereas qualitative data are subjective and dynamic. Quantitative data are analyzed using statistical analysis. Qualitative data are analyzed by various techniques, including thematic analysis and narrative analysis. 
+SOURCE: NF:139 Explain the principles of data analysis
+SOURCE: Stevens, E. (2023, May 9). Quantitative vs qualitative data: What's the difference? Retrieved January
+30, 2024, from https://careerfoundry.com/en/blog/data-analytics/difference-between-quantitative-andqualitative-data 
+
+41. An accountant is looking to track their company’s spending history. What type of digital technology would be most helpful? 
+A. Spreadsheet
+B. The internet
+C. GPS application
+D. Word processor
+
+41. A
+Spreadsheet. A spreadsheet is a type of software used to organize, calculate, and analyze numerical data. Because spreadsheets can help organize and synthesize large amounts of information, they are especially useful in accounting. The internet would not be a useful or reliable source of information for an internal accounting process. A word processor is used to create text documents. A GPS (Global Positioning System) is useful for tracking the physical location of something and is not useful for financial information. 
+SOURCE: NF:003 Identify ways that technology impacts business
+SOURCE: LAP-NF-003—TECH-tastic (Technology's Impact on Business)
+
+45. Which of the following best describes prescriptive data: 
+A. They identify the best course of action.
+B. They predict what will happen.
+C. They determine why the problem has occurred.
+D. They define the problem.
+
+45. A
+They identify the best course of action. The first step of turning research findings into actionable insights is to recognize the different types of data analytics you're working with. These can include descriptive, diagnostic, predictive, and prescriptive data. Prescriptive data identify the best course of action. Descriptive data define the problem, while diagnostic data determine why the problem has happened. Predictive data predict what will happen. 
+SOURCE: NF:216 Translate research findings into actionable business recommendations
+SOURCE: Pickering, C. (2017, July 18). 3 steps to turn analytics into actionable insights. Retrieved January 30,
+2024, from https://www.copyright.com/blog/turn-analytics-actionable-insights 
+
+55. Gabriela works in the finance department of her business. She is responsible for maintaining information related to furniture, equipment, vehicles, and other objects her business needs to carry out day-to-day functions. Gabriela is responsible for maintaining the company’s __________ records. 
+A. promotional
+B. personnel
+C. payroll
+D. asset
+
+55. D
+Asset. Asset records are used by businesses to keep track of furniture, equipment, and other assets that enable businesses to operate. Payroll records include what businesses have paid employees and the deductions that have been made, as well as details like an employee's identification number, hours worked, regular wages, and overtime wages. Promotional records are documents containing information about the various types of communications that businesses use to inform, persuade, or remind customers of their products, images, or ideas. An employee's personnel record includes information about their hiring, evaluations, promotions, and reprimands. This information can help businesses make decisions regarding promotions or terminations. 
+SOURCE: NF:001 Describe the nature of business records
+SOURCE: LAP-NF-001—Record It (Business Records)
+
+57. If Field wants to evaluate the validity of a source he wants to use for his research paper, he should check the author's 
+A. salary.
+B. social media presence.
+C. credentials.
+D. political affiliation.
+
+57. C
+Credentials. Credentials are information about a person’s skills, abilities, and qualifications. If Field wants to evaluate the validity of a source, he should check the author's credentials to be sure they are qualified to write about the topic. An author's social media presence, salary, and political affiliation are not necessarily indications of an author’s qualifications and a source’s validity. 
+SOURCE: NF:079 Evaluate quality and source of information
+SOURCE: Cooper, M. (2020). How to determine the validity of a research article. Retrieved January 30, 2024,
+from https://classroom.synonym.com/evaluate-research-articles-5040509.html 2024 HS ICDC BUSINESS ADMINISTRATION CORE EXAM—KEY 13 
+
+64. Which of the following statements about ethics in data mining is true: 
+A. Data collected with customer consent can be made publicly available.
+B. It is ethical to collect someone's personal data without their consent.
+C. Good intentions with data analysis ensure a positive outcome.
+D. Companies must exercise transparency when collecting, storing, and using data.
+
+64. D
+Companies must exercise transparency when collecting, storing, and using data. Data mining is the process of searching, collecting, and analyzing large amounts of data to extract actionable information. Companies that are ethical with their data mining practices exercise transparency when collecting, storing, and using data. Simply, customers know how companies plan to collect, store, and use their information. Before data is collected, customers must consent to it. It is unethical to collect someone's personal data without their consent. Companies that are ethical ensure the privacy of the data they collect. Even if a customer consents for their personal information to be collected, stored, and analyzed, that doesn't mean they want it made available publicly. Ethical data mining practices ensure the privacy of customer information. Even when intentions with data analysis are good, inadvertent harm to individuals or groups of people is still possible. Companies can't know for certain the impact of their data analysis until it is complete. However, ethical data mining practices help companies consider this question beforehand and can help them catch any potential occurrences of disparate impact. 
+SOURCE: NF:150 Discuss the importance of ethics in data mining
+SOURCE: Cote, C. (2021, March 16). 5 principles of data ethics for business. Retrieved January 30, 2024, from
+https://online.hbs.edu/blog/post/data-ethics 
+
+76. Which of the following is a demographic businesses might identify as a result of conducting an environmental scan: 
+A. Consumer spending habits
+B. New regulations
+C. Unemployment rate
+D. Population shift
+
+76. D
+Population shift. Demographics are physical and social characteristics of a certain group. This includes changes in the overall population of the group, which businesses can glean from environmental scans. The unemployment rate and consumer spending habits are economic factors. New regulations are political factors. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+
+88. If Phil wants to create, store, and print a typed document, what software should he use? 
+A. PowerPoint
+B. Excel
+C. Photoshop
+D. Word
+
+88. D
+Word. A word processor is a program with the capability to create, store, and print a typed document. One of the most popular word processors available today is Microsoft Word. Microsoft PowerPoint is a software program that allows users to create slideshows to present information. Microsoft Excel is a spreadsheet application that allows users to organize and analyze data. Adobe Photoshop is a photo editing, graphic design, and image creation software. 
+SOURCE: NF:007 Demonstrate basic word processing skills
+SOURCE: Computer Hope. (2021, July 6). Word processor. Retrieved January 29, 2024, from
+https://www.computerhope.com/jargon/w/word-processor.htm 
+
+92. When creating an outline, the information in the first heading should have the same significance as the information in the second heading. This best describes what component of creating an effective outline? 
+A. Subordination
+B. Coordination
+C. Division
+D. Parallelism
+
+92. B
+Coordination. When creating an outline, coordination means ensuring all the information in the first heading should have the same significance as the information in the second heading. This also applies to subheadings. For example, if the first heading is “Benefits of creating an outline,” the second heading should follow the same format, such as “Disadvantages of creating an outline.” Parallelism refers to headings having a parallel structure (e.g., if the first heading is a verb, the second heading should be a verb). Subordination refers to information in headings being more general, while information in subheadings should be more specific. Division refers to each heading being divided into two or more parts. 
+SOURCE: NF:080 Apply information to accomplish a task
+SOURCE: Purdue OWL. (2024). Four main components for effective outlines. Retrieved January 29, 2024, from
+https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/index.html 
+
+8. Which of the following is a capability of a presentation software program: 
+A. Copying and printing documents
+B. Connecting several computers
+C. Calculating mathematical data
+D. Combining animation and sound
+
+8. D
+Combining animation and sound. Presentation software programs give the user the capability of presenting information by combining graphics, text, animation, photographs, and sound. Presentation software can be used to create slide programs, overhead transparencies, multimedia presentations, etc. This software enables users to develop visual presentations that are lively, colorful, and appealing to viewers. Presentation software programs are typically not used to connect several computers, copy and print documents, or calculate mathematical data. 
+SOURCE: NF:008 Demonstrate basic presentation applications
+SOURCE: Awati, R. (2023, May). Presentation software. Retrieved October 3, 2023, from
+https://www.techtarget.com/whatis/definition/presentation-software-presentation-graphics 
+
+10. An advantage to a business that uses intranet capabilities is that it allows employees to share the business's information with 
+A. former employees.
+B. each other.
+C. customers.
+D. competitors.
+
+10. B
+Each other. An intranet is an internal network of computers within an organization that allows employees to access and share information. Intranet systems benefit businesses because employees can view, transmit, and share information across departments, divisions, or branches. For example, an intranet may allow sales staff, purchasing staff, and warehouse staff to view the inventory status of the business's products simultaneously. This is important because each department works with the business's products in different ways. The intranet system allows each department to monitor the business's inventory levels to perform the work. The intranet provides employees access to the same information at any given time, and helps the business run efficiently. Intranet systems often contain confidential information and are not shared with competitors, customers, and former employees. 
+SOURCE: NF:083 Explain the role of information systems
+SOURCE: Picincu, A. (n.d.). The advantages of implementing a corporate intranet. Retrieved October 3, 2023, from
+https://work.chron.com/advantages-implementing-corporate-intranet-3285.html BUSINESS ADMINISTRATION CORE EXAM—KEY 3 
+
+39. Appropriate information management helps a business build a good reputation by 
+A. eliminating all mistakes.
+B. being consistent.
+C. offering quality products.
+D. charging high prices.
+
+39. B
+Being consistent. Appropriate information management helps a business build a good reputation by being consistent. When businesses manage information correctly, they are more consistent and credible, two main ingredients of a good reputation. Appropriate information management will not necessarily eliminate all potential mistakes. Information management does not necessarily relate to pricing or product selection. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+43. Using words such as “and,” “or,” and “not” when searching online allows you to 
+A. use the stem of a word to search for variations of the word.
+B. combine different search terms in various ways to find more targeted results.
+C. find terms that are near each other rather than right next to each other.
+D. look for your term anywhere within a web page or article.
+
+43. B
+Combine different search terms in various ways to find more targeted results. Boolean operators are words such as “and,” “or,” and “not” that allow you to combine different search terms in various ways to find more targeted results. Adjacency searching allows you to find terms that are near each other rather than right next to each other. Keyword searches look for your term anywhere within a page or article. Truncation involves using the stem of a word and allowing for any variations of that word. 
+SOURCE: NF:078 Obtain needed information efficiently
+SOURCE: University of Leeds Library. (2023). Develop a search strategy. Retrieved October 3, 2023, from
+https://library.leeds.ac.uk/info/1404/literature_searching/14/literature_searching_explained/4#activatesearching_with_keywords 
+
+51. One way that technological innovation has changed business is by decreasing the use of 
+A. skilled workers.
+B. phone systems.
+C. paper forms.
+D. electronic mail.
+
+51. C
+Paper forms. Technological innovation is greatly reducing the need for paper forms because much of the information that previously was stored and transmitted on paper is now being sent by computer. Businesses often send emails rather than letters or printed documents. Various types of databases store vast amounts of data that once were housed in file cabinets. Computerized invoices enable businesses to send bills and receive payment without the need for printed forms. As technology continues to advance, the need for paper forms will continue to decrease. Technological innovation has increased the use of skilled workers. Technological innovation has not decreased the use of phone systems for all businesses and has increased the use of electronic mail (email) for most businesses. 
+SOURCE: NF:003 Identify ways that technology impacts business
+SOURCE: LAP-NF-003—TECH-tastic (Technology's Impact on Business)
+BUSINESS ADMINISTRATION CORE EXAM—KEY 12 
+
+54. Which of the following is an example of an integrated software application: 
+A. URL
+B. Point-of-sale
+C. Java
+D. SMS
+
+54. B
+Point-of-sale. There are many point-of-sale software applications that enable businesses to perform a variety of functions beyond the point of sale. Some of these functions include placing orders, controlling inventory, placing special orders, etc. SMS is an abbreviation for short messaging service and is used to send text messages on a variety of cell phones. Java is a computer-programming language. URL or uniform resource locator is the website's address. 
+SOURCE: NF:088 Use an integrated business software application package
+SOURCE: McDermott, K. (2023, September 25). What is a POS system? An in-depth exploration. Retrieved
+October 3, 2023, from https://www.softwareadvice.com/resources/what-is-a-point-of-sale-system 
+
+65. Which of the following would most likely appear in an email message subject line: 
+A. Letter123.docx
+B. Dear Tracy
+C. Your Confirmation Number
+D. www.infotrack.com
+
+65. C
+Your Confirmation Number. The subject line of an email message should advise the recipient about the nature of the message content. Email users often receive several messages a day. If the message subject line does not catch the reader's attention or does not relate to specific needs, the recipient might not read the message. Email subject lines should be short, informative, specific and, if appropriate, catchy. The option, "www.infotrack.com" is a website address. "Dear Tracy" is a salutation and is used to greet or address the recipient of the letter. "Letter123.docx" is a computer file from a word processing program. 
+SOURCE: NF:004 Demonstrate basic e-mail functions
+SOURCE: Intuit Mailchimp. (2001-2023). Best practices for email subject lines. Retrieved October 3, 2023, from
+https://mailchimp.com/help/best-practices-for-email-subject-lines 
+
+79. Dara is using Google to locate information about her research report topic. She is using a search 
+A. machine.
+B. engine.
+C. technology.
+D. group.
+
+79. B
+Engine. Search engines (such as Google, Yahoo, or Bing) find web pages that correspond to the phrases, key words, or topics you enter. If Dara searches for her research report topic, she will receive results that correspond to that topic. Search engines are not referred to as machines, technologies, or groups. 
+SOURCE: NF:006 Demonstrate basic web-search skills
+SOURCE: Kimmons, J. (2020, September 29). What is a search engine? Retrieved October 3, 2023, from
+https://www.liveabout.com/search-engine-2867354 
+
+80. Ingrid is able to access information from her desktop publishing software, word processing software, and spreadsheet software at the same time on her personal computer. This is an example of an operating system with __________ capabilities. 
+A. multitasking
+B. multiuser
+C. multiprocessing
+D. multithreading
+
+80. A
+Multitasking. The computer's operating system consists of the components needed to run all of the computer applications and programs. When the operating system allows the user to open and use more than one software program at a time, it has multitasking abilities. An operating system that allows more than one user to access a particular program at one time has multiuser capabilities. An operating system that allows several central processing units (computers) to access a single program has multiprocessing capabilities. Multithreading capabilities allow different components of one computer program to run at the same time. 
+SOURCE: NF:085 Use basic operating systems
+SOURCE: Beal, V. (2022, April 14). Operating system. Retrieved October 3, 2023, from
+https://www.webopedia.com/definitions/operating-system 
+
+92. While preparing the company's annual report in a word processing program, Natasha deleted an entire paragraph by mistake. The best way for Natasha to correct the mistake is to 
+A. use the undo command.
+B. create a template.
+C. copy the text from another document.
+D. retype the paragraph.
+
+92. A
+Use the undo command. The undo command allows the computer user to "undo" a previous action, such as deleting text by mistake. Although it is possible to retype the paragraph or to copy the text from another document that contains the text, these actions are not as quick and easy as using the undo command. A template is a standard format that helps users develop documents. 
+SOURCE: NF:007 Demonstrate basic word processing skills
+SOURCE: Microsoft. (2023). Undo, redo, or repeat an action. Retrieved October 3, 2023, from
+https://support.microsoft.com/en-us/office/undo-redo-or-repeat-an-action-84bdb9bc-4e23-4f06-ba78f7b893eb2d28 BUSINESS ADMINISTRATION CORE EXAM—KEY 21 
+
+12. Holly, Jamar, and Ricki are working on a project together, even though they are geographically far away from each other. They use the internet to work on documents together, share files, and communicate quickly and easily. What type of software are Holly, Jamar, and Ricki using? 
+A. Groupware
+B. Spyware
+C. Freeware
+D. Shareware
+
+12. A
+Groupware. Groupware is specialized software that allows users to work on documents together, share files, and communicate quickly and easily. While some groupware requires users to collaborate through an intranet, much of today's groupware is internet-based, allowing group members in multiple locations to work together online. Many Web 2.0 tools such as Google Apps are groupware applications. Shareware is essentially sample software. It gives consumers an opportunity to try software free of charge before purchasing it. Because it is merely a sample, the shareware is likely to be limited in functionality or time. Spyware is malicious software installed on computers to gather users' personal information. Freeware is software available at no cost to consumers. 
+SOURCE: NF:011 Demonstrate collaborative/groupware applications
+SOURCE: Gliffy. (2022, May 26). What is groupware and how do teams use it to collaborate? Retrieved August
+3, 2023, from https://www.gliffy.com/blog/groupware 
+
+15. Lamont Enterprises is using a trademark that looks very similar to the Seward Company's trademark. To prevent Lamont from continuing to use the trademark, Seward can take legal action by 
+A. obtaining an arrest warrant.
+B. charging Lamont with obstruction of justice.
+C. filing an infringement lawsuit against Lamont.
+D. requiring Lamont to pay a licensing fee.
+
+15. C
+Filing an infringement lawsuit against Lamont. A trademark is a symbol, design, or word used by a producer to identify a good or service. To prevent unauthorized use of the trademark (or a similar trademark), the trademark owner should register the trademark with the government. If another company (Lamont) uses a trademark that is similar to one that has been previously registered (Seward), the original owner (Seward) can file an infringement lawsuit against the company (Lamont) to stop the unauthorized use. And in some situations, the owner can obtain monetary damages from the unauthorized user. Directly asking Lamont to pay a fee is not a legal action. Obstruction of justice is a formal charge in which the judicial system accuses an individual with the crime of withholding critical evidence that can affect the outcome of a trial. An arrest warrant is an order issued by a judge that instructs law-enforcement officers to bring to jail an individual who has been charged with a crime. 
+SOURCE: NF:076 Explain legal issues associated with information management
+SOURCE: Nolo. (2023). Is it trademark infringement? Retrieved August 3, 2023, from
+https://www.nolo.com/legal-encyclopedia/is-it-trademark-infringement 
+
+38. Which of the following is the primary purpose of word processing software programs: 
+A. To store business records
+B. To arrange numerical data
+C. To maintain tables of data
+D. To create text documents
+
+38. D
+To create text documents. The primary purpose of word processing software programs is to create text documents, although some have limited graphic capabilities. Businesses use word processing software programs to write letters, memos, reports, business plans, sales contracts, etc. There are many different word processing software programs available that enable businesses to create, edit, and store important text documents. Although many word processing programs allow users to develop tables and include numerical data, these functions are not the primary purpose of word processing software programs. Spreadsheet software programs are used to organize numerical information. Database software programs are used to maintain various types and tables of data, such as important business records. 
+SOURCE: NF:007 Demonstrate basic word processing skills
+SOURCE: Microsoft. (2023). What is a word processor? Retrieved August 3, 2023, from
+https://www.microsoft.com/en-us/microsoft-365/word/word-processor 
+
+41. Vanessa is putting procedures into practice so her business records will not be lost in an office fire. She is practicing which tip of good recordkeeping? 
+A. Use a system
+B. Pick a style
+C. Prevent errors
+D. Avoid hazards
+
+41. D
+Avoid hazards. Vanessa is applying the good-recordkeeping tip of "avoid hazards" by putting procedures into practice to keep her records from being lost in an office fire. She is not practicing the tips of "use a system" or "pick a style." "Prevent errors" is not a good-recordkeeping tip—although it is a good practice in any business task. 
+SOURCE: NF:001 Describe the nature of business records
+SOURCE: LAP-NF-001—Record It (Business Records)
+BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 10 
+
+44. Which of the following measures of central tendency is the most influenced by outliers at the extremes of a data set: 
+A. Mode
+B. Mean
+C. Median
+D. Range
+
+44. B
+Mean. The mean, often referred to as the “average” of a data set, is calculated by adding together the values of all items in a data set and then dividing by the number of items. This number can be heavily influenced by outliers because it uses all items in its calculation. Median refers to the item in a data set that occurs in the middle when the items are listed by value from the lowest to the highest. Therefore, median is much less affected by outliers than the mean. Mode refers to the item that occurs the most frequently in a data set. Since outliers, by definition, occur less frequently, they do not affect the mode. Range is the difference between the item of highest value and the item of lowest value in the data set. It is not a measure of central tendency. 
+SOURCE: NF:093 Interpret statistical findings
+SOURCE: Bhandari, P. (2023, June 21). Central tendency | Understanding the mean, median & mode.
+Retrieved August 3, 2023, from https://www.scribbr.com/statistics/central-tendency/ 
+
+68. Which of the following data change activities is considered a best practice: 
+A. Leaving an old system intact until its replacement is completely up and running
+B. Only keeping one copy of all data and systems to reduce redundancy
+C. Planning for data change processes to occur during normal business hours
+D. Keeping data change processes hidden from employees until they are completed
+
+68. A
+Leaving an old system intact until its replacement is completely up and running. The safest way to implement data change is to keep the old systems in place, untouched, until the new systems are completely ready for use. This prevents complete loss of data if the new system suddenly fails during transfer or if something else goes wrong. It's also a good idea to keep multiple copies of anything that is critical to the company's daily activities, such as servers, networks, hardware, and storage systems. You can never have too much redundancy when it comes to data change. It would be unwise to keep data change processes hidden from employees until they are completed, since the changes may affect employees' daily work life. To avoid interrupting normal workflow, major system changes should never be scheduled to occur during normal business hours. 
+SOURCE: NF:264 Adhere to data change best practices
+SOURCE: Kutner, Y. (2021, May 3). Five steps to successful technology change management. Retrieved
+August 4, 2023, from https://www.forbes.com/sites/forbestechcouncil/2021/05/03/five-steps-tosuccessful-technology-change-management BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 16 
+
+95. A project manager must extend the due date of a project activity by three days. What project-management software application will enable the project manager to make the change? 
+A. Reporting
+B. Scheduling
+C. Budgeting
+D. Publishing
+
+95. B
+Scheduling. Scheduling involves setting time limits for the completion of work. If a project activity requires more time, then the project manager documents the change in the scheduling application of the software program. Desktop publishing software is used to lay out text and images to create a digital file that is suitable for desktop or commercial printing. Reporting applications summarize various types of data. Businesses use budgeting software to estimate their income and expenses. 
+SOURCE: NF:130 Utilize project-management software
+SOURCE: BrightHub PM. (2022). The best 5 project scheduling software - Review of free and paid options.
+Retrieved August 4, 2023, from https://www.brighthubpm.com/software-reviews-tips/2492-the-topfive-project-scheduling-software-programs BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 22 
+
+18. When handling client information, Madison makes sure to keep the information secure. Madison is practicing proper __________ management. 
+A. mid-level
+B. marketing
+C. customer data
+D. supply chain
+
+18. C
+Customer data. Customer data management (CDM) is the practice of collecting, securing, and managing a database of customer information for the purpose of protecting customer data and improving a company’s overall processes. By securing her client information, Madison is practicing proper customer data management. Supply chain management is the process of overseeing the flow of products, information, and finances, from raw materials to finished products. Marketing management is a focus on all marketing functions, including channel management, marketing-information management, pricing, product/service management, promotion, and selling. Mid-level management is performed by managers who report to top-level management and who have supervisors who report to them. 
+SOURCE: NF:002 Maintain customer records
+SOURCE: Funk, L. (2022, August 23). Customer data management: 8 ways to manage and protect your
+customer data. Retrieved September 29, 2023, from https://www.zendesk.com/blog/8-wayseffectively-manage-customer-data/ 
+
+51. Which of the following is a data change best practice: 
+A. Store data in multiple locations
+B. Avoid regular audits of datasets
+C. Properly train employees on the data change
+D. Don't waste time making history logs of data
+
+51. C
+Properly train employees on the data change. When there is a change in data in an organization, it is important for the organization to properly train employees on the data change. Not doing so can lead to confusion and mistakes. Other common data change best practices include conducting regular audits of datasets, maintaining history logs of data, and storing data in a central location (rather than multiple locations) to ensure everyone is accessing the same information. 
+SOURCE: NF:264 Adhere to data change best practices
+SOURCE: Spector, E. (2023, April 12). 6 best practices to improve change management at scale. Retrieved
+October 11, 2023, from https://www.heap.io/blog/6-best-practices-to-improve-change-managementat-scale 
+
+62. An advantage that internal data have over external data is that internal data are always more __________ than external data. 
+A. accessible
+B. comprehensive
+C. impartial
+D. accurate
+
+62. A
+Accessible. One of the biggest advantages of internal data is that they are readily available for analysis. The ability to make quick decisions is enhanced by almost-instant access to information. Internal data are not necessarily more accurate or impartial than external data. The accuracy and impartiality of data depends on the validity and dependability of the sources providing the data. Internal data are usually less comprehensive than external data because external data comprise all sources of information outside a business, including data from the internet, other businesses, and academic studies. 
+SOURCE: NF:014 Monitor internal records for business information
+SOURCE: Lido. (2023). Managing internal and external data to optimize your business. Retrieved September
+29, 2023, from https://www.lido.app/post/internal-and-external-data 
+
+85. Which of the following statements about project management software is true: 
+A. It is used to track assignments.
+B. It does not track hours worked.
+C. It is challenging for remote employees to use.
+D. It improves communication but slows production.
+
+85. A
+It is used to track assignments. Project management software is used to track assignments as well as the numbers of hours worked by a team on projects. Project management software is especially useful for companies that have remote employees because it provides a digital space for collaboration. Project management software improves both communication and production. 
+SOURCE: NF:130 Utilize project-management software
+SOURCE: Johnson, S. (2023, April 28). How project management software can improve your business.
+Retrieved October 11, 2023, from https://www.businessnewsdaily.com/15883-project-managementsoftware.html 
+
+88. Tyreek's recent data change request was approved by his company's administration. As a result, what should Tyreek be sure to do? 
+A. Update data in all locations for consistency
+B. Keep the information to himself
+C. Print a copy of the new data
+D. Delete all files with old data
+
+88. A
+Update data in all locations for consistency. Tyreek should be sure to update data in all locations for consistency. Doing so will prevent anyone in the company from using the previous data. Tyreek should not delete all files with old data; rather, he should keep files of those data in case he or someone else in the company needs to reference them. Tyreek should not keep the information to himself. Printing a copy of the new data would not make sure it is updated in all locations for others to use. 
+SOURCE: NF:264 Adhere to data change best practices
+SOURCE: Miya, A., & Rogers, M. (2020, December 14). Four data management best practices. Retrieved
+October 11, 2023, from https://www.searchdiscovery.com/blog/4-data-management-best-practices 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 21 
+
+94. Which of the following tools might be used by a business to store information about people, products, or transactions: 
+A. Stock screener
+B. Database
+C. Consensus scale
+D. Social media
+
+94. B
+Database. A database is a virtual storage unit for information, including information about people, products, and transactions. Social media are any forms of electronic communications through which users build communities, network, share information, etc. A stock screener is an online tool for investors that filters stock choices using a predetermined set of criteria. A consensus scale is a tool used to measure each group member’s feelings toward a proposed decision or solution. 
+SOURCE: NF:141 Access information in the database system
+SOURCE: Microsoft. (2023). Database basics. Retrieved November 8, 2023, from
+https://support.microsoft.com/en-au/office/database-basics-a849ac16-07c7-4a31-99483c8c94a7c204 
+
+10. Which of the following is an accurate statement about how customer records should be maintained: 
+A. Since customer information changes frequently, it is important to enable any employee to update customer
+records. B. It's not necessary to collect full records on customers because a quick internet search can easily discover
+any missing information. C. Customers' addresses and phone numbers change frequently, so customer records should only be updated
+every three years. D. Companies should avoid adding suppliers and competitors to customer records because it reduces the
+
+10. D
+Companies should avoid adding suppliers and competitors to customer records because it reduces the accuracy of those records. Adding suppliers and competitors to customer records could cause confusion. Supplier and competitor information should be stored in separate records where the information can be used effectively. The process of updating customer information should be limited to a few employees to ensure that changes are made accurately and that the information is kept confidential. Information changes frequently, so customer records should be updated at least once a year to maintain accurate information. Information found on the internet may not be reliable, so complete records should be created by asking the customer to provide the necessary information. 
+SOURCE: NF:002 Maintain customer records
+SOURCE: Entrepreneur. (2023). Sales records. Retrieved September 21, 2023, from
+https://www.entrepreneur.com/encyclopedia/sales-records 
+
+16. As a result of conducting an environmental scan, a business might find that the rate of unemployment is slowly increasing, which is an example of a(n) __________ factor. 
+A. regulatory
+B. economic
+C. geographic
+D. political
+
+16. B
+Economic. An environmental scan is an analysis of external forces that influence a business's success. The fluctuation of unemployment rates is an economic factor because unemployment has an effect on consumers' ability to buy goods and services. If consumers are unemployed, they do not have income to spend. As a result, businesses do not sell as much because consumers are not buying. When this situation occurs, businesses often reduce expenses in an attempt to stay in business until the rate of employment starts to rise again. The rate of unemployment is not a geographic, political, or regulatory factor. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+
+36. A company is making big changes to its database. When should the company make these changes? 
+A. After work hours or when employees have downtime
+B. Never—changes should not be made to a database.
+C. At the beginning of the work week
+D. Over the employees' lunch breaks
+
+36. A
+After work hours or when employees have downtime. Database changes should be made at a time that is the most convenient for employees, such as after work hours or when they have downtime. That way, employee work will have minimum disruptions. Changes need to be made to databases from time to time. These changes should not take place just as employees are beginning their work week. They should also not be made over lunch breaks, since changes may take much longer than the length of a break. 
+SOURCE: NF:264 Adhere to data change best practices
+SOURCE: Unitrends. (n.d.). Routine SQL database maintenance is essential for the smooth and fast backup
+SharePoint operation. Retrieved September 21, 2023, from https://helpdesk.kaseya.com/hc/engb/articles/4407520626833-Routine-SQL-database-maintenance-is-essential-for-the-smooth-andfast-backup-SharePoint-operation37. 
+
+61. What technological advancement has made project management software accessible no matter where employees are located? 
+A. Augmented reality
+B. Radio frequency identification
+C. Cloud computing
+D. Automation
+
+61. C
+Cloud computing. Cloud-based systems started gaining popularity around 2010, allowing employees to access their company's data and software from anywhere. Augmented reality is a technology that superimposes a computer-generated image on a user's view of the real world, while automation is the use of largely automatic equipment in a manufacturing or other type of process. Radio frequency identification technology uses radio waves to identify people or objects. Augmented reality, automation, and radio frequency identification are not technologies that make software accessible no matter where employees are located. 
+SOURCE: NF:130 Utilize project-management software
+SOURCE: Chai, W. (2022). Cloud computing. Retrieved October 14, 2023, from
+http://searchcloudcomputing.techtarget.com/definition/cloud-computing 
+
+65. Which of the following is true of internal record maintenance: 
+A. It is important solely for tax purposes.
+B. It helps you determine your profit.
+C. All records must be kept for the life of the business.
+D. It isn't necessary for new or small companies.
+
+65. B
+It helps you determine your profit. If you don't pay attention to or maintain records, you'll have no idea how much your business is selling or where you're losing money. It's important to maintain good records so you can determine your profit. Records help you keep track of sales, prices, and inventory, all of which help you determine how much money your business is actually making. Record maintenance isn't just important for tax purposes—it's helpful with all aspects of business planning! Internal record maintenance is important for all companies, whether they're big, small, new, or old. In fact, record maintenance can help a small company identify opportunities and grow into a larger company. While it's important to keep some records indefinitely (income tax returns, for example), some records only need to be kept for a much shorter amount of time. For example, there's no need to keep every receipt forever. 
+SOURCE: NF:014 Monitor internal records for business information
+SOURCE: IRS. (2023, March 22). Why should I keep records? Retrieved September 21, 2023,
+from https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keep-records 
+
+86. Records that contain information about a business's monetary transactions and money are most likely to be __________ records. 
+A. asset
+B. tax
+C. budget
+D. financial
+
+86. D
+Financial. Financial records are documents containing information related to the amount of money going into and out of a business. Asset records are documents that track the value of something a business owns. Budget records relate to a business's forecasted income and expense, and tax records are documents about monies that individuals and businesses must pay to the government. 
+SOURCE: NF:001 Describe the nature of business records
+SOURCE: LAP-NF-001—Record It (Business Records)
+
+26. If a marketer is looking to gather data from a company's sales team, what information can they expect to find? 
+A. Updates on current trends in the marketing industry
+B. Who the company's current and potential customers are
+C. What products competitors are currently offering
+D. The cost of goods, services, and raw materials
+
+26. B
+Who the company's current and potential customers are. A company's sales team generates a great deal of useful data for marketers, as salespeople keep records that can show marketers things such as who the company's current and potential customers are, what current and potential customers want, and data about completed sales. Updates on current trends in the marketing industry would not come from a sales team, but from the news, online publications, blogs, or trade journals. Data about what products competitors are currently offering comes from observing what competitors are doing. The cost of goods, services, and raw materials are data that come from a vendor or distributor. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012—Data Do It (Need for Marketing Data)
+
+56. Arthur's boss asked him to study his company's sales data from the previous five years to see if there were any trends. After his research, Arthur presented his findings to his boss along with his predictions for the future. This is an example of the process of 
+A. customer retention.
+B. data mining.
+C. the selling process.
+D. competitive analysis.
+
+56. B
+Data mining. Data mining is the process of sorting through data to discover underlying connections and predict future trends. By studying his company's sales data from the previous five years, Arthur was engaging in data mining—not the selling process, competitive analysis, or customer retention. The selling process is the process used by salespeople to convince customers to make a purchase. Competitive analysis involves researching a company's competitors and comparing the competition's strengths and weaknesses to the company's strengths and weaknesses. The overarching activity of customer retention is not generally defined by a single process. 
+SOURCE: NF:148 Discuss the nature of data mining
+SOURCE: Twin, A. (2023, April 15). What is data mining? Retrieved August 11, 2023, from
+https://www.investopedia.com/terms/d/datamining.asp ENTREPRENEURSHIP EXAM—KEY 14 
+
+62. Which of the following types of data analysis suggests a future course of action: 
+A. Instructive analytics
+B. Prescriptive analytics
+C. Predictive analytics
+D. Descriptive analytics
+
+62. B
+Prescriptive analytics. Prescriptive analysis is a form of predictive analysis. Predictive analysis attempts to predict possible future outcomes. Prescriptive analysis takes it further and suggests one or more future courses of action, based on the predictions of possible future outcomes. Descriptive analysis, on the other hand, summarizes what has already happened by making raw data easy to understand and useful. Instructive analytics is not a form of data analysis. 
+SOURCE: NF:139 Explain the principles of data analysis
+SOURCE: Insightsoftware. (2023, February 17). Comparing descriptive, predictive, prescriptive, and diagnostic
+analytics. Retrieved August 11, 2023, from https://insightsoftware.com/blog/comparing-descriptivepredictive-prescriptive-and-diagnostic-analytics/ 
+
+73. The observation method of collecting marketing research data involves 
+A. watching what customers do.
+B. conducting online surveys.
+C. test marketing new products.
+D. calling customers on the phone.
+
+73. A
+Watching what customers do. Observation is a marketing research method that gathers data by watching customers. This can be carried out by using cameras, by assigning people to watch customers' actions, or by using scanners that record what customers buy. Test marketing new products is part of the experiment method of collecting data. Calling customers on the phone and surveying them over the internet are part of the survey method of collecting data. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
+
+79. What are important considerations in establishing hardware/software specifications for a business? 
+A. Capabilities, compatibility, reliability, and cost
+B. Strategic planning, training, upgrades, and cost
+C. User needs, mobility, delivery terms, and technical support
+D. Security, social media policies, performance, and licensing
+
+79. A
+Capabilities, compatibility, reliability, and cost. Businesses establish specifications for selecting hardware/software systems to provide consistency and compatibilities among users; to maintain a clean, productive system/network environment; to enable the computer system to grow with evolving technology; and to provide a basis for maintaining system operability and reliability. Important considerations in establishing hardware/software specifications include user needs, capabilities, ease of use, compatibility, mobility, technical support, security, performance, cost, licensing, reliability, upgrades/updates, and training. While delivery terms, social media policies, and strategic planning may be considered at some point in establishing specifications or selecting specific hardware/software, they are not significant considerations in establishing hardware/software specifications. 
+SOURCE: NF:091 Establish specifications for selecting hardware/software systems
+SOURCE: Business Filings. (2020, March 16). Assessing computer needs for your business. Retrieved August
+11, 2023, from https://www.bizfilings.com/toolkit/research-topics/office-hr/assessing-computerneeds-for-your-business 
+
+83. What type of information in a company's CRM system can help a company determine a customer's product preferences? 
+A. Customer's prior purchases
+B. Customer's name
+C. Customer's preferred payment method
+D. Customer's address
+
+83. A
+Customer's prior purchases. A CRM system can keep records of sales history, which can help a company determine a customer's product preferences. CRM systems also store many other types of data such as a customer's contact and payment methods. A customer's name, address, or preferred payment method provides very few clues to determine their product preferences. 
+SOURCE: NF:014 Monitor internal records for business information
+SOURCE: Startups. (2022, April 14). Why keeping customer records could be instrumental in your business'
+success. Retrieved August 11, 2023, from https://startups.co.uk/why-keeping-customer-recordscould-be-instrumental-in-your-business-success/ 
+
+68. A business uses marketing research to determine its typical customer’s age, income, education, spending patterns, and social media use. This is an example of how marketing research can be used to 
+A. maintain a corporate brand.
+B. forecast sales and trends.
+C. develop consumer profiles.
+D. analyze business sales.
+
+68. C
+Develop consumer profiles. Marketing research is the systematic gathering, recording, and analyzing of data about a specific issue, situation, or concern. Marketing research is used to solve specific marketing problems as well as to identify problems that may or may not be readily apparent. For example, a business may use marketing research to determine its typical customer’s age, income, education, spending patterns, and social media use to develop a profile of the typical customer. Marketing research can be used to analyze business sales, forecast sales and trends, and maintain a corporate brand, but these are not demonstrated in this example. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
+
+76. Which of the following statements about business records is true: 
+A. Security measures must be taken to protect business records.
+B. Access to business records must be shared across a company.
+C. Business records should never be destroyed.
+D. All business records in the modern age are digital.
+
+76. A
+Security measures must be taken to protect business records. Business records are documents containing information about a business’s operations and finances—what it has done with its resources and opportunities. Companies have a responsibility to protect consumers’ private information and need to understand that data breaches present a very real business risk. Access to sensitive or confidential information such as customers’ or employees’ personal information needs to be controlled. Physical records can be secured with locked, controlled physical access. Digital records should be protected with passwords and encryption. Not all business records are digital, even in the modern age. Access to business records should not be shared across a company—only with those who need access. Sometimes it is appropriate to archive or destroy business records. 
+SOURCE: NF:001 Describe the nature of business records
+SOURCE: LAP-NF-001—Record It (Business Records)
+
+78. Unemployment rates, investor confidence, and stages of the business cycle are __________ factors that businesses should pay attention to during an environmental scan. 
+A. demographic
+B. economic
+C. technological
+D. societal
+
+78. B
+Economic. Six main categories of information are generally included in an environmental scan: demographics, society and culture, competition, government, technology, and the economy. The economy greatly affects businesses and the decisions they must make to satisfy customers and remain profitable. Economic factors that businesses should pay attention to during an environmental scan include unemployment rates, investor confidence, and stages of the business cycle. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+
+88. Marketers often use data to make sure customers are receiving the level of after-sales service they expect. This is an example of how marketing data can be used to 
+A. identify problems or issues.
+B. make budgeting decisions.
+C. make predictions or forecasts.
+D. develop pricing strategies.
+
+88. A
+Identify problems or issues. Marketers use data to keep an eye out for problems and issues in areas like customer service, vendors/suppliers, salespeople, and the product itself. For example, marketers want to make sure customers are receiving expected levels of after-sales service, and they use data to confirm this is the case. Marketers use data to make budgeting decisions, develop pricing strategies, and make predictions, but these are not necessarily related to customers and customer service. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012—Data Do It (Need for Marketing Data)
+
+4. Which of the following is an example of a demographic trend: 
+A. Shifting political climates
+B. Rising interest rates
+C. The aging of the population
+D. A concern for fitness and health
+
+4. C
+The aging of the population. The aging of the population is a demographic trend since it refers to demographic data (age). Shifting political climates is a governmental or political trend. Rising interest rates is an economic trend. A concern for fitness and health is a social/cultural attitude. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+
+9. Company B's management has determined that it must downsize. Three people in the customer service department will lose their jobs. Which of the following records can management use to help them determine which employees to keep: 
+A. Production records
+B. R&D records
+C. Human resources records
+D. Inventory records
+
+9. C
+Human resources records. A company's human resources records include employee attendance as well as notes (positive or negative) about each employee's performance. Production records would not be helpful in evaluating customer service employees because those employees do not work in the part of the company that produces the products. R&D records are not helpful because customer service employees do not work in research and development. Inventory records track the products in the warehouse, which is not the responsibility of the customer service department. 
+SOURCE: NF:014 Monitor internal records for business information
+SOURCE: Management Study Guide. (n.d.). Personnel records. Retrieved October 2, 2023, from
+https://www.managementstudyguide.com/personnel-records.htm ENTREPRENEURSHIP EXAM—KEY 3 
+
+11. What type of software do many businesses require be installed on computer systems as a security feature? 
+A. Firewall
+B. Media
+C. Reality
+D. Spider
+
+11. A
+Firewall. Firewall software is intended to prevent unauthorized access to a computer network. Many businesses require firewall software to be installed on their computer systems because their systems are networked, and hackers could destroy or steal valuable data. Firewall software is a security feature that helps protect a business's computer network. Businesses do not install reality, spider, or media software as a security feature. 
+SOURCE: NF:012 Determine venture's information technology needs
+SOURCE: Cisco. (n.d.). What is a firewall? Retrieved October 2, 2023, from
+https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html 
+
+56. Why is it important for businesses to obtain marketing information about economic conditions, political systems, and technological changes throughout the world? 
+A. To understand geography
+B. To remain competitive
+C. To eliminate trade quotas
+D. To import products
+
+56. B
+To remain competitive. Today's business environment is becoming more global in nature. To remain competitive in this environment, businesses need up-to-date marketing information about a variety of issues such as economic conditions, political systems, and technological changes throughout the world. Frequently, businesses in one part of the world make decisions that affect their customers in other parts of the world. To be able to make the right decisions and stay competitive, the businesses need marketing information about conditions in those areas. Businesses do not gather marketing information about conditions throughout the world to understand geography, import products, or eliminate trade quotas. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012—Data Do It (Need for Marketing Data)
+ENTREPRENEURSHIP EXAM—KEY 14 
+
+64. Which of the following is a true statement about the steps in the marketing-research process: 
+A. The business can leave out some of the steps in marketing research in certain situations.
+B. The order of the steps in marketing research can be changed to suit the business.
+C. The steps in marketing research must follow a certain order, and none can be eliminated.
+D. The amount of data being gathered affects the steps in the marketing-research process.
+
+64. C
+The steps in marketing research must follow a certain order, and none can be eliminated. This is a primary characteristic of marketing research. The business must follow a systematic, step-by-step research process that includes gathering, recording, and analyzing data, in that order. This is true no matter how much or how little data are being gathered. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
+
+91. To determine how research data relate to the questions that have been raised, the researcher must __________ the situation. 
+A. survey
+B. observe
+C. experiment with
+D. analyze
+
+91. D
+Analyze. The collected data must be analyzed, or interpreted, in order to be useful. Data by themselves are just a collection of facts, which might not be meaningful. Observation gathers data, surveying asks questions, and experimentation tests cause and effect. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
+ENTREPRENEURSHIP EXAM—KEY 22 
+
+7. Information management should ensure that information is 
+A. retrievable.
+B. pleasant.
+C. inaccessible.
+D. abundant.
+
+7. A
+Retrievable. Information management should ensure that information is retrievable. This means that people who need it can access it when necessary. Information management does not and cannot ensure that information is abundant or pleasant. Information should be inaccessible only to those who shouldn't be able to see it. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+23. The economy is part of a business's __________ environment. 
+A. tangible
+B. physical
+C. external
+D. internal
+
+23. C
+External. The external environment is a business's external, uncontrollable surroundings. The external environment consists of elements such as the economy, demographics, society and culture, etc. The internal environment would include items like inventory, research and development, and capital. Tangible items have a physical presence and can be touched, smelled, tasted, seen, or heard. The economy is intangible; it isn't a physical thing. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+FINANCE CLUSTER EXAM—KEY 6 
+
+27. To perform a proper data analysis, the researcher should be 
+A. untrained.
+B. unbiased.
+C. inconsistent.
+D. judgmental.
+
+27. B
+Unbiased. For data analysis to be performed properly, the researcher should be unbiased, nonjudgmental, trained, and consistent with the information and results. 
+SOURCE: NF:139 Explain the principles of data analysis
+SOURCE: Farese, D. (2023, March 29). How to do market research: A guide and template. Retrieved August 9,
+2023, from https://blog.hubspot.com/marketing/market-research-buyers-journey-guide 
+
+43. What is the first step in designing a multi-table query? 
+A. Locate the correct tables.
+B. Pinpoint exactly what you want to know.
+C. Set the correct join direction.
+D. Determine the criteria.
+
+43. B
+Pinpoint exactly what you want to know. To create a successful multi-table query, the first step is figuring out exactly what question you want the database to answer. If you aren't exactly sure what you want to know, the database cannot provide you with the information you need. Determining the criteria for the query, locating the correct tables, and setting the correct join direction are all important steps to take before creating the query, but none of them will be successful unless the exact question has been determined first. 
+SOURCE: NF:124 Demonstrate advanced database applications
+SOURCE: GCFGlobal. (n.d.). Access 2013: Designing a multi-table query. Retrieved August 8, 2023, from
+https://edu.gcfglobal.org/en/access2013/designing-a-multitable-query/1/ 
+
+92. Aidan is conducting online research for a marketing project at work. What web-based tool will help Aidan save and organize the websites that contain the relevant information he needs for his final report? 
+A. Browser bookmarking applications
+B. Personal intranet connection
+C. Notebook with color-coded dividers
+D. Word-processing memo template
+
+92. A
+Browser bookmarking applications. Browsers are computer software that retrieve information from the internet. They have bookmarking applications that allow computer users to select websites and store their URLs on a personal computer for easy access in the future. Bookmarking applications allow users to organize sites by categories by placing them into folders on a computer. Notebooks are not online tools. An intranet is an internal network, similar to the internet, that is accessible only by authorized employees. A word-processing memo template formats a type of written message. 
+SOURCE: NF:006 Demonstrate basic web-search skills
+SOURCE: Computer Hope. (2023, May 1). Bookmark. Retrieved August 9, 2023, from
+https://www.computerhope.com/jargon/b/bookmark.htm 
+
+93. Why would a financial advisor use standard deviation to evaluate an investment? 
+A. To find the range
+B. To understand potential risk
+C. To determine the average price
+D. To solve for mode
+
+93. B
+To understand potential risk. Standard deviation is used to measure the differences or distances of data points from the mean of the data set. Analysts often use the standard deviation to help determine an investment's volatility. An investment with a high standard deviation is more volatile than one with a low standard deviation. Analysts already know the average or mean of the data when they calculate standard deviation. The range is the difference between the largest and smallest numbers in a data set. The mode is the number that appears the most in a data set. 
+SOURCE: NF:093 Interpret statistical findings
+SOURCE: Hargrave, M. (2023, May 11). Standard deviation formula and uses vs. variance. Retrieved August 9,
+2023, from https://www.investopedia.com/terms/s/standarddeviation.asp 
+
+9. If data are considered nonconforming, it most likely means that their values 
+A. are missing.
+B. are complete.
+C. remain consistent with other values.
+D. do not require further analysis.
+
+9. A
+Are missing. Nonconforming data refers to data with values that are either missing, incomplete, or not consistent with other values in the same or comparable reports. Additionally, nonconforming data require further analysis or verification. 
+SOURCE: NF:124 Demonstrate advanced database applications
+SOURCE: Law Insider. (2023). Nonconforming data definition. Retrieved December 28, 2023, from
+https://www.lawinsider.com/dictionary/nonconforming-data 
+
+10. Which of the following is an example of a business’s legal records: 
+A. Customer phone calls
+B. Intellectual property
+C. Raw materials inventory
+D. Fixed asset depreciation
+
+10. B
+Intellectual property. Legal records contain information relating to or concerned with the law. Legal records include contracts/agreements, intellectual property (e.g., patents, copyrights, trademarks), leases, and permits. Companies often record customer phone calls to provide a complete record of anything that was said or decided—these make up a business’s customer records. Raw materials inventory is part of a business’s inventory records. The depreciation of fixed assets is part of a business’s asset records. 
+SOURCE: NF:001 Describe the nature of business records
+SOURCE: LAP-NF-001—Record It (Business Records)
+2024 HS ICDC FINANCE CLUSTER EXAM—KEY 3 
+
+54. Benford's law typically applies to data that fit specific guidelines. Which of the following is one of those guidelines: 
+A. Data must be measured rather than assigned.
+B. Smaller datasets are better than larger datasets.
+C. All data must be qualitative.
+D. Data should be restricted by minimums or maximums.
+
+54. A
+Data must be measured rather than assigned. Benford's Law states that the leading digit (or most commonly occurring digit) in a dataset is likely to be small. Benford's law typically applies to data that fit specific guidelines, including that data must be measured rather than assigned. This is because Benford's law often does not apply to assigned numbers, such as ID numbers, phone numbers, or zip codes. Other guidelines are that data should not be restricted by minimums or maximums, data must be quantitative rather than qualitative, and larger datasets are better than smaller datasets. 
+SOURCE: NF:124 Demonstrate advanced database applications
+SOURCE: Frost, J. (2023). Benford's Law explained with examples. Retrieved December 28, 2023, from
+https://statisticsbyjim.com/probability/benfords-law 
+
+88. As a mechanic, Twiggy often uses __________ to diagnose trouble in a boat’s engine. 
+A. expert systems
+B. Voice over Internet Protocol
+C. satellite technology
+D. electronic transfer of funds
+
+88. A
+Expert systems. Expert systems are a special kind of computer software designed to mimic the knowledge of a human expert. Mechanics often use expert systems to diagnose trouble in a vehicle’s engine. This allows them to fix the problem more quickly. Electronic transfer of funds is a computer-based system that allows businesses to transfer money quickly and easily. A business might use satellite technology to conduct video conferences, not diagnose trouble in an engine. Voice over Internet Protocol, like Zoom, connects people quickly by voice and picture. It’s useful technology but would not necessarily help Twiggy diagnose the engine trouble. 
+SOURCE: NF:003 Identify ways that technology impacts business
+SOURCE: LAP-NF-003—TECH-tastic (Technology’s Impact on Business)
+2024 HS ICDC FINANCE CLUSTER EXAM—KEY 22 
+
+98. Effectively managing information regarding trademarks and patents helps a company preserve its 
+A. stocks.
+B. identity.
+C. customers.
+D. inventory.
+
+98. B
+Identity. Managing information appropriately is essential for business success because it preserves organizational identity and history. Information regarding copyrights, patents, trademarks, etc., must be managed properly. Managing trademark and patent information doesn’t necessarily help a business preserve its inventory, customers, or stocks. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+17. Which of the following situations best demonstrates why businesses should retain their records: 
+A. A business is planning to send press releases to the local newspaper.
+B. A business is planning to send anniversary cards to employees on the date of their employment.
+C. A business is planning to sell out to another company.
+D. A business is planning to use webinars for employee training.
+
+17. C
+A business is planning to sell out to another company. When businesses merge or sell out to other companies, they need to provide records to prove their value to the other companies. Although businesses might retain documentation of employee anniversaries, press releases, and training plans, these records have less significance than records needed to provide proof of a business's income, expenses, and capital investments. 
+SOURCE: NF:081 Store information for future use
+SOURCE: GovOS. (2023). What is records retention? Retrieved September 28, 2023,
+from https://govos.com/blog/what-is-records-retention 
+
+22. As the use of information-management systems continues to grow, it is important for businesses to be concerned with their customers' 
+A. access to credit.
+B. need for information.
+C. rights to privacy.
+D. level of service.
+
+22. C
+Rights to privacy. More and more businesses are using information-management systems to collect personal information about customers. What businesses do with this information is important because they risk violating their customers' rights to privacy. Businesses need to protect their customers' rights to privacy because customers who feel that businesses have misused their private information may stop buying from those businesses or go so far as to take legal action. Customers' access to credit, level of service, or need for information are not affected by a business's use of an information-management system. 
+SOURCE: NF:013 Describe current business trends
+SOURCE: Federal Trade Commission. (n.d.). Protecting consumer privacy and security. Retrieved October 2,
+2023, from https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security FINANCE CLUSTER EXAM—KEY 6 
+
+23. Information that has been printed for publication is often more reliable than many internet sources because 
+A. publishers do not support special interest groups.
+B. published information is current and up to date.
+C. the information is typically carefully checked for accuracy.
+D. authors have affiliations with professional organizations.
+
+23. C
+The information is typically carefully checked for accuracy. Most printed publications go through several rounds of editing and review to ensure they are accurate. Authors affiliated with professional organizations could have bias toward a special interest group, which can result in biased information. Published information can become quickly outdated. Publishers do sometimes support special interest groups, but they clearly indicate those associations so a researcher can determine if they should trust the information. 
+SOURCE: NF:079 Evaluate quality and source of information
+SOURCE: Purdue Online Writing Lab. (2022). Evaluating sources: Introduction. Retrieved on September 28,
+2023, from https://owl.purdue.edu/owl/research_and_citation/conducting_research/evaluating_sources_of_ information/index.html 
+
+45. Which of the following statements about Benford's law of anomalous numbers is true: 
+A. It is used to detect patterns in a data set.
+B. It states all digits in a data set occur equally.
+C. It cannot be used to catch anomalies.
+D. It cannot be used to detect fraud.
+
+45. A
+It is used to detect patterns in a data set. Benford's law of anomalous numbers states that the leading digit (or most commonly occurring digit) is likely to be small. This means that in a data set, numeral 1 will be the leading digit 30.1% of the time, numeral 2 will be the leading digit 17.6% of the time, and each subsequent numeral (3 through 9) will decrease in frequency. Because of this, Benford's law can be used to detect patterns in naturally occurring data sets. In addition, it is used to both catch anomalies and detect fraud. For example, accountants often utilize Benford's law to spot anomalies that may indicate fraud by comparing leading digits of financial transaction data to the Benford curve. Benford's law does not state that all digits in a data set occur equally. 
+SOURCE: NF:124 Demonstrate advanced database applications
+SOURCE: Kessel, E. (2020, December 17). Benford's law: Potential applications for insider threat detection.
+Retrieved September 29, 2023, from https://insights.sei.cmu.edu/blog/benfords-law-potentialapplications-insider-threat-detection 
+
+79. Cocoa Bean Coffee Cafe posts the following statement on its website: "Cocoa Bean Coffee Cafe does not share its customers' names, email addresses, and phone numbers with others without obtaining customers' consent.” This is an example of a business exhibiting __________ behavior in relation to 
+A. cautious; product promotion.
+B. ethical; information management.
+C. judicious; production procedures.
+D. questionable; marketing research.
+
+79. B
+Ethical; information management. Information management is the process of accessing, processing, maintaining, evaluating, and disseminating the business's knowledge, facts, or data. The cafe is exhibiting ethical, cautious, and judicious behavior by implementing policies to protect its customers' information. Customers are more likely to trust the cafe with their personal information because the cafe states its privacy policies on its website. The privacy statement does not relate to the cafe's product promotion, marketing research, or production procedures. 
+SOURCE: NF:111 Explain the role of ethics in information management
+SOURCE: Fletcher, C. (2022, February 26). Why the ethical use of data and user privacy concerns matter.
+Retrieved September 28, 2023, from https://venturebeat.com/datadecisionmakers/why-the-ethicaluse-of-data-and-user-privacy-concerns-matter 
+
+7. When preparing the property's marketing plan, Samantha researched the current, popular travel destinations; the ways in which visitors spend their money; the duration of their vacations; and their demographics. These are examples of __________ trends. 
+A. industry
+B. technology
+C. visitor
+D. competitive
+
+7. C
+Visitor. Visitor trends are studied so that the property can predict the number of upcoming reservations and bookings it is likely to receive based on such things as people's ages, incomes, marital status, and travel habits. Competitive trends identify the directions that other properties are moving, including their price adjustments, renovation plans, levels of service, and so forth. Trends in technology provide information about how computers, the internet, and new equipment are likely to change the way properties operate. Industry trends give an idea as to the impact that other businesses are likely to have on the property, especially those (e.g., airlines, convention centers, and highway departments) in which the property depends upon for their success. 
+SOURCE: NF:048 Describe current issues and trends in the hospitality and tourism industry
+SOURCE: Mabrian. (2022, September 16). Visitor demand and profile analysis. Retrieved August 4, 2023, from
+https://mabrian.com/blog/visitor-demand-profile-analysis/ 
+
+15. Stella works for a cruise line, and she is recommending that the owners add another Alaskan cruise to the yearly schedule. She wants to demonstrate how sales of Alaskan cruises have risen over the past several years. What kind of chart should Stella use to demonstrate this? 
+A. Histogram
+B. Scatter
+C. Pie
+D. Column
+
+15. D
+Column. A column chart shows the differences in individual values vertically. It is useful to show the difference between values in different time periods, such as the rising sales of Alaskan cruises over time. Pie charts show the proportion of each segment to the whole. They are not useful for showing rising sales over time. A scatter chart is used when showing relationships and correlations between variables, rather than rising sales over time. A histogram is used to show frequency distribution, not rising sales over time. 
+SOURCE: NF:289 Display hospitality and tourism data in charts/graphs or in tables
+SOURCE: Metwalli, S. (2020, September 7). Data visualization 101: How to choose a chart type. Retrieved
+August 4, 2023, from https://towardsdatascience.com/data-visualization-101-how-to-choose-a-charttype-9b8830e558d6 
+
+18. What is the mean of the data set [2, 3, 9, 6, 4, 8, 3]? 
+A. 4
+B. 3
+C. 5
+D. 7
+
+18. C
+5. The mean of the data set [2, 3, 9, 6, 4, 8, 3] is 5. The mean is the average, which is calculated by dividing the sum of the values in a data set (in this instance, 35) by how many numbers are being averaged (in this instance, 7.) So, 35 / 7= 5. The median, mode, and range of this data set are 4, 3, and 7, respectively. 
+SOURCE: NF:237 Interpret descriptive statistics for business decision making
+SOURCE: Hayes, A. (2023, March 21). Descriptive statistics. Retrieved August 4, 2023, from
+https://www.investopedia.com/terms/d/descriptive_statistics.asp HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 5 
+
+22. Tia is the front office manager at the Grand Hotel. She is preparing a short report for the general manager regarding budgetary issues that are negatively impacting the hotel. How should she begin the report? 
+A. Provide a formal plan to adjust the budget
+B. Explain the purpose of the report
+C. Share information from the budget
+D. Give specific examples of negative impacts
+
+22. B
+Explain the purpose of the report. A short report is a formal but brief document that provides information needed for decision-making. Tia should start her short report with an introduction that states the purpose of the report and captures the manager's attention. Next, she should share pertinent facts, concerns for the organization, and other relevant information. The report's conclusion should contain a short summary and can include a recommendation that reinforces the report's message. Specific examples of negative impacts and information from the budget can be shared in the body of the report to illustrate concerns. A short report is not appropriate for sharing formal plans. 
+SOURCE: NF:292 Prepare written reports for hospitality and tourism decision-making
+SOURCE: Meier, K.S. (2018, August 8). How to write a short report to the general manager. Retrieved August
+4, 2023, from https://work.chron.com/write-short-report-general-manager-7223.html HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 6 
+
+26. A cafe wants to determine how well its loyalty program is working. Which of the following data will help it determine the mean use-rate of customers' loyalty cards: 
+A. Data that reveal which customers use their loyalty cards the least
+B. Data that show which month has the highest number of customers using the loyalty card
+C. Data that reveal which customers use their loyalty cards the most often
+D. Data that show the number of times each customer has used the card over several months
+
+26. D
+Data that show the number of times each customer has used the card over several months. The mean of a set of data is the average of those data. So, the most effective method for determining the mean use-rate of loyalty cards involves using data from a wide range of customers. Examining several months of individual customer data will help determine the mean or average use-rate of customers' loyalty cards. Data revealing the month of highest loyalty card use do not show the overall customer use-rate. Data revealing which customers use the card most or least also do not help determine the overall customer use-rate. 
+SOURCE: NF:236 Explain the use of descriptive statistics in business decision making
+SOURCE: Hayes, A. (2023, March 21). Descriptive statistics. Retrieved August 4, 2023, from
+https://www.investopedia.com/terms/d/descriptive_statistics.asp 
+
+50. What technique can help businesses reduce risks associated with software piracy and unauthorized peer-topeer file sharing via the internet? 
+A. Virtualization
+B. Multicasting
+C. Encryption
+D. Rerouting
+
+50. C
+Encryption. Software piracy and unauthorized file sharing (e.g., of music) are costly to producers. To protect their ownership rights, these businesses often use encryption techniques to minimize these types of issues. Encryption is the process of transforming information into a secret code so that only the recipient can read it. If the recipient tries to pass along the information to others, the others will not be able to access the information. Virtualization involves running multiple operating systems on one machine. Multicasting transmits streaming media to multiple users simultaneously. Rerouting means changing course or direction. 
+SOURCE: NF:076 Explain legal issues associated with information management
+SOURCE: Federal Trade Commission. (2023). FTC safeguards rule: What your business needs to know.
+Retrieved August 3, 2023, from https://www.ftc.gov/tips-advice/business-center/guidance/financialinstitutions-customer-information-complying 
+
+56. Which of the following pieces of data would be most helpful to a restaurant that wants to increase sales: 
+A. Customers with reservations spend 25% more than other customers.
+B. Customers with reservations tip waitstaff 8% more than other customers do.
+C. Twenty percent of customers pay with cash instead of credit cards.
+D. Thirty percent of customers dining with small children order split plates.
+
+56. A
+Customers with reservations spend 25% more than other customers. Understanding the relationship between making reservations and spending can help a restaurant focus its sales and promotional efforts on dinner reservations in order to increase sales. Since the tipping of waitstaff, split plates, and payment methods do not increase sales, these data are less helpful. 
+SOURCE: NF:288 Monitor hospitality and tourism sales data
+SOURCE: Andrews, R. (2023, June 14). Restaurant analytics: 9 ways to grow your revenue with data.
+Retrieved August 4, 2023, from https://restaurant.eatapp.co/blog/restaurant-data-and-analyticsincrease-revenue 
+
+72. Eugenia is using presentation software to prepare slides for her next workshop. In addition to putting the name and date of the workshop on the title slide, where else could Eugenia include this information in her presentation? 
+A. Transitions
+B. Footers
+C. Animations
+D. Bibliography
+
+72. B
+Footers. A footer is a line of text appearing at the bottom of a presentation slide. A presenter may choose to include the name and date of their presentation in the footer to remind viewers of the focus of the presentation. Slide numbers are also often included in footers for the presenter's and viewers' reference. A header is a line of text or other data that appears at the top of a presentation slide or word processing document. The bibliography slide contains links and sources relevant to the presentation and does not typically have the name or date. Animations are movements added to objects (e.g., text, images) on presentation slides. Transitions are animations added to slides. Transitions dictate how one slide is removed from the screen and replaced with another. The presentation name and date are not typically included in animations or transitions. 
+SOURCE: NF:008 Demonstrate basic presentation applications
+SOURCE: Microsoft. (2023). Add page numbers, date and time, or footer text to all slides in powerpoint for Mac.
+Retrieved August 3, 2023, from https://support.office.com/en-us/article/Add-page-numbers-date-andtime-or-footer-text-to-all-slides-in-PowerPoint-for-Mac-abb23f0c-760a-46ef-940e-be5074d3f287 
+
+76. If a business has two records for one customer in its database, it should consolidate all of the information into one record and 
+A. delete the other record.
+B. reorganize all of the customer records.
+C. reformat the second record.
+D. create a new record.
+
+76. A
+Delete the other record. Customer records contain contact, billing, and purchasing information. If multiple records for one customer exist, each record may have incomplete or differing information. Having multiple records for one customer in a database can cause confusion for employees and may cause the business to ship goods or send bills to an incorrect address. When a business detects more than one record for a customer, it should place all of the most current information in one record and delete the other record(s) to prevent employees from accessing the wrong record in the future. Reformatting the other or second record, creating a new record, and reorganizing all of the customer records are not actions that prevent a business from having multiple records for one customer in its database. 
+SOURCE: NF:002 Maintain customer records
+SOURCE: Teamleader Focus. (2023, April 27). Customer data management: How to build a customer
+database. Retrieved August 3, 2023, from https://www.teamleader.eu/blog/customer-datamanagement-how-to 
+
+81. Iseabail conducts email marketing for a luxury spa, and she wants to know how many email campaign recipients read the most recent email. Which metric would most likely give Iseabail the information she is looking for? 
+A. Click-to-open rate
+B. Bounce rate
+C. Open rate
+D. Unsubscribe rate
+
+81. C
+Open rate. The open rate of an email campaign is the percentage of campaign recipients who opened an email. The click-to-open rate is the percentage of email viewers (those who opened an email) who clicked on a link. An email's bounce rate represents the number of emails that bounced, or could not be delivered. An unsubscribe rate represents the number of campaign recipients who opted out of receiving more emails. Because Iseabail wants to know how many recipients opened and read the most recent email, and is not yet concerned with clicks, she needs the campaign's open rate. 
+SOURCE: NF:205 Use analytical tracking tools
+SOURCE: Campaign Monitor. (2023). Ultimate email marketing benchmarks for 2022: By industry and day.
+Retrieved August 4, 2023, from https://www.campaignmonitor.com/resources/guides/emailmarketing-benchmarks/ 
+
+90. Nelson needs to find out the exact model number of a printer to order the correct ink cartridge for a customer. To obtain accurate information quickly, Nelson should access 
+A. the manufacturer's accounting department.
+B. his company's contact directory.
+C. his company's intranet.
+D. the manufacturer's production manager.
+
+90. C
+His company's intranet. An intranet is an internal network similar to the internet that is accessible only by authorized personnel. It is used to access information and communicate with others within an organization. A company intranet often consists of internal databases, which provide computerized storage for information and facts. Businesses typically maintain information in their databases that are relevant to their operations—product specifications, inventory levels, vendor contact information, customer sales records, etc. When an employee needs information, such as the model number of a customer's printer, they can quickly obtain the customer's sales records by accessing data stored on the intranet, which will ensure that the employee orders the correct printer cartridge for their customer. The manufacturer's accounting department, its production manager, and the company's contact directory are unlikely to have the information needed. 
+SOURCE: NF:078 Obtain needed information efficiently
+SOURCE: Sociabble. (2023, May 31). What is an intranet and does your company need one? Retrieved August
+3, 2023, from https://www.sociabble.com/blog/employee-communications/what-is-an-intranet/ 
+
+94. What should businesses try to achieve when manipulating data for information analysis? 
+A. Program development
+B. Secondary information
+C. Exploratory research
+D. Accurate interpretations
+
+94. D
+Accurate interpretations. Businesses obtain a variety of information that must be analyzed to make it useful. While manipulating the data for information analysis, businesses should try to interpret them accurately to obtain information that will answer specific marketing questions. Many times, businesses can manipulate the data to obtain the answers they want. This practice will not help them solve problems or make good decisions if they interpret the data inaccurately. Exploratory research is a method of obtaining information. Secondary information is information that has already been collected for another purpose. Businesses develop a research program before interpreting data. 
+SOURCE: NF:185 Use database for information analysis
+SOURCE: Spacey, J. (2018, August 27). 10 types of information analysis. Retrieved August 4, 2023,
+from https://simplicable.com/new/information-analysis 
+
+96. A restaurant chain wants to expand into a new city. Which of the following is an example of secondary research that the owner might seek: 
+A. A focus group with other restaurant owners in the city
+B. A survey about the eating habits of people in the city
+C. Interviews with current employees
+D. Demographics from a census report
+
+96. D
+Demographics from a census report. Secondary research is research that already exists. An example is a governmental census report that can provide demographic information about certain areas. This research can help the restaurant owner figure out if a certain city is an appropriate target market for expansion. A survey about the eating habits of people in the city, a focus group with other restaurant owners in the city, and interviews with current employees are examples of primary research, not secondary research. 
+SOURCE: NF:281 Explain sources of secondary hospitality and tourism information
+SOURCE: Destination BC. (2018, July). Research guide for tourism operators. Retrieved August 4, 2023, from
+https://www.destinationbc.ca/content/uploads/2018/07/TBE-Guide-Research-Guide-For-TourismOperators-Mar-2015.pdf 
+
+97. Which of the following is an economic factor that might be identified as part of an environmental scan: 
+A. Increased general competition
+B. Higher inflation rates
+C. Companies going green
+D. Changing state and local laws
+
+97. B
+Higher inflation rates. Environmental scanning is the process of collecting information about the environment surrounding your business. Higher inflation rates are an economic factor that might be identified as part of an environmental scan. Increased general competition is a competition trend that may be identified during an environmental scan. Changing state and local laws are a political/governmental factor that might be identified. Companies going green is a society and culture trend. 
+SOURCE: NF:015 Conduct an environmental scan to obtain business information
+SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 23 
+
+12. Speakers are better prepared to give an oral presentation if they 
+A. gesture frequently.
+B. speak loudly.
+C. encourage discussion.
+D. practice their speech.
+
+12. D
+Practice their speech. Practicing is the best way to prepare for an oral presentation. There are several effective practicing techniques. Whatever technique is used, practicing helps a person to become more comfortable and confident. Speaking loudly, gesturing frequently, and encouraging discussion all take place during the actual presentation. Therefore, they do not help the speaker prepare for the presentation. 
+SOURCE: NF:291 Present hospitality and tourism findings orally
+SOURCE: Gallo, C. (2020, January 6). What it takes to give a great presentation. Retrieved November 29,
+2023, from https://hbr.org/2020/01/what-it-takes-to-give-a-great-presentation 
+
+17. A hotel chain is promoting its new holiday deals through targeted promotional content based on customers’ physical location. The hotel chain is using 
+A. geolocation.
+B. voice marketing.
+C. just-in-time.
+D. QR codes.
+
+17. A
+Geolocation. Geolocation is software that enables a business to track its opt-in customers' physical location via their computers or networking devices (e.g., smartphone). A business can use geolocation software to send targeted promotional content to their customers in real time. Just-in-time is an inventory control method that involves ordering goods just in time for them to be used or sold. Voice marketing is a strategy where businesses promote products or services through live or recorded audio content. QR codes are a type of promotional tool that use two-dimensional barcodes, but they are not always based on a customers’ location. 
+SOURCE: NF:286 Obtain hospitality and tourism information from online sources (e.g., search engines, online
+databases, blogs, forums, listservs, web analytics, social media, geolocation services) 
+SOURCE: Frankenfield, J. (2021, January 25). Geolocation. Retrieved November 28, 2023, from
+https://www.investopedia.com/terms/g/geolocation.asp 
+
+18. A resort uses computer software that charges its guests’ food, gift shop purchases, and other resort-related expenses to their accounts through their room key cards. This software increases the resort's efficiency because it is 
+A. complicated.
+B. affordable.
+C. independent.
+D. automated.
+
+18. D
+Automated. Automation is the use of technology to control a process. When a resort guest swipes their room key card to make a purchase, it transmits a transaction to the hotel's software system, which adds the expense to the guest's bill. Guests typically pay for their purchases when they check out of the resort. This software increases the hotel's efficiency because it reduces paperwork by using a central bookkeeping system. The software is not independent. Whether the software is affordable or complicated does not impact how it increases the resort's efficiency. 
+SOURCE: NF:106 Use software to automate services
+SOURCE: Chi, C. (2022, September 26). Workflow automation explained & 12 best workflow software for 2023.
+Retrieved November 21, 2023, from https://blog.hubspot.com/marketing/workflow-automation 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 5 
+
+20. Businesses can use __________ to visualize or summarize large amounts of data. 
+A. independent variables
+B. descriptive statistics
+C. hypothetical samples
+D. research questionnaires
+
+20. B
+Descriptive statistics. Businesses often use descriptive statistics to summarize and interpret the vast amounts of numeric information they collect. Descriptive statistics include measurements such as mean, mode, median, range, and standard deviation. These types of measurements help researchers to summarize numeric information in terms of number of responses, frequency of use, average distribution, and various other relationships. Questionnaires are used to obtain numeric information. Businesses do not use hypothetical samples or independent variables to summarize and visualize numeric information. 
+SOURCE: NF:236 Explain the use of descriptive statistics in business decision making
+SOURCE: Hayes, A. (2023, March 21). Descriptive statistics. Retrieved November 29, 2023, from
+https://www.investopedia.com/terms/d/descriptive_statistics.asp 
+
+25. Businesses in the hospitality and tourism industry collect __________ data through observations or focus groups. 
+A. sales
+B. primary
+C. internal
+D. secondary
+
+25. B
+Primary. Primary data are facts and figures collected specifically for the problem or project at hand. Some ways in which primary data are gathered include observations, focus groups, or surveys. Secondary information comes from data that have already been collected for other purposes. Internal data are found inside a business. Sales data is typically not collected by focus group or observation. 
+SOURCE: NF:283 Describe methods used to collect hospitality and tourism business information (e.g.,
+observations, mail, telephone, Internet, discussion groups, interviews) 
+SOURCE: SIS International Research. (2021). Travel and tourism market research. Retrieved November 28,
+2023, from https://www.sisinternational.com/expertise/industries/travel-tourism/ 
+
+35. Which of the following is an example of a secondary tourist resource: 
+A. Hotels
+B. Historic districts
+C. Castles
+D. Mountains
+
+35. A
+Hotels. Secondary tourist resources are locations or attractions that were specifically built to attract tourists. These include hotels, restaurants, and theme parks. Primary tourist resources are locations or attractions that did not originally exist for tourism purposes. These include historic districts, castles, mountains, and many other natural and man-made structures. 
+SOURCE: NF:281 Explain sources of secondary hospitality and tourism information
+SOURCE: Burdett, M. (2017, November 7). Primary and secondary tourist resources. Retrieved November 20,
+2023, from https://www.geographycasestudy.com/primary-and-secondary-tourist-resources/ 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 9 
+
+46. What is a downside of physical records storage? 
+A. Risk of hacking
+B. Limited cloud storage
+C. Office space needed
+D. Corrupted files
+
+46. C
+Office space needed. Physical records (e.g., paper forms, contracts, statements, charts) take up a significant amount of space in filing cabinets and boxes. Limited cloud storage, risk of hacking, and corrupted files are all downsides of electronic or digital recordkeeping. 
+SOURCE: NF:081 Store information for future use
+SOURCE: Southwest Solutions Group. (2023). Differences between digital and physical record-keeping | SSG.
+Retrieved November 28, 2023, from https://www.southwestsolutions.com/ssg/office/differencesbetween-digital-physical-record-keeping-ssg/ 
+
+51. Natasha wants to search for cities that are called Orange. What would yield the best search results? 
+A. Orange site: Yelp.com
+B. Orange -city
+C. “Orange”
+D. Orange -fruit
+
+51. D
+Orange -fruit. To search for cities called Orange, Natasha should use the minus sign to exclude results that are related to oranges as fruit. Using quotation marks will deliver many results that include the exact word “orange,” which has multiple meanings. Using the minus sign to remove “city” would eliminate the information Natasha is searching for. Using “site: Yelp.com” instructs the search engine to navigate to content on Yelp, which highlights businesses. 
+SOURCE: NF:006 Demonstrate basic web-search skills
+SOURCE: Indeed. (2023, February 3). 22 internet search tips on finding what you need online. Retrieved
+November 28, 2023, from https://www.indeed.com/career-advice/career-development/internetsearch-tips 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 13 
+
+60. What is the mode of the data set [2,3,9,6,4,8,3]? 
+A. 5
+B. 3
+C. 9
+D. 2
+
+60. B
+3. The mode of the data set [2, 3, 9, 6, 4, 8, 3] is 3. The mode is the most commonly occurring number in a certain data set. In this case, the mode is three, which appears twice in the data set. The mode is not 5, 2, or 9 because all of those numbers do not appear more than once. 
+SOURCE: NF:237 Interpret descriptive statistics for business decision making
+SOURCE: Purplemath. (2022). Mean, median, mode, and range. Retrieved February 19, 2024, from
+https://www.purplemath.com/modules/meanmode.htm 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 15 
+
+80. Which of the following is a benefit technology can have on the hospitality and tourism industry: 
+A. Higher workload
+B. Less self-service
+C. More complicated processes
+D. Increased efficiency
+
+80. D
+Increased efficiency. Technology has had several benefits on the hospitality and tourism industry. Increased efficiency is perhaps one of the biggest benefits, as mobile ordering and the use of artificial intelligence (AI) chatbots can increase speed and improve guest experience. The use of technology can help lower staff workload, minimize costs, and make processes simpler. In addition, technology allows for self-service, as customers can make online payments, check-in and check-out of their hotels on a mobile app, and order food or products online. Higher workload, more complicated processes, and less self-service are not benefits that technology can have on the hospitality and tourism industry. 
+SOURCE: NF:313 Describe the impact of mobile technology on the hospitality and tourism industry
+SOURCE: Boston University School of Hospitality Administration (SHA). (2023). Technology shaping the future
+of the hospitality industry. Retrieved November 21, 2023, from https://www.bu.edu/hospitality/2023/01/26/technology-trends-in-hospitality 
+
+86. A business may use __________ to retrieve customer information from a central location. 
+A. a CAD program
+B. opt-in email
+C. a database
+D. presentation software
+
+86. C
+A database. A database is a collection of information that a business can retrieve quickly. Many businesses use databases to store information about their customers, such as contact information and buying preferences. Presentation software is a computer application that displays a slideshow. Opt-in email messages are electronic promotional messages that are sent with a recipient's permission and allow the recipients to request removal from the subscriber list at any time. A CAD program is a computer software program that allows users to create multidimensional graphics. 
+SOURCE: NF:284 Obtain business information from customer databases
+SOURCE: Frankenfield, J. (2022, September 14). What is a data warehouse? Retrieved November 28, 2023,
+from https://www.investopedia.com/terms/d/data-warehousing.asp 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 21 
+
+88. Parts of a TV show are suppressed because they are considered obscene and politically unacceptable. This describes what legal issue associated with information management? 
+A. Privacy
+B. Censorship
+C. Spyware
+D. Beneficence
+
+88. B
+Censorship. Censorship refers to the suppression or prohibition of speech, books, news, films, TV, or other information that are considered obscene, harmful, politically unacceptable, or offensive. This scenario does not describe privacy, spyware, or beneficence. Privacy is a concept in which only users have access to their personal information and denies access to unauthorized users. Spyware is computer software that allows a user to obtain or steal someone else's personal information. Beneficence is an act or deed that benefits someone else rather than your own interest. 
+SOURCE: NF:076 Explain legal issues associated with information management
+SOURCE: SlideShare. (2017, December 7). Legal issues associated with information management. Retrieved
+November 29, 2023, from https://www.slideshare.net/DanielAppiah6/legal-issues-associated-withinformation-management 
+
+92. In a written report, the section which contains the most important information is the 
+A. abstract.
+B. cover.
+C. notes.
+D. body.
+
+92. D
+Body. The main part of a complex written report is the body, which contains the major portion of the information. The cover is the first page and usually contains the title of the report. The abstract appears before the body and is a short summary of the report information. The notes appear after the body and contain reference information. 
+SOURCE: NF:292 Prepare written reports for hospitality and tourism decision-making
+SOURCE: Indeed. (2023, July 19). How to write a formal business report in 11 steps. Retrieved November 29,
+2023, from https://www.indeed.com/career-advice/career-development/formal-business-reportexample 
+
+94. Which of the following is an example of a primary tourist resource: 
+A. Theme parks
+B. Hotels
+C. Restaurants
+D. Natural landscapes
+
+94. D
+Natural landscapes. Primary tourist resources are locations or attractions that did not originally exist for tourism purposes. These include historic districts, castles, and other natural structures and landscapes such as mountains, forests, and oceans. Secondary tourist resources are locations or attractions that were specifically built to attract tourists. These include hotels, restaurants, and theme parks. 
+SOURCE: NF:282 Explain types of primary hospitality and tourism market information
+SOURCE: Burdett, M. (2017, November 7). Primary and secondary tourist resources. Retrieved November 20,
+2023, from https://www.geographycasestudy.com/primary-and-secondary-tourist-resources/ 
+
+97. The tourism industry is increasingly using __________ to keep younger customers engaged. 
+A. open-door policies
+B. influencer marketing
+C. assembly lines
+D. ambush marketing
+
+97. B
+Influencer marketing. Influencer marketing is a marketing strategy that involves paying a third party to promote a business’s products or services. The tourism industry is increasingly leveraging influencers—prominent people on social media—to appeal to younger customers, who are statistically more likely to be active on social media. Ambush marketing is a promotional technique whereby a non-sponsoring business tries to associate with an event to gain recognition as a sponsor. Assembly lines are a production method in which the product moves past workers who each do one assigned production task and is rarely used in the tourism industry. An open-door policy is a business practice whereby management encourages communication between employees and their superiors. 
+SOURCE: NF:048 Describe current issues and trends in the hospitality and tourism industry
+SOURCE: Smart Meetings. (2023, July 21). Top 10 trends impacting the hospitality industry. Retrieved
+November 20, 2023, from https://www.smartmeetings.com/tips-tools/74256/top-10-trends-impactinghospitality-industry 
+
+1. One of the reasons why a chain of hotels might analyze and interpret the marketing information contained in databases is to 
+A. compare variables.
+B. organize products.
+C. tabulate findings.
+D. survey guests.
+
+1. A
+Compare variables. A chain of hotels might analyze and interpret the marketing information contained in databases in order to compare several variables that change from property to property. For example, one hotel might be located in an affluent suburb while another one is located in an urban area. The chain might analyze the information in its database concerning both communities in order to make appropriate marketing decisions such as the types of services to offer in each location. Although the chain provides the same types of goods and services to both communities, it needs to analyze data in order to know if the consumers in each community have different wants and needs. Before analyzing databases to compare variables, a chain of hotels might survey guests and tabulate the findings. A chain would not analyze databases in order to organize products. 
+SOURCE: NF:185 Use database for information analysis
+SOURCE: Bock, T. (n.d.). How to identify relevant variables for market segmentation. Retrieved September 27,
+2023, from https://www.qresearchsoftware.com/how-to-identify-relevant-variables-for-marketsegmentation 
+
+29. To make it easier to find specific information in a business report, you should include a(n) 
+A. appendix.
+B. table of contents.
+C. title page.
+D. introduction.
+
+29. B
+Table of contents. When preparing a business report, it is often a good idea to include a table of contents, the portion of a document in which the sections are listed with their page numbers for easy navigation. This allows a reader to sift through a lengthy document to find the needed information. While title pages, introductions, and appendices are also helpful in a written business report, their main purposes are not to make it easier to find specific information. 
+SOURCE: NF:292 Prepare written reports for hospitality and tourism decision-making
+SOURCE: University of Nevada Writing & Speaking Center. (n.d.). How to write a business report. Retrieved
+September 27, 2023, from https://www.unr.edu/writing-speaking-center/student-resources/writingspeaking-resources/how-to-write-a-business-report 
+
+30. Which of the following types of hospitality and tourism information is most likely to be found in an online database: 
+A. Industry market trends
+B. A restaurant's customer demographics
+C. Customer reviews for a specific hotel
+D. Competitors' sales data
+
+30. A
+Industry market trends. Online databases are sources of scholarly research such as journal and news articles related to a particular topic—in this case, hospitality and tourism. In an online database, you might find information such as industry market trends. Customer reviews for a specific hotel, competitors' sales data, and a restaurant's customer demographics might be found online but would not necessarily be found in an online database. 
+SOURCE: NF:286 Obtain hospitality and tourism information from online sources (e.g., search engines, online
+databases, blogs, forums, listservs, web analytics, social media, geolocation services) 
+SOURCE: EBSCO. (2023). Hospitality & tourism index. Retrieved September 27, 2023, from
+https://www.ebsco.com/products/research-databases/hospitality-tourism-index 
+
+41. Rather than relying solely on a reception desk in the lobby, a hotel checks in its guests by using tablets that can access the hotel management system anywhere in the building to increase efficiency and convenience. This is an example of __________ impacting the hospitality and tourism industry. 
+A. globalization
+B. social media
+C. personalization
+D. mobile devices
+
+41. D
+Mobile devices. A mobile device is a computer that is small enough to be handheld, such as a smartphone or tablet. The small size of the device allows for greater mobility than a larger, stagnant computer and provides increased efficiency and convenience for consumers. Social media include forms of electronic communications through which users build communities, network, share information, etc. Globalization is the rapid and unimpeded flow of capital, labor, and ideas across national borders. Personalization involves tailoring a product or service to fit individual needs or wants. Social media, globalization, and personalization are not demonstrated in this example. 
+SOURCE: NF:060 Explain ways that technology impacts the hospitality and tourism industry
+SOURCE: BU School of Hospitality Administration. (n.d.). Technology shaping the future of the hospitality
+industry. Retrieved September 27, 2023, from https://www.bu.edu/hospitality/2023/01/26/technologytrends-in-hospitality/ HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 10 
+
+42. The best way to track any regulatory changes that might impact the hospitality and tourism industry is to 
+A. monitor government agency websites.
+B. consult internet legal forums.
+C. obtain a law degree.
+D. check out library books.
+
+42. A
+Monitor government agency websites. Tracking and staying on top of regulatory changes within the hospitality and tourism industry is important, and there are several ways to do so: monitoring regulatory agency websites (like OSHA's), following regulatory agencies on social media, joining industry associations, etc. Consulting internet forums for regulatory changes might not result in accurate information. Checking out a library book might not result in updated information. A law degree would not provide updates on relevant regulatory changes. 
+SOURCE: NF:287 Track environmental changes that impact hospitality and tourism (e.g., technological
+changes, guest trends, economic changes, regulatory changes) 
+SOURCE: Sharp, K. (2022, January 13). 8 easy ways to keep up with regulatory changes. Retrieved
+September 27, 2023, from https://www.perillon.com/blog/6-easy-ways-to-keep-up-with-regulatorychanges 
+
+44. Which of the following is an example of a database system: 
+A. Scheduling software
+B. A chart reflecting sales revenue
+C. A marketing report
+D. A library catalog
+
+44. D
+A library catalog. Database systems organize data for easy retrieval. A library catalog helps libraries organize data and retrieve information about books easily. A chart reflecting sales revenue, a marketing report, and scheduling software are all useful business tools but are not examples of database systems. 
+SOURCE: NF:141 Access information in the database system
+SOURCE: Oracle. (2023). What is a database? Retrieved September 26, 2023, from
+https://www.oracle.com/database/what-is-database/ 
+
+49. Which of the following is a benefit that comes from tracking analytics: 
+A. Measuring the success of marketing campaigns
+B. Preventing page bounces
+C. Discovering new sales tactics
+D. Saving money on web hosting costs
+
+49. A
+Measuring the success of marketing campaigns. Web analytics allow you to collect data about visitors to your website. One of the benefits of doing so is being able to measure the success of digital marketing campaigns. You can track which campaigns lead to more page views and clicks, which allows you to make smarter marketing decisions in the future. While tracking analytics can help you reduce page bounces, it does not prevent them altogether. Tracking analytics is not necessarily related to discovering new sales tactics. Finally, tracking analytics does not necessarily save money on web hosting costs. 
+SOURCE: NF:205 Use analytical tracking tools
+SOURCE: FasterCapital. (2023, June 14). The benefits of measuring your marketing campaigns. Retrieved
+September 27, 2023, from https://fastercapital.com/content/The-benefits-of-measuring-yourmarketing-campaigns.html HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 12 
+
+56. How are many businesses in the hospitality and tourism industry predominantly using social media? 
+A. To notify travelers of flight cancellations
+B. To match travelers with others who have similar interests
+C. To book travelers' upcoming trips
+D. To provide a way for travelers to share their experiences
+
+56. D
+To provide a way for travelers to share their experiences. The internet has provided a mechanism through social media for satisfied and unsatisfied customers to tell others about their experiences with a business. The comments of other customers are viewed as more credible statements than advertisements from the business. Therefore, travel and tourism businesses are providing this forum so that satisfied customers can spread the good word, while any problems identified can be addressed and corrections made, if needed. Hospitality and tourism businesses are not predominantly using social media to connect travelers with similar interests, to book travelers' upcoming trips, or to notify travelers of flight cancellations. 
+SOURCE: NF:048 Describe current issues and trends in the hospitality and tourism industry
+SOURCE: Greenlaw, M. (2022, December 13). The power of social media in the hotel & hospitality
+industry. Retrieved September 27, 2023, from https://uphotel.agency/the-power-of-social-media-inthe-hotel-and-hospitality-industry/ 
+
+59. Hannah works for a travel agency. To help her managers better understand how many customers booked vacations to different countries last year, she created a pie chart to display the data. Hannah created the pie chart to 
+A. convey the most important information in an easy-to-grasp way.
+B. provide the audience with less than the “full picture” of the data.
+C. make complicated issues in the data set seem less important than they are.
+D. help the audience absorb all the details and intricacies of the data.
+
+59. A
+Convey the most important information in an easy-to-grasp way. Data that are displayed in charts, graphs, or tables are often easier to understand than data that are presented in their raw form. By presenting her data in a pie chart, Hannah helped her managers understand the most important takeaways from the data set. There are disadvantages to using charts, graphs, and tables, too. For example, these visuals can often make complicated issues seem less important than they truly are, leading the audience to miss out on the complexity of the problem or issue at hand. Similarly, charts, tables, and graphs do not allow the audience to absorb all of the details and intricacies of the data set being presented. In other words, they do not provide the audience with the “full picture.” 
+SOURCE: NF:289 Display hospitality and tourism data in charts/graphs or in tables
+SOURCE: Campbell, P. (2018, June 27). What are the advantages and disadvantages of creating a chart?
+Retrieved September 27, 2023, from https://classroom.synonym.com/advantages-disadvantagecreating-chart-8470193.html 
+
+77. Natalie is a research associate for a marketing research firm who spends a lot of her time on the internet obtaining various types of business information. Natalie can save time and easily return to websites that she frequently visits by using the __________ tool on her internet browser. 
+A. sorting
+B. highlighting
+C. classifying
+D. bookmarking
+
+77. D
+Bookmarking. The bookmarking computer tool allows users to save URL addresses on their computers. The bookmarking tool allows users to quickly return to favorite or frequently visited websites without reentering a specific URL address every time they want to access the websites. This is a beneficial tool for businesspeople who need to do ongoing research, or for employees who need to access vendor and customer websites several times a day. The highlighting function allows computer users to highlight or mark text in a document or spreadsheet. Sorting allows users the ability to organize, classify, or categorize data in a specific format, such as an alphabetical or numerical sequence. 
+SOURCE: NF:081 Store information for future use
+SOURCE: Kats, S. (2023, May 26). How to bookmark a website. Retrieved September 26, 2023, from
+https://www.wikihow.com/Bookmark-a-Website 
+
+89. A hotel owner plans to conduct secondary research to learn more about guest satisfaction. Which of the following options would be the most appropriate method of secondary research for the hotel owner: 
+A. Review customer comments in the hotel database
+B. Interview the hotel staff members about guests' attitudes
+C. Create a satisfaction survey to provide to all new guests
+D. Observe hotel guests to determine their satisfaction
+
+89. A
+Review customer comments in the hotel database. Secondary research examines information that was previously collected for other purposes. Reviewing customer comments stored in a database is an example of secondary research since the data were previously collected. Creating a survey, interviewing staff members, and observing guests are primary research activities since they are designed to collect information specific to the research goal. 
+SOURCE: NF:281 Explain sources of secondary hospitality and tourism information
+SOURCE: Destination BC. (n.d.). Research guide for tourism operators. Retrieved September 27, 2023, from
+https://www.destinationbc.ca/content/uploads/2018/07/TBE-Guide-Research-Guide-For-TourismOperators-Mar-2015.pdf 
+
+90. What software do hotels, resorts, and various transportation entities use to expedite the reservation process for customers? 
+A. Websites
+B. Online booking
+C. Customer relationship management
+D. Customer reservation systems
+
+90. B
+Online booking. Many hospitality and tourism businesses offer websites that enable customers to conveniently book their reservations online. This gives customers 24-hour access to reservation systems when it's convenient for them to quickly make a reservation. Customer reservation systems are used by travel agents. Customer relationship management software is databases of customer information. Websites by themselves would not expedite the reservation process for customers. 
+SOURCE: NF:106 Use software to automate services
+SOURCE: FinancesOnline. (2023). What is online booking software? A comprehensive guide to benefits,
+features, pricing and more. Retrieved September 27, 2023, from https://financesonline.com/onlinebooking-software-comprehensive-guide-benefits-features-pricing/ 
+
+93. An airline executive wants to know why sales are dropping. They are most likely to need to conduct primary research if 
+A. they have not conducted secondary research yet.
+B. no one on their team has the information they need.
+C. the airline has little money for research.
+D. they have already exhausted their secondary research options.
+
+93. D
+They have already exhausted their secondary research options. Primary research is that which a person or company generates on their own for their exact needs and purposes. Primary research is generally done when the needed information does not exist yet. Therefore, the airline executive should first do an exhaustive search of secondary sources before deciding to conduct primary research. Even if no one on the executive's team has the information they need, the executive still might not need to conduct primary research because they might be able to use secondary research. If the airline has little money for research, the executive might be better off focusing on secondary research because it is cheaper than primary research. 
+SOURCE: NF:282 Explain types of primary hospitality and tourism market information
+SOURCE: Alchemer. (2018, April 26). Research methods: How and when to use primary and secondary
+research. Retrieved September 27, 2023, from https://www.alchemer.com/resources/blog/researchmethods-how-and-when-to-use-primary-and-secondary-research/ 
+
+94. Jessica, Adam, and Tanya wrote a research report together at work. To make the assignment easier for everyone, the group decided that each team member would write their own section of the report. As a result, the finished report lacked cohesion and clarity—and each section sounded distinctly different. Jessica, Adam, and Tanya should have 
+A. asked their supervisor for individual projects rather than a group report.
+B. collaborated on the report to establish a common voice.
+C. written an entire report each and chosen the best one to submit.
+D. assigned one person to write the entire report.
+
+94. B
+Collaborated on the report to establish a common voice. When working with others on communications projects such as reports, it's important for teams to find a common voice so that they communicate their messages most effectively. In this example, the team members did not combine their writing styles into a common style— causing their report to lack cohesion and clarity. Jessica, Adam, and Tanya should not have chosen a single team member to write the entire report; that would be unfair. They should not have written an entire report each and chosen the best report to submit; that would be a waste of time and resources. It would be inappropriate to ask their supervisor for different projects rather than following directions. 
+SOURCE: NF:215 Collaborate on and aggregate complex internal documents to create a common voice
+SOURCE: The University of North Carolina at Chapel Hill. (2023). Group writing. Retrieved September 26,
+2023, from https://writingcenter.unc.edu/tips-and-tools/group-writing/ 
+
+99. Appropriate information management can 
+A. create more jobs.
+B. save time and money.
+C. create more difficult decisions.
+D. result in audits.
+
+99. B
+Save time and money. Appropriate information management has many benefits for a business, including saving time and money by making operations run more smoothly. Appropriate information management should make decisions easier and should reduce a business's risk of undergoing an unnecessary audit. Appropriate information management may or may not create more jobs. 
+SOURCE: NF:110 Discuss the nature of information management
+SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+1. How can researchers protect the integrity of the marketing information they collect? 
+A. By interpreting it correctly
+B. By organizing it logically
+C. By publishing it openly
+D. By reviewing it frequently
+
+1. A
+By interpreting it correctly. Marketing-information managers can protect the integrity of the information they collect by interpreting it correctly and not manipulating it in such a way that it agrees with a predetermined conclusion. Protecting the integrity of marketing information is sometimes difficult because researchers often can make the information support either side of an issue depending on how they interpret it. Most researchers try to interpret the information correctly because consumers are sometimes suspicious of research findings that seem to support the opinions of the business that sponsors the research. Researchers do not protect the integrity of marketing information by reviewing it frequently, publishing it openly, or organizing it logically. 
+SOURCE: IM:025 Explain the role of ethics in marketing-information management
+SOURCE: Fuggle, L. (2021, June 24). The importance of data integrity for business. Retrieved August 2, 2023,
+from https://blog.hubspot.com/website/data-integrity 
+
+2. Which of the following statements is an example of a measure of central tendency: 
+A. Twelve members of the community swim team are 15 years old.
+B. The average U.S. male buys frozen pizza four times every 30 days.
+C. Morrow County gasoline taxes have increased 15% in 6 months.
+D. The distance between point A and point B is 55 kilometers.
+
+2. B
+The average U.S. male buys frozen pizza four times every 30 days. A measure of central tendency is a term used in marketing research that indicates the center of distribution. The number represents a value derived by a sample taken that falls between the lowest and highest value rating, which can be measured as mode, mean, or median. A mean is an average. The mean is determined by adding the sum of the data values and dividing by the number of values in the set (e.g., sample size). Specific distances between two points, members of a swim team, and increases in gasoline taxes state exact values and do not necessarily represent or state data in terms of averages. 
+SOURCE: IM:191 Explain the use of descriptive statistics in marketing decision making
+SOURCE: Frost, J. (2023). Mean, median, and mode: Measures of central tendency. Retrieved August 2, 2023,
+from https://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/ 
+
+5. Businesses usually maintain customer sales records that contain information about the 
+A. types of products being purchased.
+B. suppliers that provide the goods.
+C. discounts offered by manufacturers.
+D. cost of paying commissioned salespeople.
+
+5. A
+Types of products being purchased. Businesses maintain a variety of records about the quantities and types of products that customers are purchasing. These records are usually known as sales records. By analyzing past sales records, businesses can determine what customers are buying, when they are buying, and how much they are buying. This helps a business forecast future sales so it can be prepared to offer the products that customers want. Businesses do not maintain customer sales records that contain information about the discounts offered by manufacturers, the cost of paying commissioned salespeople, or the suppliers that provide the goods. 
+SOURCE: NF:002 Maintain customer records
+SOURCE: Entrepreneur. (2023). Sales records. Retrieved August 2, 2023, from
+https://www.entrepreneur.com/encyclopedia/sales-records 
+
+11. Marketers use data to determine pricing strategies such as 
+A. what products to offer.
+B. how much of the product to create.
+C. how much to spend on advertising.
+D. when to offer a discount on the product.
+
+11. D
+When to offer a discount on the product. Pricing strategies include determining what to charge for a product and also determining when to adjust the product's price by either raising it or offering a discount. Determining how much to spend on advertising is a promotional decision. Determining how much of the product to create is a distribution or place decision. Determining what products to offer is a product decision. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012—Data Do It (Need for Marketing Data)
+
+21. A national fast-food chain test markets its new sandwich in a few cities to gather data about its sales potential. Which type of marketing research is this? 
+A. Exploratory
+B. Descriptive
+C. Statistical
+D. Causal
+
+21. D
+Causal. Marketing research that focuses on cause and effect and tests “what if?” theories is called causal research. Causal research is typically completed by conducting experiments or simulations, which must be carefully designed and tightly controlled. This type of research is often very expensive. Examples of causal research include test marketing, allowing customers to shop in a simulated store and recording their actions, and conducting a clinical trial for a new medication. Exploratory research collects information to help the business define its issue, situation, or concern and decide the direction in which to go to address it. Descriptive research (also referred to as statistical research) gathers specific information related to an identified issue, situation, or concern. 
+SOURCE: IM:284 Describe methods used to design marketing research studies (i.e., descriptive, exploratory,
+and causal) 
+SOURCE: LAP-IM-284—Better by Design (Marketing Research Designs)
+MARKETING CLUSTER EXAM—KEY 6 
+
+25. One of the roles of ethics in information management involves an individual's right to 
+A. equity.
+B. privacy.
+C. safety.
+D. dignity.
+
+25. B
+Privacy. Information management is the process of accessing, processing, maintaining, evaluating, and disseminating knowledge, facts, or data for the purpose of assisting business decision-making. Some of this information may be personal data that businesses obtain about their employees, customers, suppliers, etc. Individuals have the right to expect that the privacy of their personal information will be maintained. Businesses that are ethical do everything they can to protect private information and make sure it is not misused or made available to unauthorized users. Safety is freedom from danger or risk. Dignity is a high degree of calmness and self-possession. Equity is fairness. 
+SOURCE: NF:111 Explain the role of ethics in information management
+SOURCE: Osano. (2023, January 24). What is data privacy management? Retrieved August 2, 2023, from
+https://www.osano.com/articles/data-privacy-management MARKETING CLUSTER EXAM—KEY 7 
+
+40. Facts about demographic shifts, the competition, and product demand gathered to solve a business's problem are examples of 
+A. data analysis.
+B. situation analysis.
+C. primary data.
+D. marketing research.
+
+40. C
+Primary data. Primary data are collected specifically for the problem or project at hand. They may be used to solve a problem, to explore an opportunity, or for any other purpose useful to the business. Marketing research is the systematic gathering, recording, and analyzing of data about a specific problem. Data analysis is the process of evaluating information. A situation analysis is a determination of a firm's current business situation and the direction in which the business is headed. 
+SOURCE: IM:001 Explain the nature and scope of the marketing-information management function
+SOURCE: LAP-IM-001—Get the Facts Straight (Marketing-Information Management)
+
+53. How does marketing research help a business implement the marketing concept? 
+A. By solving the business's problems
+B. By preventing financial losses
+C. By setting goals for the business
+D. By identifying consumers' wants and needs
+
+53. D
+By identifying consumers' wants and needs. The marketing concept is a philosophy of conducting business that is based on the belief that all business activities should be aimed toward satisfying consumer wants and needs while achieving company goals. Marketing research helps the business implement the marketing concept by providing it with information about what consumers want, need, and are likely to buy. Marketing research cannot solve a business's problems or prevent financial losses. The business sets its own goals which may or may not be based on marketing-research information. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
+MARKETING CLUSTER EXAM—KEY 13 
+
+55. Which of the following sample designs is appropriate for use in unique or hard-to-reach populations: 
+A. Convenience sampling
+B. Snowball sampling
+C. Cluster sampling
+D. Stratified random sampling
+
+55. B
+Snowball sampling. Snowball sampling, also called referral sampling, is a method in which researchers ask respondents to help them identify and recruit additional respondents for the study. It is useful for target populations that are very small, specific, or hard to reach. Cluster sampling is a probability sampling method in which researchers divide the target population into non-overlapping subpopulations that are determined by geography and then randomly sample each one. Stratified random sampling is a probability sampling method in which researchers break the target population down into non-overlapping groups and draw simple random samples from each one. Convenience sampling is a non-probability sampling method in which researchers choose respondents based on opportunity. 
+SOURCE: IM:285 Discuss the nature of sampling plans (i.e., who, how many, how chosen)
+SOURCE: LAP-IM-285—Take Your Pick (Nature of Sampling Plans)
+
+63. Which of the following situations is an example of a marketing researcher obtaining secondary data: 
+A. Marsha follows up with a customer.
+B. Maliq interviews a client.
+C. Jennifer distributes a survey.
+D. Ben reads a trade magazine.
+
+63. D
+Ben reads a trade magazine. Secondary data are information collected for purposes other than the project at hand. Reading a trade magazine can provide researchers with secondary information about trends, statistics, and regulations about a specific trade or industry. Interviewing a client, following up with a customer, and distributing a survey are ways in which businesses often collect primary data. 
+SOURCE: IM:281 Describe options businesses use to obtain marketing research data (i.e., primary and
+secondary research) 
+SOURCE: Indeed. (2022, July 22). Primary vs. secondary data in market research: Definitions and differences.
+Retrieved August 2, 2023, from https://www.indeed.com/career-advice/career-development/primaryvs-secondary-data-market-research 
+
+64. The increased use of computers and telecommunications equipment is fueling the trend in business that allows many employees to 
+A. perform routine tasks.
+B. participate in management.
+C. compete with coworkers.
+D. work in various locations.
+
+64. D
+Work in various locations. The increased use of computers and telecommunications equipment is changing the way many companies operate and do business. At one time, most employees worked in one location and communicated with others through written memos and phone calls. Today, computers and telecommunications equipment allow many employees to work in various locations and maintain contact with coworkers, managers, and customers. For example, an employee with a laptop can work from home, while traveling by air to an appointment, while conducting business in a foreign country, or while relaxing at the beach. Routine tasks often do not necessarily involve the use of computers or telecommunications equipment. The increased use of computers and telecommunications equipment does not necessarily allow employees to participate in management or encourage them to compete with coworkers. 
+SOURCE: NF:013 Describe current business trends
+SOURCE: Hamingson, N. (2023, April 12). Communication technology and inclusion will shape the future of
+remote work. Retrieved August 2, 2023, from https://www.businessnewsdaily.com/8156-future-ofremote-work.html 
+
+70. It is beneficial to a marketing researcher to use open-ended questions on a survey when 
+A. maintaining structure is important.
+B. requesting objective responses.
+C. using a long, technical survey.
+D. conducting exploratory research.
+
+70. D
+Conducting exploratory research. Exploratory research is marketing research that collects information to help the business define its issue, situation, or concern and decide which direction to go in order to address it. Surveys that consist of open-ended questions require respondents to provide more than a "yes" or "no" answer. An open-ended question is a type of unstructured question that allows a respondent the opportunity to express opinions, state issues, and provide ideas. By obtaining this type of in-depth, qualitative information, the researcher may be able to define the problem and determine in which direction to proceed with the research. Long and technical surveys tend to overwhelm the respondents, so open-ended questions may not be answered fully, if at all. The use of open-ended questions yields subjective responses that are based on opinions and personal feelings. 
+SOURCE: IM:293 Evaluate questionnaire design (e.g., types of questions, question wording, routing,
+sequencing, length, layout) 
+SOURCE: Qualtrics. (2023). Your quick guide to open-ended questions in surveys. Retrieved August 2, 2023,
+from https://www.qualtrics.com/experience-management/research/open-ended-questions/ MARKETING CLUSTER EXAM—KEY 17 
+
+87. Which of the following survey response methods is the most difficult for researchers to code for evaluation: 
+A. Open-ended
+B. Closed-ended
+C. Forced-choice
+D. Scale-response
+
+87. A
+Open-ended. Researchers assign codes to survey responses in an effort to use the information in a numerical mode. Open-ended questions are designed so that respondents react to questions in a manner that requires more than "yes" or "no" as an answer. Because possible responses are not controlled or limited, coding is often more difficult. Closed-ended questions offer limited response options to inquiries or statements. Forced-choice questions are closed-ended questions. A scale is a method of measurement that assigns range of possible responses. For example, a scale that is often used to assess a respondent's feeling regarding a statement might range from "strongly agree" to "strongly disagree." This is a form of the forced-choice response method. 
+SOURCE: IM:062 Explain techniques for processing marketing data
+SOURCE: Ascribe. (2021). Survey coding for improved research results. Retrieved August 2, 2023, from
+https://goascribe.com/blog/survey-coding-guide/ 
+
+88. The owners of a Chinese bistro decided to open a Thai restaurant. After surveying their regular customers, they determined that 85% of people sampled would be very likely to visit the new Thai restaurant. Therefore, they determined that the restaurant would be a success in their town. A possible problem with the data collected is that they 
+A. include leading questions.
+B. are full of dishonest responses.
+C. contain incomplete data.
+D. do not represent the population.
+
+88. D
+Do not represent the population. Because the survey was only given to regular customers of the Chinese restaurant, the sample does not represent the total population of the town. Regular customers are more likely to indicate interest in the new restaurant because they already have a favorable impression of the current restaurant. There is no indication that the data gathered are incomplete, contain leading questions, or are full of dishonest responses. 
+SOURCE: IM:292 Identify sources of error in a research project (e.g., response errors, interviewer errors, nonresponse errors, sample design)
+SOURCE: Australian Bureau of Statistics. (2023, March 1). Errors in statistical data. Retrieved August 2, 2023,
+from https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic+Survey+Design++Errors+in+Statistical+Data MARKETING CLUSTER EXAM—KEY 21 
+
+92. Statistical findings reveal that the Benson Company earned a 35% net profit on the funds it spent on a project. The statistics provided the Benson Company with information about the business's 
+A. return on investment.
+B. sales strategies.
+C. sales commission rate.
+D. retention rate.
+
+92. A
+Return on investment. The return on investment is calculated by dividing the net profit by the amount spent. This type of information helps the business measure the success of a specific business activity. Retention rates provide information about repeat customers. Sales strategies are the activities salespeople use to sell products. A sales commission rate is a form of compensation paid to salespeople that is based on a certain percentage of sales volume or sales dollars. 
+SOURCE: NF:093 Interpret statistical findings
+SOURCE: Fernando, J. (2023, May 24). Return on investment (ROI): How to calculate it and what it means.
+Retrieved August 2, 2023, from https://www.investopedia.com/terms/r/returnoninvestment.asp MARKETING CLUSTER EXAM—KEY 22 
+
+93. Many businesses use database software programs to computerize their customer mailing lists in order to instantly 
+A. prepare sales letters.
+B. sort by zip code.
+C. write email messages.
+D. calculate monthly profit.
+
+93. B
+Sort by zip code. Database software programs allow businesses to arrange customer information according to various criteria. Once the names, addresses, and other information are entered in the computer, the business can sort the data alphabetically, by zip code, or using any other criteria. For example, a business might sort the list by birthday in order to send each customer a personalized card. A business might use a spreadsheet program to calculate monthly profit, a word-processing program to prepare sales letters, and a communications program to write email messages. 
+SOURCE: NF:009 Demonstrate basic database applications
+SOURCE: Oracle. (2023). What is database software? Retrieved August 2, 2023, from
+https://www.oracle.com/database/what-is-database/#database-software 
+
+2. Naomi uses quality market research methods, is open about those methods, and backs up the research with transparent, objective analysis. Naomi is establishing 
+A. privacy.
+B. competition.
+C. credibility.
+D. adaptability.
+
+2. C
+Credibility. Credibility is believability. It is critical that marketers ensure the information they manage is believable. Otherwise, no one will trust the information, and it won’t be useful. Marketers can establish credibility by using quality research methods, being open about those methods, and backing up the research with transparent, objective analysis. Naomi is not establishing competition, privacy, or adaptability in this scenario. 
+SOURCE: IM:025 Explain the role of ethics in marketing-information management
+SOURCE: LAP-IM-025—Info With Integrity (Ethics in Marketing-Information Management)
+
+4. Marketers that use good marketing research methods 
+A. avoid use of the scientific method.
+B. consider the cost and value of market research.
+C. leave no room for creativity.
+D. use a single method for collecting data.
+
+4. B
+Consider the cost and value of market research. Marketers that use good marketing research methods consider the cost and value of market research. This means that in addition to determining the costs of research, marketers ensure the results are valuable enough for management to make decisions on the results of their research. Good marketing research methods use the scientific method, are innovative and creative, and use multiple methods for collecting data. 
+SOURCE: IM:428 Assess appropriateness of marketing research for the problem/issue (e.g., research
+methods, sources of information, timeliness of information, etc.) 
+SOURCE: QS Study. (2023). Characteristics of good marketing research. Retrieved September 29, 2023, from
+https://qsstudy.com/characteristics-of-good-marketing-research 
+
+9. Leo receives a call from a telemarketer claiming to be a researcher conducting a poll. In reality, the telemarketer is attempting to solicit a donation rather than conducting a research poll. This is an example of 
+A. frugging.
+B. sugging.
+C. bargaining.
+D. advertising.
+
+9. A
+Frugging. Frugging refers to fundraising under the guise of market research. Because the telemarketer in this scenario is claiming to be a researcher conducting a poll when actually attempting to solicit a donation, this is an example of frugging. Sugging refers to selling under the guise of market research. Advertising is any paid form of nonpersonal presentation of ideas, images, goods, or services. Bargaining is a negotiating technique that involves giving another party something they want and receiving something desired in return. 
+SOURCE: IM:419 Describe the regulation of marketing-information management
+SOURCE: The Market Research Society. (2023). Sugging and frugging FAQ. Retrieved September 19, 2023,
+from https://www.mrs.org.uk/standards/suggingfaq 
+
+11. Which of the following is a best practice of questionnaire design: 
+A. Ask the more important items earlier
+B. Ask about multiple ideas at a time
+C. Phrase questions using negative language
+D. Place sensitive items early in a questionnaire
+
+11. A
+Ask the more important items earlier. When developing a questionnaire, put the more important items earlier in the questionnaire. This will increase the likelihood that respondents will answer the questions while they are focused. Sensitive items, such as demographic questions, are better later in the questionnaire because respondents will have already completed most of the survey and will be more likely to answer them. Putting sensitive questions early may force respondents to put their guard up. Questions should be phrased using positive language rather than negative language. Questionnaires should only ask about one idea at a time rather than multiple. 
+SOURCE: IM:293 Evaluate questionnaire design (e.g., types of questions, question wording, routing,
+sequencing, length, layout) 
+SOURCE: Imperial College London. (2023). Best practice in questionnaire design. Retrieved September 29,
+2023, from https://www.imperial.ac.uk/education-research/evaluation/tools-and-resources-forevaluation/questionnaires/best-practice-in-questionnaire-design 
+
+14. Which of the following is an example of an estimate: 
+A. About a third of a business’s employees work remotely.
+B. Costs will be up 20% next year.
+C. Sales were down 5% last quarter.
+D. All employees are enrolled in health insurance.
+
+14. A
+About a third of a business’s employees work remotely. An estimate is an approximation or educated guess. The statement “about a third of a business’s employees work remotely” is an estimation. The statement “costs will be up 20% next year” is an example of a prediction, or a forecast about the future. The statements “all employees are enrolled in health insurance” and “sales were down 5% last quarter” are both examples of facts, or data that can be verified. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012—Data Do It (Need for Marketing Data)
+2024 HS ICDC MARKETING CLUSTER EXAM—KEY 4 
+
+16. Key details and characteristics of an organization or company are called __________ data. 
+A. firmographic
+B. geographic
+C. topographic
+D. demographic
+
+16. A
+Firmographic. Firmographic data is information used to categorize organizations, such as a company’s name, revenue, or workforce. Geographic data is information which specifically deals with the physical location of people, places, or objects. Demographic data deals with socioeconomic information regarding individuals or groups, such as education, income, or birth rates. Topographic data categorizes the elevation of different surfaces of Earth. 
+SOURCE: IM:062 Explain techniques for processing marketing data
+SOURCE: Cognism. (2023). What is marketing data? Retrieved September 6, 2023, from
+https://www.cognism.com/what-is-marketing-data 
+
+30. Information technology and information systems are similar, except the latter includes an emphasis on 
+A. coding languages.
+B. global trends.
+C. the people involved.
+D. artificial intelligence.
+
+30. C
+The people involved. Information technology involves the technological elements of a set of information (e.g., hardware, software, networks). Information systems involve the management of an entire set of information, which includes both the technological elements and the people and processes therein. Coding languages, global trends, and artificial intelligence are not related to the distinction between information technology and information systems. 
+SOURCE: NF:083 Explain the role of information systems
+SOURCE: The University of Arizona. (2023, June 20). Information technology vs. information systems.
+Retrieved September 20, 2023, from https://www.uagc.edu/blog/information-technology-vsinformation-systems-which-degree-is-right-for-me 
+
+32. Which of the following is most likely a source of primary marketing data: 
+A. Former employees
+B. Sales invoices
+C. Industry reports
+D. Government reports
+
+32. A
+Former employees. Primary research collects data specifically for the project at hand. There are many different sources that organizations can use to gather primary data. One of those is employees, past and present. Industry reports, sales invoices, and government reports are all sources of secondary data. 
+SOURCE: IM:281 Describe options businesses use to obtain marketing research data (i.e., primary and
+secondary research) 
+SOURCE: LAP-IM-281—What’s the Source? (Obtaining Marketing-Research Data)
+2024 HS ICDC MARKETING CLUSTER EXAM—KEY 8 
+
+37. Exploratory research is often conducted to 
+A. make specific predictions.
+B. clarify concepts.
+C. perform clinical trials.
+D. test-market a product.
+
+37. B
+Clarify concepts. Before marketers can make marketing decisions to boost customer satisfaction, they must first identify what needs to be changed. Exploratory research can help marketers identify specific problems before the bulk of the research begins. Specific predictions are typically made in the course of descriptive research, not exploratory research. Test-marketing a product and performing clinical trials are examples of causal research. 
+SOURCE: IM:284 Describe methods used to design marketing research studies (i.e., descriptive, exploratory,
+and causal) 
+SOURCE: LAP-IM-284—Better by Design (Marketing Research Designs)
+2024 HS ICDC MARKETING CLUSTER EXAM—KEY 9 
+
+48. Basic research is different than applied research in that basic research 
+A. looks to discover new information.
+B. aims to solve a problem.
+C. is more practical in nature.
+D. is curiosity-driven.
+
+48. D
+Is curiosity-driven. Basic research is a type of investigation that focuses on improving the understanding of a particular law of nature, study, or phenomenon. Basic research examines data to fulfill a sense of curiosity and typically uses "how," "what," and "why" questions to explain occurrences. Applied research looks to find practical solutions to existing problems and focuses on discovering new information. 
+SOURCE: IM:292 Identify sources of error in a research project (e.g., response errors, interviewer errors, nonresponse errors, sample design)
+SOURCE: Indeed. (2023, July 31). Basic research vs. applied research: What's the difference? Retrieved
+September 29, 2023, from https://www.indeed.com/career-advice/career-development/basicresearch-vs-applied-research 
+
+54. Logan wants to make a grocery list for her trip to the store tomorrow. Which of the following productivity apps on her phone should she use: 
+A. Address book
+B. Calculator
+C. Calendar
+D. Notes
+
+54. D
+Notes. There are many productivity applications available on personal devices, including a notes app, calculator, address book, and calendar. If Logan wants to make a grocery list for her trip to the store tomorrow, she should use the notes app, which enables her to add and organize text—and even incorporate checkboxes. A calculator, address book, and calendar are helpful tools, but they will not help Logan make a grocery list. 
+SOURCE: NF:005 Demonstrate personal information management/productivity applications
+SOURCE: Apple. (2023, February 8). Create a checklist with Notes. Retrieved September 20, 2023, from
+https://support.apple.com/en-us/HT209365 
+
+60. The main role of information technology in marketing management is to 
+A. send promotional emails to customers.
+B. improve employee turnover rate.
+C. ensure the creation of quality products.
+D. help gather data about customers.
+
+60. D
+Help gather data about customers. The main role of information technology in marketing management is to help gather data about customers. Properly gathering, managing, and analyzing this data ensures businesses have the right information about the market and customers. The main role of information technology in marketing management is not to send promotional emails to customers, ensure the creation of quality products, or improve employee turnover rate. 
+SOURCE: IM:183 Describe the use of technology in the marketing-information management function
+SOURCE: Vaia. (2023). Marketing information management. Retrieved September 19, 2023, from
+https://www.hellovaia.com/explanations/marketing/marketing-information-management 2024 HS ICDC MARKETING CLUSTER EXAM—KEY 14 
+
+67. When collaborating on a shared document, it’s helpful for teams to use __________ to achieve a consistent voice. 
+A. a style guide
+B. a typing assistant
+C. presentation software
+D. cultural norms
+
+67. A
+A style guide. When collaborating on a shared document, it’s helpful for teams to use a style guide to achieve a consistent voice. A style guide is a set of standards for developing and designing a document. It often provides guidelines around tone, terminology, and grammar rules, which, when followed by a team of writers, helps achieve consistency in voice and branding. Cultural norms, presentation software, and a typing assistant will not help teams achieve a consistent voice on a shared document. 
+SOURCE: NF:215 Collaborate on and aggregate complex internal documents to create a common voice
+SOURCE: Duggan, D. (2017, April 21) 5 tips to maintain a consistent blog voice with multiple writers. Retrieved
+September 20, 2023, from https://sprk-d.com/5-tips-to-maintain-a-consistent-blog-voice-withmultiple-writers/ 
+
+82. Which of the following best describes the mode when evaluating a data set: 
+A. The middle value of the data set
+B. The value that most frequently occurs
+C. The difference between the highest and lowest value
+D. The average of the data set
+
+82. B
+The value that most frequently occurs. In descriptive statistics, the mode refers to the value that occurs most frequently in a data set. The average of a data set is the mean, which is calculated by adding all numbers in the data set and then dividing by the number of values in the set. The median refers to the middle value of a data set when it is ordered from least to greatest. The range of a data set is simply the highest value in a data set minus the lowest value. 
+SOURCE: IM:191 Explain the use of descriptive statistics in marketing decision making
+SOURCE: Conjointly. (2023). Descriptive statistics. Retrieved September 19, 2023, from
+https://conjointly.com/kb/descriptive-statistics 2024 HS ICDC MARKETING CLUSTER EXAM—KEY 19 
+
+87. “How can we better promote products that are underperforming in sales?” is an example of a __________ problem. 
+A. strategy-oriented decision
+B. relevant variable
+C. unit of analysis
+D. discovery-oriented decision
+
+87. A
+Strategy-oriented decision. “How can we better promote products that are underperforming in sales?” is an example of a strategy-oriented decision problem. These problems ask “How?” or “Which?” Discovery-oriented decision problems ask “What?” or “Why?” A unit of analysis is the entity or element that is being studied in market research (e.g., individual, household, etc.). Relevant variables are the types of information studied in a marketing research project (e.g., brand awareness, customer satisfaction, etc.). 
+SOURCE: IM:282 Discuss the nature of marketing research problems/issues
+SOURCE: LAP-IM-282—What’s the Problem? (Marketing Research Problems)
+2024 HS ICDC MARKETING CLUSTER EXAM—KEY 20 
+
+90. Which of the following is an example of a nonsampling error: 
+A. Participants volunteer to provide feedback on a new advertisement.
+B. Participants stopped on the street do not represent the target population.
+C. Respondents exaggerate their answers to survey questions.
+D. Many members of the target population did not respond to surveys.
+
+90. C
+Respondents exaggerate their answers to survey questions. A nonsampling error is any mistake in a research study that occurs outside the sampling process. Respondents who exaggerate or who are less than honest will cause errors that are not related to the sample design. Participants who do not represent the target population, voluntary participation, and members of the target population who do not respond to surveys are examples of sampling errors. 
+SOURCE: IM:285 Discuss the nature of sampling plans (i.e., who, how many, how chosen)
+SOURCE: LAP-IM-285—Take Your Pick (Nature of Sampling Plans)
+
+94. You should aim to make survey questions 
+A. complicated.
+B. vague.
+C. precise.
+D. sympathetic.
+
+94. C
+Precise. Survey questions should be as clear and precise as possible, so that the reader can better comprehend the questions and accurate data can be collected. Survey questions should not be vague or complex so the reader is not confused about what the question is asking. Survey questions are used as datacollection tools, so whether they are sympathetic or not is irrelevant. 
+SOURCE: IM:418 Explain characteristics of effective data-collection instruments
+SOURCE: CustomInsight. (2023). Writing effective employee survey questions. Retrieved September 6, 2023,
+from https://www.custominsight.com/articles/effective-survey-questions.asp 
+
+97. Marketers often use social media analytics to measure 
+A. sales.
+B. inflation.
+C. people.
+D. engagement.
+
+97. D
+Engagement. Social media analytics are used to measure a company’s social media performance, typically measured through engagements. Engagements are simply a measure of how much and how often a target audience interacts with a person or organization’s content online. Inflation is an economic measurement that is not tied directly to social media. Sales are typically not measured on social media; companies calculate sales internally. Marketers have no need to measure people; their objectives are to bring value to a company via promotion, pricing, product development, and many other responsibilities. 
+SOURCE: IM:469 Monitor/measure customer “buzz”
+SOURCE: Razor Social. (2019, May 24). The social media analytics tools and tactics guide. Retrieved September 7,
+2023, from https://www.razorsocial.com/social-media-analytics-tools/ 
+
+98. A company might learn who purchases most of its products, which products have the weakest sales, and the direction of consumer trends by conducting a 
+A. situation analysis.
+B. sales forecast.
+C. risk reduction.
+D. promotional strategy.
+
+98. A
+Situation analysis. A situation analysis is a determination of a firm’s current business situation and the direction in which the business is headed. A sales forecast is a prediction of future sales over a specific period of time. Sales forecasts are helpful to a marketer when setting up the marketing budget, planning products, and determining the product mix. A promotional strategy is a method used to advertise, promote, and sell its products/services. Risk reduction is a risk management technique that involves reducing the financial consequences of a loss. 
+SOURCE: IM:001 Explain the nature and scope of the marketing-information management function
+SOURCE: LAP-IM-001—Get the Facts Straight (Marketing-Information Management)
+
+2. Which of the following sample designs is similar to “drawing names out of a hat”: 
+A. Simple random sampling
+B. Systematic random sampling
+C. Stratified random sampling
+D. Cluster sampling
+
+2. A
+Simple random sampling. Simple random sampling is a probability sampling method in which every sampling unit has a known and equal chance of being selected--akin to drawing names out of a hat. Stratified random sampling is a probability sampling method in which researchers break the target population down into nonoverlapping groups and draw simple random samples from each one. Cluster sampling is a probability sampling method in which researchers divide the target population into non-overlapping sub-populations that are determined by geography and then randomly sample each one. Systematic random sampling is a probability sampling method in which researchers place sampling units into a random list and draw a sample using a skip interval. 
+SOURCE: IM:285 Discuss the nature of sampling plans (i.e., who, how many, how chosen)
+SOURCE: LAP-IM-285--Take Your Pick (Nature of Sampling Plans)
+
+5. Researchers are studying a company's past sales invoices as part of their current marketing research project. The sales invoices are examples of 
+A. units of analysis.
+B. primary data.
+C. secondary data.
+D. relevant variables.
+
+5. C
+Secondary data. The sales invoices are examples of secondary data, or facts, figures, and statistics that already exist and have been used for purposes other than the marketing research study. Primary data are new facts, figures, or statistics gathered for the specific marketing research project being conducted. Relevant variables are the types of information studied in a marketing research project (e.g., brand awareness, customer satisfaction). Units of analysis are the entities or elements that are being studied in market research (e.g., individual, household). 
+SOURCE: IM:282 Discuss the nature of marketing research problems/issues
+SOURCE: LAP-IM-282--What's the Problem? (Marketing Research Problems)
+MARKETING CLUSTER EXAM—KEY 2 
+
+8. What is wrong with a survey question that asks, “How would you rate our customer service and product quality?” 
+A. It asks respondents to assess two different topics at the same time.
+B. It influences the respondent's answer by inserting an opinion.
+C. It uses unfamiliar terminology that could confuse respondents.
+D. It is an open-ended question that limits the respondent's answer.
+
+8. A
+It asks respondents to assess two different topics at the same time. The survey question "How would you rate our customer service and product quality?" is an example of a double-barreled question, which requests a single answer for two different topics (customer service and product quality). It is not an open-ended question limiting the respondent's answer. The survey question does not insert an opinion or use unfamiliar terminology. 
+SOURCE: IM:293 Evaluate questionnaire design (e.g., types of questions, question wording, routing,
+sequencing, length, layout) 
+SOURCE: SurveyMonkey. (1999-2023). Best practices for writing good survey and poll questions. Retrieved
+September 18, 2023, from https://www.surveymonkey.com/mp/writing-survey-questions 
+
+10. You are a marketing-research specialist for a company and have been asked to develop ideas for a new product that the company might produce. To compile age, income, and geographic information on possible customers, you should obtain 
+A. primary data from marketing-research companies.
+B. primary data from industry organizations.
+C. secondary data from government agencies.
+D. secondary data from company sales records.
+
+10. C
+Secondary data from government agencies. Secondary data are information that have been collected for purposes other than the project at hand. Government agencies are a good source of secondary data because they compile extensive information on the general public, including median age and income statistics in geographic areas throughout the country. Company sales records would not contain age, income, and geographic information on customers. Information from marketing-research companies and industry organizations is considered to be secondary data rather than primary data. 
+SOURCE: IM:001 Explain the nature and scope of the marketing-information management function
+SOURCE: LAP-IM-001--Get the Facts Straight (Marketing-Information Management)
+
+19. The Power Good Company is attempting to project how much profit its brand new product is likely to generate. What is the company doing? 
+A. Generating facts
+B. Making estimates
+C. Building data sets
+D. Making predictions
+
+19. B
+Making estimates. Estimates are approximations of data--or put more simply, educated guesses. Since the product is brand new, the company doesn't have any past sales on which to base its projection. Instead, it has to formulate its best guess for how much profit the product will generate. A prediction is based on past sales and current market data. Facts are data that can be verified. Because the product is new, there is no way data can be verified for it. Data sets may be the foundation for estimates or predictions, but there's no indication that the business in this situation is building data sets. 
+SOURCE: IM:012 Describe the need for marketing data
+SOURCE: LAP-IM-012--Data Do It (Need for Marketing Data)
+
+22. Which of the following is the best place to start looking for data about competitors: 
+A. The company's internal records
+B. The company's call reports
+C. The company's website
+D. The local newspaper
+
+22. C
+The company's website. Finding data about competitors can be difficult. The best place to start looking is usually the “Investors” section of the company's website. You would not have access to the company's internal records or call reports. You may or may not find useful data in the local newspaper. 
+SOURCE: IM:184 Identify data monitored for marketing decision making
+SOURCE: LAP-IM-184--Data Diving (Identifying Marketing Data)
+
+27. What do businesses create to help answer the research problem? 
+A. Procedures
+B. Objectives
+C. Activities
+D. Strategies
+
+27. B
+Objectives. There is a strong relationship between the research purpose and the research objectives, which are the goals of the research. Businesses create research objectives to help answer the research problem. For example, if the problem is service, one objective might be to determine customer satisfaction with delivery. Strategies are plans of action, or activities, for achieving goals and objectives. A procedure is the step-by-step process personnel follow in performing a specific task. 
+SOURCE: IM:284 Describe methods used to design marketing research studies (i.e., descriptive, exploratory,
+and causal) 
+SOURCE: Indeed. (2023, February 16). Research objectives: Definition and how to write them. Retrieved
+September 18, 2023, from https://www.indeed.com/career-advice/career-development/researchobjectives MARKETING CLUSTER EXAM—KEY 7 
+
+29. For legal purposes, what should a business do when it collects marketing information from its online customers? 
+A. Post its privacy policies on its website
+B. Store the information at an insecure site
+C. Purchase surge-protection insurance
+D. Develop confidential selling strategies
+
+29. A
+Post its privacy policies on its website. Privacy policies are a business's guidelines about how it maintains and uses its customers' information such as credit, purchasing habits, and addresses. To protect consumers' privacy, governments often legislate how businesses can obtain and use customer information. Jurisdiction refers to the authority (e.g., location, subject matter) a court has to resolve a legal issue. For example, one state, province, or country may require a business to disclose to customers that it allows third parties access to certain customer information, while another state, province, or country may not have the same law. Therefore, businesses should post their privacy policies on their websites to reduce the risk of lawsuits that may be initiated by customers in other jurisdictions. Storing information at an unsafe site is a poor business practice and may be grounds for a lawsuit in some jurisdictions. A surge protector is a device that individuals and businesses use to prevent excessive bursts of electricity from damaging computers. Some insurance companies provide businesses with insurance to cover losses associated with power surges. Selling strategies are the plans of action for the selling function, which do not always affect consumers' privacy. 
+SOURCE: IM:419 Describe the regulation of marketing-information management
+SOURCE: Pegarella, S. (2019, July 16). Privacy policies are mandatory by law. Retrieved September 18, 2023,
+from https://www.termsfeed.com/blog/privacy-policy-mandatory-law 
+
+32. Which of the following situations is an example of a nonresponse error: 
+A. Jenny coded a survey respondent's answer with the number two instead of the number three.
+B. Ben found that the sample group was not representative of the target market.
+C. Angela developed a written survey containing open-ended questions.
+D. Tim did not answer the last two questions on a written survey.
+
+32. D
+Tim did not answer the last two questions on a written survey. Nonresponse errors occur when respondents do not answer a question or complete a survey. These errors may affect the quality of the overall data and the analysis process. Because Tim didn't answer two questions on a survey, a nonresponse error occurred. Errors may be intentional or unintentional. For example, a respondent might refuse to answer a question because they believe it is too personal, while another respondent might not answer a question because they did not see it. Incorrect coding is an editing error. When a sample group is not representative of the target market, a procedural error occurs. Developing open-ended survey questions does not indicate a nonresponse error. 
+SOURCE: IM:292 Identify sources of error in a research project (e.g., response errors, interviewer errors, nonresponse errors, sample design)
+SOURCE: Statistics Canada. (2021, September 9). 3.5.3 Non-sampling error. Retrieved September 18, 2023,
+from https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch6/nse-endae/5214806-eng.htm 
+
+34. Alyssa and Tyrone are working on a report together. They need to finish the report by Monday, but both of them will be out of town for the weekend. What tool would best help Alyssa and Tyrone finish their assignment on time without compromising teamwork? 
+A. A collaborative software application such as Google Docs
+B. A single-user word-processing software such as Notepad
+C. A multimedia presentation software application such as PowerPoint
+D. A mathematical spreadsheet program such as Microsoft Excel
+
+34. A
+A collaborative software application such as Google Docs. Collaborative groupware applications such as Google Docs can help teams work together in real time, even if group members are in different locations. Collaborative software would likely be Alyssa and Tyrone's best choice for completing their report by Monday without sacrificing teamwork. Notepad, PowerPoint, and Excel would not necessarily help them work on their report together in real time. 
+SOURCE: NF:011 Demonstrate collaborative/groupware applications
+SOURCE: Fisher, S. (2018, July 18). Your guide to collaborative document editing with Google Docs. Retrieved
+September 18, 2023, from https://www.mojomedialabs.com/blog/your-guide-to-collaborativedocument-editing-with-google-docs 
+
+38. Which of the following is a true statement about qualitative research: 
+A. It uses large samples of the population.
+B. It is often conducted through experiments.
+C. It is based on statistics and facts.
+D. It is conducted during a short time frame.
+
+38. D
+It is conducted during a short time frame. Qualitative research is conducted during a short time frame. It uses small samples of the population and is based on subjective data--thoughts, feeling, experiences, emotions, etc. Quantitative research uses experiments as a method; qualitative research relies more on questionnaires, focus groups, informal interview, etc. 
+SOURCE: IM:281 Describe options businesses use to obtain marketing research data (i.e., primary and
+secondary research) 
+SOURCE: LAP-IM-281--What's the Source? (Obtaining Marketing-Research Data)
+
+53. What is an effective data-collection method that provides accurate information about how people behave under normal circumstances? 
+A. Experiment
+B. Survey
+C. Observation
+D. Interview
+
+53. C
+Observation. Observation is a marketing-research method that gathers data by watching consumers. It is an effective research approach that provides information about what they do and how they interact with others. People do not know they are being observed so they behave in a normal way that provides useful information. The survey, experiment, and interview methods involve contact with people so they may not provide the most truthful or accurate information about what they do. 
+SOURCE: IM:289 Describe data-collection methods (e.g., observations, mail, diaries, telephone, Internet,
+discussion groups, interviews, scanners, tracking tools) 
+SOURCE: LAP-IM-289--Hunting and Gathering (Data-Collection Methods)
+MARKETING CLUSTER EXAM—KEY 13 
+
+61. Every year, the MXQ Company contacts its customers to verify their phone numbers, shipping and billing information, and email addresses. The primary purpose of this activity is to 
+A. update the company's customer records.
+B. establish goodwill through public relations.
+C. achieve the company's sales quotas.
+D. determine the customers' buying intentions.
+
+61. A
+Update the company's customer records. When customers change phone numbers and email addresses, move, or go out of business, a company needs to update its customer database to reflect the changes. A company with outdated customer information is more likely to experience financial losses. For example, a company may not be able to collect payment on overdue accounts if it cannot reach its customers by phone to follow up. Also, a company's promotional mailings are likely to be returned if it does not have current mailing addresses for its customers. In this situation, the company has wasted money in postage. The primary purpose of updating customer contact information is not to achieve sales quotas, determine the customers' buying intentions, or establish goodwill through public relations. 
+SOURCE: NF:002 Maintain customer records
+SOURCE: Evans, D. (2020, February 28). How to maintain your CRM database. Retrieved September 18,
+2023, from https://www.yokellocal.com/blog/how-to-maintain-your-crm-database 
+
+68. A sample indicates that the average income in the northwest region is $31,257. This is an example of __________ statistical information. 
+A. descriptive
+B. unilateral
+C. multivariate
+D. sequential
+
+68. A
+Descriptive. Descriptive statistics are derived by summarizing information gathered from a sample of a population. Multivariate statistics are derived by analyzing two variables at the same time. Sequential and unilateral are not common terms used to define types of statistical information collected and analyzed by market researchers. 
+SOURCE: IM:191 Explain the use of descriptive statistics in marketing decision making
+SOURCE: College of St. Benedict and St. John's University. (n.d.). Descriptive statistics. Retrieved September
+18, 2023, from http://www.physics.csbsju.edu/stats/descriptive2.html 
+
+77. Determine whether the following statement is true or false: Identifying the reason the business needs to do marketing research is the easiest step in the marketing research process. 
+A. True; identifying the reason for the research is an easy and inexpensive step.
+B. True; this step is easy because businesses know what their research needs are.
+C. False; outside experts must be hired to identify the reason for the research.
+D. False; identifying the real reason for the research can be a very difficult step.
+
+77. D
+False; identifying the real reason for the research can be a very difficult step. The reason that this is true is that the business cannot always identify a concern, situation, or problem accurately to determine what information it needs. While outside experts may be helpful in some cases, it is not always necessary to hire them. Usually, personnel within the business are in the best position to identify the reason why the business needs to use marketing research because of their familiarity with the business. 
+SOURCE: IM:010 Explain the nature of marketing research
+SOURCE: LAP-IM-010--Seek and Find (Marketing Research)
+
+90. Which of the following is an ongoing population trend that affects how businesses market their goods and services: 
+A. Migration
+B. Lifestyle
+C. Consumption
+D. Behavior
+
+90. A
+Migration. Migration is a population trend that indicates movement of people throughout the country as well as into and out of the country. Migration trends are important to businesses because businesses need to know where their customers are located. For example, many people are leaving colder climates and migrating to what is considered the Sunbelt. This movement affects businesses because the types of products they sell and the way they sell them will change. Also, the increased migration of ethnic groups into the country creates a need for new goods and services that meet the needs of a multicultural population. Lifestyle, consumption, and behavior are not population trends; however, these factors also affect how businesses market their goods and services. 
+SOURCE: NF:013 Describe current business trends
+SOURCE: Cromwell, J. (n.d.). Do changes in population as well as changes in lifestyle directly affect business
+operations? Retrieved September 18, 2023, from https://smallbusiness.chron.com/changespopulation-well-changes-lifestyle-directly-affect-business-operations-34395.html 
+
+94. Von is a very thorough record keeper. He always carefully files his company's bills, receipts, and cancelled checks because he knows that the company has a responsibility to prove the expenses it lists on its tax return. Von's company bears a 
+A. tax return proof.
+B. burden of proof.
+C. responsibility to prove.
+D. record burden.
+
+94. B
+Burden of proof. It's important to keep good records because you are responsible for proving the expenses you deduct on your tax return. This includes things like bills, receipts, and cancelled checks. Von carefully files these items so that they can be easily found. Responsibility to prove, record burden, and tax return proof are not commonly used terms. 
+SOURCE: NF:014 Monitor internal records for business information
+SOURCE: IRS. (2023, May 2). Recordkeeping. Retrieved September 18, 2023, from
+https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping 
+

@@ -1,0 +1,225 @@
+import os
+import os.path
+
+def remove_blank_lines():
+    for filename in os.listdir('output/'):
+        # if filename == 'PF Area.txt':
+        #     continue
+        with open('output/' + filename, encoding='utf-8') as f:
+            lines = f.readlines()
+        result = []
+        previous_blank = False
+        for i in range(len(lines)):
+            line = lines[i]
+            if line.strip() == '':
+                if not previous_blank and not lines[i+1].startswith("SOURCE"):
+                    result.append(line)
+                previous_blank = True
+            else:
+                result.append(line)
+                previous_blank = False
+        with open('output/' + filename, mode='w') as f:
+            f.write('')
+        with open('output/' + filename, mode='a', encoding='utf-8') as f2:
+            for s in result:
+                f2.write(s)
+
+
+def organize_q_a():
+    output = ""
+    for filename in os.listdir('input/'):
+        if exclude_file(filename):
+            continue
+        output_txt = []
+        with open('input/' +filename, encoding='UTF8') as f:
+            lines = f.readlines()
+            print(filename)
+            keyIndex = next(i for i, line in enumerate(lines) if 'KEY' in line.strip())
+
+            firstQuestion = next(i for i, line in enumerate(lines) if line.strip().startswith('1.'))
+
+            num = 1
+            for i in range(firstQuestion, keyIndex):
+                if num == 101:
+                    break
+                line = lines[i]
+                question = ""
+                ans = ""
+                if line.startswith(f'{num}. ') and num < 101:
+                    question = line.replace("\n", "") + " "
+                    i += 1
+                    while not lines[i].startswith('D.'):
+                        if(not lines[i].startswith('Copyright © 2024 by MBA Research and Curriculum Center®, Columbus, Ohio') and not lines[i].startswith('Test') and not lines[i] == '\n'):
+                            if not lines[i].startswith('D.') and not lines[i].startswith('C.') and not lines[i].startswith('B.') and not lines[i].startswith('A.'):
+                                question += lines[i].replace("\n", "") + " "
+                            else:
+                                if lines[i].startswith("A."):
+                                    question += "\n"
+                                question += lines[i] 
+                        i += 1
+                    question += lines[i]
+                    for j in range(keyIndex, len(lines)):
+                        if lines[j].startswith(f'{num}.') and num < 101:
+                            while j < len(lines) and (not lines[j].startswith(f'{num+1}. ')):
+                                if(not lines[j].startswith('Copyright © 2024 by MBA Research and Curriculum Center®, Columbus, Ohio') and not lines[j].startswith('Test') and not lines[j] == '\n'):
+                                    if lines[j].startswith("SOURCE"):
+                                        ans += "\n" + lines[j] 
+                                    elif lines[j].startswith(f'{num}.'):
+                                        ans += lines[j]
+                                    else:
+                                        ans += lines[j].replace("\n", "") +" "
+                                j+= 1
+                
+                    num += 1
+                output_txt.append(question + "\n" + ans)
+
+        if not os.path.isfile('output/' + filename):
+            with open('output/' + filename, mode='x') as f2:
+                f2.write("")
+        with open('output/' + filename, mode='a', encoding='utf-8') as f2:
+            for s in output_txt:
+                f2.write(s)
+
+def organize_instruct_areas():
+    deca_codes = {
+        'PM': 'Pricing',
+        'PD': 'Product_Service Management',
+        'MK': 'Marketing',
+        'PI': 'Promotion',
+        'IM': 'Information Management',
+        'HR': 'Human Resources',
+        'CM': 'Channel Management',
+        'RM': 'Risk Management',
+        'BL': 'Business Law',
+        'CR': 'Customer Relations',
+        'QM': 'Quality Management',
+        'PJ': 'Project Management',
+        'KM': 'Knowledge Management',
+        'PR': 'Professional Development',
+        'FM': 'Financial-Information Management',
+        'SE': 'Selling',
+        'MP': 'Market Planning',
+        'EI': 'Emotional Intelligence',
+        'CO': 'Communications',
+        'OP': 'Operations',
+        'SM': 'Strategic Management',
+        'FI': 'Financial Analysis',
+        'EN': 'Entrepreneurship',
+        # 'NF': 'Operations Management',
+        'EC': 'Economics',
+        'Earning Income': "Earning Income",
+        'Spending': 'Spending',
+        'Saving': 'Saving',
+        'Investing': 'Investing',
+        'Managing Credit': 'Managing Credit',
+        'Managing Risk': 'Managing Risk'
+    }
+
+    deca_questions = {
+        'PM': [],
+        'PD': [],
+        'MK': [],
+        'PI': [],
+        'IM': [],
+        'HR': [],
+        'CM': [],
+        'RM': [],
+        'BL': [],
+        'CR': [],
+        'QM': [],
+        'PJ': [],
+        'KM': [],
+        'PR': [],
+        'FM': [],
+        'SE': [],
+        'MP': [],
+        'EI':[],
+        'CO': [],
+
+        'SM': [],
+        'FI': [],
+        'EN': [],
+        'OP': [],
+        'EC': [],
+        'Earning Income': [],
+        'Spending': [],
+        'Saving': [],
+        'Investing': [],
+        'Managing Credit': [],
+        'Managing Risk': []
+    }
+
+    for k, v in deca_codes.items():
+        filename = v
+        if not os.path.isfile('instruct_area_output/' + v + '.txt'):
+            with open('instruct_area_output/' + v + '.txt', mode='x') as f2:
+                f2.write("")
+    for filename in os.listdir('output/'):
+        with open('output/' + filename, encoding='utf-8') as f:
+            lines = f.readlines()
+            num = 1
+            question = ""
+            key2 = ""
+            for i in range(len(lines)):
+                if lines[i].startswith(f'{num+1}.'):
+                    deca_questions[key2].append(question)
+                    key2 = ''
+                    question = ''
+                    num += 1
+                question += lines[i]
+                if lines[i].startswith('SOURCE:') and key2 == '':
+                    if filename.startswith('PF'):
+                        sub = lines[i][8:]
+                        key2 = sub[:sub.index(' Grade')]
+                    elif ':' in lines[i][8:]:
+                        sub = lines[i][8:]
+                        key2 = sub[:2] 
+                        if key2 == "NF":
+                            key2 = 'IM'    
+                
+                
+    for k, v in deca_codes.items():
+        filename = v
+        with open('instruct_area_output/' + v + '.txt', mode='a', encoding='utf-8') as f3:
+            for s in deca_questions[k]:
+                f3.write(s)
+
+
+def count_unique_clusters():
+    clusters = set()
+    for filename in os.listdir('output/'):
+        # if filename == 'PF Area.txt':
+        #     continue
+        with open('output/' + filename, encoding='utf-8') as f:
+            lines = f.readlines()
+            sources = [lines[i] for i in range(len(lines)) if lines[i].startswith('SOURCE:') and ':' in lines[i][8:]]
+            for line in sources:
+                line2 = line[8:]
+                if line2[2] == ':':
+                    clusters.add(line2[:2])
+    print(clusters)
+
+
+
+def exclude_file(filename):
+    return filename == 'PF Area.txt' or filename == 'BMA State.txt' or filename == 'Fin State.txt'
+
+def main():
+    for filename in os.listdir('output/'):
+        if exclude_file(filename):
+            continue
+        with open('output/' + filename, mode='w') as f:
+            f.write('')
+    for filename in os.listdir('instruct_area_output/'):
+        with open('instruct_area_output/' + filename, mode='w') as f:
+            f.write('')
+    
+    organize_q_a()
+   
+    remove_blank_lines()
+    organize_instruct_areas()
+    # count_unique_clusters()
+
+
+if __name__ == "__main__":
+    main()

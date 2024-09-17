@@ -1,0 +1,644 @@
+1. Ownership investments are ideal for investors who are 
+A. just beginning to invest.
+B. risk-averse.
+C. close to retirement.
+D. risk-tolerant.
+
+1. D
+Risk-tolerant. Ownership investments generally carry more risk than lending investments. Therefore, they are ideal for risk-tolerant investors rather than risk-averse investors. Ownership investments may or may not work for those just beginning to invest or those close to retirement—it just depends on the situation. 
+SOURCE: Investing Grade 8
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+1.05 = 1.1025). Finally, multiply the product by the original investment to determine the value of Yazmin's
+investment in two years (5,000 X 1.1025 = $5,512.50). 
+SOURCE: Investing Grade 8
+
+39. Rasheed is interested in investing in a higher risk mutual fund. What type of mutual fund should he put money into? 
+A. Stock fund
+B. Balanced fund
+C. Money market fund
+D. Bond fund
+
+39. A
+Stock fund. A stock fund, also known as an equity fund, is a pool of shareholders' money invested in different types of stocks. Because stock markets can be volatile, stock funds also carry greater risk. A bond fund is a pool of shareholders' money invested in bonds. A bond fund is generally more stable than a stock fund. A money market fund is a pool of shareholders' money that is invested in securities over a short amount of time. They are low risk because of the short time frame. A balanced fund, which is a mixture of stocks and bonds, is lower risk because of the diversification of the fund. 
+SOURCE: Investing Grade 8
+SOURCE: Donovan, W. (2022, April 10). The 4 types of mutual funds. Retrieved August 31, 2023, from
+https://www.thebalance.com/the-three-general-types-of-mutual-funds-3025628 
+
+43. Why should an investor who wants to actively trade their investment choose an ETF instead of a mutual fund? 
+A. Mutual funds don't allow intraday trades or short selling.
+B. Mutual funds are not professionally managed.
+C. ETFs don't provide any access to small industries or niche markets.
+D. ETFs don't allow intraday trades or short selling.
+
+43. A
+Mutual funds don't allow intraday trades or short selling. An investor who desires to actively trade their investments should choose ETFs, because ETFs allow them to use intraday trades, limit orders, and sell short. These types of actions are not possible with mutual funds that cannot be traded during open stock exchange hours; instead, their price is set at the end of each trading day. ETFs provide more access to small industries or niche markets than mutual funds typically do. Both ETFs and mutual funds are professionally managed portfolios containing a mix of stocks, commodities, and/or bonds. 
+SOURCE: Investing Grade 8
+SOURCE: Pareto, C. (2023, May 24). Mutual fund vs. ETF: What's the difference? Retrieved August 31, 2023,
+from https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp 
+
+47. Max earned $1,500 over the summer working at a restaurant. If Max puts his money in a savings account with 1% simple annual interest rate, how much will Max have in 5 years? 
+A. $1,515
+B. $1,575
+C. $1,725
+D. $1,875
+
+47. B
+$1,575. To calculate the amount that Max's savings account will earn in 5 years, first find the amount of interest that Max will accumulate by multiplying the interest rate by the deposit by the time (1% X $1,500 X 5 = $75). Next, add the interest to the initial deposit ($1,500 + 75 = $1,575). 
+SOURCE: Investing Grade 8
+SOURCE: Burnette, M. (2023, June 16). How to calculate interest in a savings account. Retrieved August 30,
+2023, from https://www.nerdwallet.com/article/banking/how-to-calculate-interest-in-a-savingsaccount 
+
+56. Asher just earned $100 for dog sitting. How can he take advantage of the time value of money? 
+A. Invest the money so he will earn interest.
+B. Store the money in his sock drawer for later use.
+C. Spend the money later to avoid inflation.
+D. Spend part of the money now and save part for later.
+
+56. A
+Invest the money so he will earn interest. The time value of money is a concept that explains why money is more valuable today than it will be in the future. This is because you can invest money and generate interest. The sooner you do so, the more interest you will make. To take advantage of the time value of money, Asher should invest his money to earn interest. Spending the money later will not help Asher avoid inflation. Storing the money in his sock drawer will prevent Asher from earning interest. Spending part of the money now and saving part for later is not related to the time value of money. 
+SOURCE: Investing Grade 8
+SOURCE: Mayes, T.R. (1995-2023). Time value of money: Concepts and calculations. Retrieved August 29,
+2023, from http://www.tvmcalcs.com/index.php/tvm/tvm_intro 
+
+63. Which of the following investments uses a manager who is responsible for deciding which investments to pursue: 
+A. Real estate
+B. Money market account
+C. Bond
+D. Mutual fund
+
+63. D
+Mutual fund. A mutual fund is a combination of stocks from different corporations or agencies. One benefit of investing in mutual funds is access to the expertise of the fund's manager, who is directly responsible for deciding which investments best meet the mutual fund's stated purpose. Investing in real estate, money market accounts, and bonds does not use a manager who is responsible for deciding which investments to pursue. 
+SOURCE: Investing Grade 8
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+66. Yazmin earned $5,000 from her summer job. If she invests it at a rate of 5%, how much will it be worth in two years? 
+A. $5,025.50
+B. $5,512.50
+C. $5,500
+D. $10,250
+
+66. B
+$5,512.50. The formula for calculating future value is Future Value = Present Value X (1 + Interest Rate)^number of periods. To calculate the future value of Yazmin's investment, first add one to the interest rate (1+ 0.05 = 1.05). Then square that sum, which is the same as multiplying that sum by itself (1.052 = 1.05 X 1.05 = 1.1025). Finally, multiply the product by the original investment to determine the value of Yazmin's investment in two years (5,000 X 1.1025 = $5,512.50). 
+SOURCE: Investing Grade 8
+SOURCE: Heyford, S. C. (2022, May 23). Understanding the time value of money. Retrieved August 30, 2023,
+from http://www.investopedia.com/articles/03/082703.asp 
+
+67. One difference between stocks and bonds is that 
+A. issuing bonds helps businesses grow.
+B. bonds must be repaid over time.
+C. stocks include interest payments.
+D. stocks are safer than bonds.
+
+67. B
+Bonds must be repaid over time. When companies issue bonds, they essentially receive a loan from investors that must be repaid over time, whereas stocks are not repaid. Rather, stockholders receive dividends (shares in the company's profits). Bonds, rather than stocks, include interest payments. Issuing both bonds and stocks helps companies grow. Finally, bonds are generally safer than stocks. 
+SOURCE: Investing Grade 8
+SOURCE: Fernando, J. (2023, March 9). Bond: Financial meaning with examples and how they are priced.
+Retrieved August 31, 2023, from https://www.investopedia.com/terms/b/bond.asp PERSONAL FINANCIAL LITERACY EXAM—KEY 16 
+
+68. Individuals often are willing to take the risk of investing because of the 
+A. expected return.
+B. financial guarantee.
+C. unlimited insurance.
+D. low interest.
+
+68. A
+Expected return. Risk is the possibility of loss. When individuals invest, they take the risk that the investment will not be successful. However, individuals often are willing to take that risk because of the expected return, or what they hope to receive. For example, the possibility of making a lot of money on an investment, also known as the return, is what motivates individuals to take the risk of investing. There are no financial guarantees or insurance associated with investing. Individuals risk investing because they hope to earn high interest rather than low interest. 
+SOURCE: Investing Grade 8
+SOURCE: Chen, J. (2023, March 7). Risk-return tradeoff: How the investment principle works. Retrieved
+August 30, 2023, from https://www.investopedia.com/terms/r/riskreturntradeoff.asp 
+
+70. Calista is an investor with a high risk-tolerance seeking high growth. Which of the following represents the most diversified investment approach: 
+A. 20 high-growth stocks in different industries
+B. 15 high-growth stocks within the technology sector
+C. 5 high-growth stocks in different foreign markets
+D. 5 high-growth stocks in different industries
+
+70. A
+20 high-growth stocks in different industries. Choosing 20 stocks in different industries is the most diversified approach since the risk is spread across many different types of companies and markets. A stock portfolio containing 5 stocks lacks diversification since the number of investments is quite small. A portfolio with 15 stocks within a single industry, such as technology, lacks diversity because it only gains exposure to one type of market. 
+SOURCE: Investing Grade 8
+SOURCE: McWhinney, J. (2021, August 25). The many ways to achieve investment portfolio diversification.
+Retrieved August 30, 2023, from https://www.investopedia.com/articles/basics/05/diversification.asp 
+
+76. One feature that makes bonds unique when compared to stocks is 
+A. a sensitivity to interest rates.
+B. different purchase and sale prices.
+C. a guaranteed return on investment.
+D. bond holders own the corporation.
+
+76. C
+A guaranteed return on investment. Bonds are lending investments in which individuals lend money to a government, municipality, or corporation to earn a set rate of interest for a specified time period. Bondholders know that they will be paid a certain sum at a specified time in the future. Both bonds and stocks can be bought and sold at different prices. Interest rates can affect both the stock and bond markets. Bondholders do not have an ownership interest in the corporation that issued the bonds, but stockholders own a part of the issuing corporation. 
+SOURCE: Investing Grade 8
+SOURCE: Kenny, T. (2021, October 30). What are the differences between stocks and bonds? Retrieved
+August 31, 2023, from https://www.thebalancemoney.com/the-difference-between-stocks-andbonds-417069 PERSONAL FINANCIAL LITERACY EXAM—KEY 18 
+
+81. While Chase was reviewing his stock performance, he saw that his commodities investment dropped .002 points from Monday's close to Tuesday's close. This drop is called the 
+A. net worth.
+B. true value.
+C. net change.
+D. true yield.
+
+81. C
+Net change. Newspapers, business publications, and websites publish a securities or stock table, which is a format used to list stock quotes. The table helps investors monitor the performance of their stocks. The net change is a column in the table that indicates the difference between a stock's closing price and the previous day's price, which may increase or decrease (drop). True value, net worth, and true yield are not terms that describe the difference between a stock's closing price and the previous day's price. 
+SOURCE: Investing Grade 8
+SOURCE: Dummies. (2021, July 1). How to read a stock table. Retrieved August 30, 2023, from
+https://www.dummies.com/article/business-careers-money/personal-finance/investing/investmentvehicles/stocks/how-to-read-a-stock-table-198363/ 
+
+90. What information do you need in order to calculate the future value of money? 
+A. Present value, return on investment, credit score, and interest rate
+B. Interest rate, return on investment, inflation rate, and credit score
+C. Interest rate, inflation rate, number of compounding periods of interest per year, and length of time in years
+D. Present value, interest rate, length of time in years, and number of compounding periods of interest per year
+
+90. D
+Present value, interest rate, length of time in years, and number of compounding periods of interest per year. The formula for the future value of money is Future Value = Present Value X [1 + (i/n)]^(n x t) where i = the interest rate, n = the number of compounding periods of interest per year, and t = the number of years between the present and the specified future date. The future value of money helps you determine how much a current amount of money will grow over a specified amount of time. If, for example, you invest $100 at a fixed rate today, you can use the future value of money formula to determine how much that $100 will increase by a specific date in the future. You do not need a credit score, the rate of inflation, or the return on investment to calculate the future value of money. 
+SOURCE: Investing Grade 8
+SOURCE: Corporate Finance Institute. (2023, May 15). Time value of money. Retrieved August 29, 2023,
+from https://corporatefinanceinstitute.com/resources/valuation/time-value-of-money/ 
+
+92. Which of the following individuals is most likely to benefit from choosing a high-risk investment: 
+A. 23-year-old saving and investing for retirement
+B. 60-year-old who is close to the age of retirement
+C. 16-year-old saving and investing to pay for college tuition
+D. 14-year-old saving and investing to buy their first car
+
+92. A
+23-year-old saving and investing for retirement. A person in their 20s benefits from high-risk investments because they can afford losses that may occur in the short term and are likely to benefit from large gains in the long term. Since a person saving for a car or tuition will need the funds within a few years, a risky investment is a poor choice. A 60-year-old near retirement should typically avoid a high-risk investment since they will not have time to recoup any major losses. 
+SOURCE: Investing Grade 8
+SOURCE: Kumok, Z. (2022, September 9). How to invest at every age. Retrieved August 30, 2023, from
+https://www.investopedia.com/articles/investing/090915/are-your-investments-right-your-age.asp PERSONAL FINANCIAL LITERACY EXAM—KEY 22 
+
+99. Which of the following factors influences the time value of money: 
+A. Banks
+B. Interest rates
+C. World events
+D. Financial needs
+
+99. B
+Interest rates. The value of your money changes over time due to many factors—inflation, interest rates, compounding, and even tax rates. That's why it's so important to save and invest wisely. The time value of money is not influenced by financial needs, banks, or world events. 
+SOURCE: Investing Grade 8
+SOURCE: Fernando, J. (2023, March 28). Time value of money explained with formula and examples.
+Retrieved August 30, 2023, from http://www.investopedia.com/terms/t/timevalueofmoney.asp 
+
+5. Which of the following is an example of cash flow from investing activities: 
+A. Salary and wages paid
+B. Dividend payments
+C. Income tax payments
+D. Purchase of fixed assets
+
+5. D
+Purchase of fixed assets. A cash flow statement bridges the gap between the income statement and balance sheet, as it provides an account of how much cash is generated or spent in a specific period on operating, financing, and investing activities. A purchase of fixed assets is an example of cash flow from investing activities. More examples of cash flow from investing activities include a purchase of investments (such as stocks or securities), a sale of fixed assets, and lending money. Dividend payment is an example of cash flow from financing. Salary and wages paid and income tax payments are examples of cash flow from operating activities. 
+SOURCE: Investing Grade 12
+SOURCE: Kenton, W. (2022, June 30). Cash flow from investing activities explained: Types and examples.
+Retrieved February 8, 2024, from https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp 
+
+19. Kendra sells her shares in an electronics company after an employee informs her that the firm would be receiving government sanctions. This is an example of 
+A. investing.
+B. accounting.
+C. insider trading.
+D. embezzlement.
+
+19. C
+Insider trading. Insider trading refers to the buying or selling of a public company's stock or other securities by someone who has material nonpublic information about the stock. Insider trading is illegal when the material information is not public. Because Kendra obtained material nonpublic information about the company she invested in, she committed insider trading. Embezzlement is the theft of business resources that have been entrusted to one’s care. Investing is building wealth by using money to make money. Accounting is the process of keeping and interpreting financial records. 
+SOURCE: Investing Grade 12
+SOURCE: Ganti, A. (2023, September 8). What is insider trading, and when is it legal? Retrieved February 8,
+2024, from https://www.investopedia.com/terms/i/insidertrading.asp 
+
+22. Which of the following investments has the highest amount of risk: 
+A. Bonds
+B. Real estate
+C. Stock mutual funds
+D. Collectibles
+
+22. D
+Collectibles. Collectibles are items that gain or lose value over time. Collectibles can include antiques, gems, stamps, dolls, and sports memorabilia. Collectibles have high risk because you might not be able to sell the item at all—let alone for more money than you’ve paid for it. You have to be sure the item is important to other people, not just you. And, you have to be sure that the item will be more important to other people in the future. It’s impossible to be absolutely certain of either one of these two things. Real estate and mutual funds are considered moderate risk. Real estate is an ownership investment in which individuals purchase property in buildings and land. Mutual funds are ownership investments in which a variety of stocks from different corporations or agencies (usually from different industries) are combined into one investment. Bonds (lending investments in which individuals lend money to a government, municipality, or corporation to earn a set rate of interest for a specified time period) are considered low risk. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+24. Before selecting investments, Jasper asks himself how long he plans to stay invested. This is known as Jasper’s 
+A. liquidity need.
+B. risk tolerance.
+C. level of competition.
+D. time horizon.
+
+24. D
+Time horizon. By asking himself how long he plans to stay invested, Jasper is considering his time horizon. The longer he invests his money, the more time Jasper’s money has to grow. Risk tolerance is a measure of how much risk an investor is willing to accept in exchange for potentially high returns. Liquidity is the ability to be converted into cash. Level of competition is not related to the length of time for staying invested. 
+SOURCE: Investing Grade 12
+SOURCE: Fidelity Smart Money. (2022, April 7). 4 steps to picking your investments. Retrieved February 5,
+2024, from https://www.fidelity.com/learning-center/smart-money/how-to-pick-investments 
+
+28. Gale would like to invest in a lower risk mutual fund. What type of mutual fund should he put money into? 
+A. Equity fund
+B. Hybrid fund
+C. Money market fund
+D. Stock fund
+
+28. C
+Money market fund. A money market fund is a pool of shareholders' money that is invested in securities over a short amount of time. They are low risk because of the short time frame. A stock fund, also known as an equity fund, is a pool of shareholders' money invested in different types of stocks. Because stock markets can be volatile, stock funds also carry greater risk. A hybrid fund, which is a mixture of stocks and bonds, is lower risk because of the diversification of the fund. However, it still carries some risk due to persistent volatility in the stock market. 
+SOURCE: Investing Grade 12
+SOURCE: Donovan, W. (2022, April 10). The 4 types of mutual funds. Retrieved February 8, 2024,
+from https://www.thebalance.com/the-three-general-types-of-mutual-funds-3025628 
+
+31. Individuals often authorize __________ to help manage their financial assets. 
+A. economists
+B. therapists
+C. marketers
+D. fiduciaries
+
+31. D
+Fiduciaries. Individuals often authorize fiduciaries to help manage financial assets. The fiduciary is responsible for caring for another person's assets and making the decisions regarding an individual's assets. An example of a fiduciary would be a trusted financial advisor such as an accountant, attorney, or insurance agent. An economist is a person who studies how countries and individuals make economic decisions. Therapists can help individuals understand and cope with emotional problems and skills, but they are not used for financial decisions. Marketers create and communicate value to customers about products and services. 
+SOURCE: Investing Grade 12
+SOURCE: Cummings & Lockwood LLC. (2017). Choosing fiduciaries to handle your estate. Retrieved February
+8, 2024, from https://www.cl-law.com/news-events/choosing-fiduciaries-to-handle-your-estate 
+
+37. Which of the following is a drawback of investing: 
+A. There isn’t a learning curve.
+B. Returns are low, so you might lose purchasing power over time.
+C. Investing products are usually very liquid.
+D. Returns are not guaranteed.
+
+37. D
+Returns are not guaranteed. One drawback of investing is that returns aren’t guaranteed, and investors typically lose money in the short term. A benefit of investing is that investing products like stocks, bonds, and ETFs can be converted into cash easily, or are very liquid. There is a learning curve when it comes to investing, and you will likely need to research beforehand. Low returns and losing purchasing power over time is a drawback of saving. 
+SOURCE: Investing Grade 12
+SOURCE: Royal, J. (2023, November 17). Saving vs. investing: How are they different and which is better?
+Retrieved February 5, 2024, from https://www.bankrate.com/investing/saving-vs-investing/ 
+
+38. Which of the following is an advantage of investing in bonds: 
+A. They are insured by the FDIC.
+B. You can access your money whenever you want.
+C. They offer high rates of return.
+D. They are very low risk.
+
+38. D
+They are very low risk. Bonds are offered by a government, municipality, or corporation at a set interest rate for a particular time period. Bonds are very low-risk investments. In general, bonds are considered to be guaranteed money. However, you cannot access your money whenever you want, and they aren’t FDICinsured. Because bonds are low risk, they don’t offer high rates of return. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+2024 HS ICDC PERSONAL FINANCIAL LITERACY—KEY 10 
+
+45. A key difference between value stocks and growth stocks is that growth stocks 
+A. are relatively stable with low volatility.
+B. are priced higher than the broader market.
+C. tend to be undervalued.
+D. have high dividend yields.
+
+45. B
+Are priced higher than the broader market. Growth stocks are stocks of companies that have high potential to outperform the overall market over time due to their future potential. Value stocks are stocks currently trading below what they are really worth, meaning they will provide a superior return. Growth stocks are typically overvalued, meaning they are priced higher than the broader market. Value stocks tend to be undervalued, meaning they are priced lower than the broader market. Growth stocks are high risk with more volatility, while value stocks are relatively stable with low volatility. Growth stocks have low or no dividend yields, while value stocks have high dividend yields. 
+SOURCE: Investing Grade 12
+SOURCE: Cussen, M.P. (2023, July 27). Value or growth stocks: Which is better? Retrieved February 8, 2024,
+from https://www.investopedia.com/articles/professionals/072415/value-or-growth-stocks-whichbest.asp#toc-value-vs-growth-stocks-key-differences 
+
+46. High or unexpected inflation can 
+A. discourage people from investing.
+B. lead to higher wages for employees.
+C. increase overall consumer spending.
+D. encourage people to save.
+
+46. A
+Discourage people from investing. Inflation is a steady increase in the general price levels of consumer goods and services over a period of time. Inflation isn't a bad thing for the economy, but high or unexpected inflation can be. High or unexpected inflation can discourage people from saving or investing, decrease overall consumer spending, reduce the standard of living, and even cause shortages of goods. In addition, if inflation is too high or unexpected, it may be difficult for companies to increase employees’ wages quickly enough to keep pace. When wage increases can’t keep up with price increases, consumer spending will go down, potentially stalling the economy. Encouraging people to save, increasing overall consumer spending, and leading to higher wages for employees are not typical results of high or unexpected inflation. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-EC-083—Up, Up, and Away (Inflation)
+2024 HS ICDC PERSONAL FINANCIAL LITERACY—KEY 12 
+
+47. Which of the following investing activities would generate a negative cash flow: 
+A. Sale of investment securities
+B. Lending money
+C. Sale of fixed assets
+D. Collection of insurance proceeds
+
+47. B
+Lending money. Cash flows from investing activities show an account of cash used in the purchase of noncurrent assets (or long-term assets) that will deliver value in the future. Negative cash flow means that more money is flowing out of an organization than coming in. Investing activities such as lending money, buying fixed assets, or purchasing investments, like stocks or securities, would generate a negative cash flow. Positive cash flow means that more money is coming into an organization than going out. A sale of investment securities, a sale of fixed assets, and a collection of insurance proceeds would generate a positive cash flow. 
+SOURCE: Investing Grade 12
+SOURCE: Kenton, W. (2022, June 30). Cash flow from investing activities explained: Types and examples.
+Retrieved February 8, 2024, from https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp 
+
+52. Which of the following is true of an investor with a high risk tolerance: 
+A. They seek investments with guaranteed returns.
+B. They are conservative with their investing choices.
+C. They want to grow their money without losing too much.
+D. They are willing to risk more money for unknown returns.
+
+52. D
+They are willing to risk more money for unknown returns. Risk tolerance is a measure of how much risk an investor is willing to accept in exchange for potentially high returns. Someone who has a high risk tolerance is considered an aggressive investor, as they are willing to risk more money for the possibility of better, yet unknown, returns. Someone with a low risk tolerance is a conservative investor, as they seek investments with guaranteed returns. Someone with a moderate risk tolerance wants to grow their money without losing too much. 
+SOURCE: Investing Grade 12
+SOURCE: Twin, A. (2022, July 7). What is risk tolerance, and why does it matter? Retrieved February 7, 2024,
+from https://www.investopedia.com/terms/r/risktolerance.asp 
+
+53. Nominal interest rates are different than real interest rates because real interest rates 
+A. are used more by investors and analysts.
+B. equal nominal interest rate plus inflation.
+C. indicate current market and economic conditions.
+D. are typically used by borrowers and lenders.
+
+53. A
+Are used more by investors and analysts. Interest rates represent the cost of borrowing or the return on saving and investing, and are expressed as a percentage of the total amount of an investment or a loan. Interest rates can be expressed in nominal or real terms. Nominal interest rates refer to the total of the real interest rate plus a projected rate of inflation. Real interest rates provide the actual return on a loan to the lender and on a bond to the investor. Real interest rates are used more by investors and analysts, while nominal interest rates are used more by borrowers and lenders. Real interest rates are calculated by subtracting the actual or expected rate of inflation from the nominal interest rate. Nominal interest rates equal real interest rate plus inflation. Nominal interest rates indicate current market and economic conditions, while real interest rates represent the purchasing power of investors. 
+SOURCE: Investing Grade 12
+SOURCE: Nickolas, S. (2023, September 27). Nominal vs. real interest rate: What's the difference? Retrieved
+February 8, 2024, from https://www.investopedia.com/ask/answers/032515/what-differencebetween-real-and-nominal-interest-rates.asp 
+
+58. Khadija invested in __________, which gives her voting rights at one vote per share. 
+A. dividends
+B. cryptocurrency
+C. preferred stock
+D. common stock
+
+58. D
+Common stock. Common stock gives voting rights, typically at one vote per share. Stockholders have a say in electing board members to oversee managerial decisions at the company. Preferred stock also represents ownership in a company but does not confer voting rights. Dividends are sums of money paid to an investor or stockholder as earnings on an investment. Khadija cannot invest in dividends. Cryptocurrency is a digital currency used as an alternative payment method. Khadija did not invest in dividends, preferred stock, or cryptocurrency in this example. 
+SOURCE: Investing Grade 12
+SOURCE: Hayes, A. (2023, December 24). Preferred vs. common stock: What’s the difference? Retrieved
+February 5, 2024, from https://www.investopedia.com/ask/answers/difference-between-preferredstock-and-common-stock/ 2024 HS ICDC PERSONAL FINANCIAL LITERACY—KEY 15 
+
+62. Many not-for-profit organizations like colleges and universities pool and invest donor money in which of the following: 
+A. Endowment funds
+B. Real estate
+C. Money market accounts
+D. Stocks
+
+62. A
+Endowment funds. Sometimes, businesses invest money that isn’t their own. A common example is a nonprofit organization’s endowment fund. Funds obtained from donors are pooled together and invested to create additional income. Many colleges and universities have endowment funds. Nonprofit organizations do not typically pool and invest donor money in real estate, stocks, or money market accounts. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+68. When making a low-risk investment, you most likely have 
+A. less to gain.
+B. more at stake.
+C. a lack of liquidity.
+D. a higher chance of loss.
+
+68. A
+Less to gain. When making a low-risk investment, you most likely have less to gain. By nature, low-risk investing offers less to gain in terms of a bigger return. There is also less at stake with low-risk investing, as it serves as a way of protecting against any chance of loss. It also means making sure that none of the potential losses will be devastating. A high-risk investment is one where there is potentially more to gain, but there is a higher chance of loss or underperformance. Because of this, high-risk investments have more at stake than low-risk investments. High-risk investments tend to have a lack of liquidity, as they may be difficult to sell quickly if you need money or face an unexpected financial situation. 
+SOURCE: Investing Grade 12
+SOURCE: Simpson, S.D. (2022, September 18). Low-risk vs. high-risk investments: What's the difference?
+Retrieved February 8, 2024, from https://www.investopedia.com/financial-edge/0512/low-vs.-highrisk-investments-for-beginners.aspx 
+
+77. Which of the following is an example of a lending investment: 
+A. Land
+B. Bonds
+C. Collectibles
+D. Stocks
+
+77. B
+Bonds. Lending investments allow someone to borrow your money for a period of time. In return, you earn a fee or interest on the amount that you lend. Examples of lending investments are savings accounts, certificates of deposit, and bonds. Ownership investments are those in which an individual purchases a portion or all of an item. Collectibles (e.g., coins and antiques), real estate (e.g., buildings and land), and stocks (shares of a corporation) are types of ownership investments. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+80. Adrian is looking for a financial advisor that can assist him in distributing his assets after he has passed away. What type of financial-services provider would be best suited to handle Adrian’s needs? 
+A. Estate planner
+B. Beneficiary
+C. Certified public accountant
+D. Discount broker
+
+80. A
+Estate planner. An estate planner, or estate planning lawyer, can help individuals plan what will happen with their assets after they die. They can help create a will and powers of attorney to allow someone else to manage affairs in the event of death. A certified public accountant (CPA) can help individuals or businesses with tax planning and preparation. Discount brokers primarily provide the client with basic information about financial products and do not offer advice or conduct in-house research. A beneficiary is an individual or institution that receives specified benefits under certain circumstances such as money from a life-insurance policy upon the insured's death. 
+SOURCE: Investing Grade 12
+SOURCE: CFP. (2024). How to choose a planner. Retrieved February 8, 2024, from
+https://www.letsmakeaplan.org/how-to-choose-a-planner 2024 HS ICDC PERSONAL FINANCIAL LITERACY—KEY 20 
+
+91. Which of the following is an example of an ownership investment: 
+A. Certificates of deposit
+B. Savings accounts
+C. Bonds
+D. Real estate
+
+91. D
+Real estate. Ownership investments are those in which an individual purchases a portion or all of an item. Collectibles (e.g., coins and antiques), real estate (e.g., buildings and land), and stocks (shares of a corporation) are types of ownership investments. With a lending investment, you allow someone to borrow your money for a period of time. In return, you earn a fee or interest on the amount that you lend. Examples of lending investments are savings accounts, certificates of deposit, and bonds. 
+SOURCE: Investing Grade 12
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+92. The brand value of a company’s name or products is considered 
+A. an intangible asset.
+B. stockholder equity.
+C. operational equipment.
+D. a hard asset.
+
+92. A
+An intangible asset. An intangible asset is a value to a company that is not physical in nature. Brand value cannot be measured empirically; therefore, it is an intangible asset. Hard assets are measurable assets such as property and operational equipment. Stockholder equity, also called book value, is what a company is worth from an accounting point of view. Stockholder equity does not include intangible assets. 
+SOURCE: Investing Grade 12
+SOURCE: Kenton, W. (2023, December 15). What are intangible assets? Examples and how to value.
+Retrieved February 8, 2024, from https://www.investopedia.com/terms/i/intangibleasset.asp 
+
+94. Which of the following statements about stocks is true: 
+A. They are shares of ownership in a corporation.
+B. They help governments or corporations raise money.
+C. They are considered a safer investment than bonds.
+D. They have much less downside volatility than bonds.
+
+94. A
+They are shares of ownership in a corporation. A stock is a share in the ownership of a corporation. When an investor buys a stock, part ownership of the corporation in the form of a share is bought. Bonds are lending investments in which individuals lend money to a government, municipality, or corporation to earn a set rate of interest for a specified time period. Simply, bonds help governments or corporations raise money. Bonds are considered a safer investment than stocks. Although stocks offer a higher potential for returns, bonds have much less downside volatility than stocks. 
+SOURCE: Investing Grade 12
+SOURCE: Corporate Finance Institute. (2024). Stocks, bonds, and mutual funds. Retrieved February 8, 2024,
+from https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/stocksbonds-and-mutual-funds 
+
+4. Which of the following is an advantage of a coupon-paying bond for investors: 
+A. Its market price is always the same as its face value.
+B. It provides coupons to buy additional bonds at a discount.
+C. Its face value increases over time.
+D. It provides interest payments until the bond matures.
+
+4. D
+It provides interest payments until the bond matures. Coupon-paying bonds provide the bondholder interest payments until the bond reaches maturity. Coupons are not issued to buy bonds at a discount. A bond's face value (representing the amount of principal the bondholder will receive upon maturity) remains the same from the day it is issued until it reaches maturity. A bond's market price changes in relationship to marketplace forces trading lower or higher than its face value. 
+SOURCE: Investing Grade 8
+SOURCE: Parker, T. (2022, July 31). The basics of bonds. Retrieved October 25, 2023, from
+https://www.investopedia.com/financial-edge/0312/the-basics-of-bonds.aspx 
+
+5. Which of the following is a company-specific influence on a stock's price: 
+A. Investor action
+B. Government action
+C. Change in supply or demand
+D. Change in management
+
+5. D
+Change in management. Company-specific influences on a stock's price include changes in management, the introduction of new goods or services, and changes in the way the company is run (as in mergers, acquisitions, etc.). Outside forces influencing a stock's price include changes in supply or demand, economic conditions, government actions, investor actions, etc. 
+SOURCE: Investing Grade 8
+SOURCE: Investopedia. (2023, January 26). How does a change in CEO impact stock price? Retrieved October
+25, 2023, from https://www.investopedia.com/ask/answers/010815/how-does-change-ceo-impact-stockprice.asp PERSONAL FINANCIAL LITERACY EXAM—KEY 2 
+
+6. You want to be a millionaire by the time you retire. To reach that goal, you put $2,000 per year in an IRA, starting at age 21. You will earn 9% interest annually. As a result, you will have over a million dollars at age 65. This scenario illustrates the power of 
+A. the prime interest rate.
+B. compound interest.
+C. finance charges.
+D. fiscal policy.
+
+6. B
+Compound interest. Compound interest is interest earned upon your previous interest earnings. By starting early and earning compound interest, you can accumulate a much larger amount of money than you would if you simply put $2,000 under your mattress or in a jar each year. A finance charge is interest charged on the outstanding balance of a credit account. Fiscal policy is the government policy that sets levels of government spending and taxation. The prime interest rate is the interest rate that banks offer to their best credit customers. There is no indication that 9% is the prime rate. 
+SOURCE: Investing Grade 8
+SOURCE: Fernando, J. (2023, May 18). The power of compound interest: Calculations and examples. Retrieved
+October 24, 2023, from http://www.investopedia.com/terms/c/compoundinterest.asp 
+
+14. Pete puts his money in a professionally managed portfolio, where it is pooled together with money from other investors. Pete is investing in a(n) 
+A. mutual fund.
+B. corporate bond.
+C. exchange-traded fund (ETF).
+D. preferred stock.
+
+14. A
+Mutual fund. A mutual fund bundles together many securities in a professionally managed portfolio. Mutual funds are made of pools of money gathered from many investors. Exchange-traded funds (ETFs) are similar to mutual funds, but ETFs are not managed by brokerage firms. A corporate bond is a loan in exchange for repayment after a specific length of time plus interest. Preferred stock provides shareholders with regular dividend payments but doesn't carry voting rights. 
+SOURCE: Investing Grade 8
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+PERSONAL FINANCIAL LITERACY EXAM—KEY 4 
+
+21. Jack is a senior executive at the Farkle Corporation. He recently told his sister that Farkle is getting ready to declare bankruptcy. However, Farkle doesn't plan to announce this news to its general shareholders until next week. If Jack's sister sells her shares of Farkle before the public learns about the bankruptcy, Jack and his sister could be prosecuted for 
+A. accounting fraud.
+B. insider trading.
+C. market capitalization.
+D. affinity fraud.
+
+21. B
+Insider trading. If a corporate “insider” such as an owner, director, or high-level manager shares confidential company information with someone who then buys or sells the company's stock as a result of this knowledge, illegal insider trading occurs. Insider trading is not always illegal, though. Legal insider trading takes place when corporate insiders buy or sell their own company's securities and report the trades to the SEC. Accounting fraud occurs when a company or organization knowingly publishes incorrect information on its financial statements. Affinity fraud, often in the form of a Ponzi or pyramid scheme, is an investment scam in which the scammer claims to be a member of the group they are targeting. Market capitalization is an indicator of the size of a public company as measured by the total dollar value of its stock. 
+SOURCE: Investing Grade 12
+SOURCE: U.S. Securities and Exchange Commission. (n.d.). Insider trading. Retrieved October 23, 2023, from
+https://www.investor.gov/introduction-investing/investing-basics/glossary/insider-trading 
+
+37. If you are nearing retirement, which investing approach will you use? 
+A. Conservative
+B. Moderate
+C. Tax-minimizing
+D. Aggressive
+
+37. A
+Conservative. If you are nearing retirement, you want to preserve the money you've accumulated and make sure it's safe. Therefore, you need to invest conservatively, rather than aggressively or moderately. A tax-minimizing approach to investing is an approach you should use throughout your entire life, not just when nearing retirement. 
+SOURCE: Investing Grade 12
+SOURCE: Smith, L. (2023, February 23). Using time horizons to reach your investing goals. Retrieved October 24,
+2023, from http://www.investopedia.com/articles/investing/110813/using-time-horizons-investing.asp 
+
+39. Agencies like the Securities and Exchange Commission (SEC) and the Canadian Securities Administrators (CSA) help protect investors by 
+A. enforcing workplace safety measures.
+B. establishing interest rates.
+C. providing financial advice.
+D. preventing fraudulent activity.
+
+39. D
+Preventing fraudulent activity. The Securities and Exchange Commission (SEC) of the United States and the Canadian Securities Administrators (CSA) are responsible for regulating fair capital markets by working to prevent fraud and other manipulative practices. The SEC and CSA do not provide financial advice, enforce workplace safety measures, or establish interest rates. 
+SOURCE: Investing Grade 12
+SOURCE: Chen, J. (2022, April 27). Securities and Exchange Commission (SEC) defined, how it works. Retrieved
+October 23, 2023, from https://www.investopedia.com/terms/s/sec.asp 
+
+44. Shonda buys a house for $135,000, and then sells it for $150,000 five years later. The amount of money she makes on the sale is considered a __________ gain. 
+A. short-term excise
+B. long-term excise
+C. long-term capital
+D. short-term capital
+
+44. C
+Long-term capital. A capital gain is money you make when you sell something (such as real estate) for more than you bought it for. A long-term capital gain occurs when you sell a capital asset after owning it for more than a year. This is not an example of an excise tax. 
+SOURCE: Investing Grade 12
+SOURCE: Intuit TurboTax. (2023, October 19). 5 things you should know about capital gains tax. Retrieved
+October 23, 2023, from https://turbotax.intuit.com/tax-tips/investments-and-taxes/5-things-you-shouldknow-about-capital-gains-tax/L0m06D9lI PERSONAL FINANCIAL LITERACY EXAM—KEY 11 
+
+53. What is an example of an internal stock information resource? 
+A. A financial website portal
+B. Brokerage firm research
+C. A company's annual report
+D. The Value Line Investment Survey®
+
+53. C
+A company's annual report. A company's annual report is an example of an internal resource because it comes from the company itself. The Value Line Investment Survey®, brokerage firm research, and financial website portals are all examples of external stock information resources. 
+SOURCE: Investing Grade 12
+SOURCE: Corporate Finance Institute. (2023, October 3). Internal vs external financial reporting. Retrieved
+October 24, 2023, from https://corporatefinanceinstitute.com/resources/knowledge/accounting/internalvs-external-financial-reporting/ PERSONAL FINANCIAL LITERACY EXAM—KEY 13 
+
+60. Which of the following is an advantage of investing in bonds: 
+A. You can access your money any time.
+B. They are very low risk.
+C. They are insured by the FDIC.
+D. They offer extremely high rates of return.
+
+60. B
+They are very low risk. Bonds are very low-risk investments. As a matter of fact, they are often referred to as "guaranteed money." However, you can't access your money at any time, and bonds are not FDIC-insured. Bonds are lending investments with little risk; therefore, they don't offer extremely high rates of return. 
+SOURCE: Investing Grade 8
+SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+
+62. Which of the following is a question that investors should ask prospective financial planners: 
+A. Where did you attend school?
+B. How are your fees structured?
+C. What is your income?
+D. How many references do I need to provide?
+
+62. B
+How are your fees structured? Because financial planners are compensated in different ways, it is important to consider the fee structure when selecting a financial-services provider. Some financial planners charge a flat fee, while others base their fees on the number and size of transactions. Some financial planners charge for research and consulting time. Therefore, it is important to ask financial planners about their fee structures, so investors can determine if they can afford the fees. A financial planner may provide references for a potential client, but the potential client does not generally need to provide the financial planner with references. It is inappropriate to ask the financial planner about their personal income. Where the financial planner attended school is usually irrelevant. 
+SOURCE: Investing Grade 12
+SOURCE: Coombes, A. (2023, August 7). 10 questions to ask a financial advisor. Retrieved October 24, 2023,
+from https://www.nerdwallet.com/article/investing/10-questions-ask-financial-advisor 
+
+63. Financial managers who are legally responsible for their clients' investments must demonstrate fiduciary responsibility, which involves 
+A. making risky investments without their clients' knowledge.
+B. acting in the best interests of their clients.
+C. speaking with their clients once a year to review their portfolios.
+D. selling financial products that generate the highest commissions.
+
+63. B
+Acting in the best interests of their clients. In the financial industry, a fiduciary is a financial professional who has been given legal authority to make financial transactions on behalf of an individual or business—the owner of the financial product (e.g., stock). Because the fiduciary has been given legal authority to act on behalf of a client, they must act in the best interest of the client. Fiduciary responsibility involves making wise financial decisions and obtaining financial products that will help the client achieve their financial goals. A fiduciary does not focus on selling products that generate the highest commissions or make risky investments without the client's knowledge. A responsible, ethical fiduciary is transparent and trustworthy and continuously communicates with their clients rather than communicating with them only once a year. 
+SOURCE: Investing Grade 12
+SOURCE: Barone, A. (2023, May 24). What is a fiduciary duty? Examples and types explained. Retrieved October
+23, 2023, from https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciaryduty.asp 
+
+74. What is the main purpose of diversifying investments? 
+A. To reduce risk
+B. To eliminate income tax
+C. To increase liquidity
+D. To avoid penalty fees
+
+74. A
+To reduce risk. Diversifying investments means investing in multiple places rather than putting all of your money in one investment option. For example, if you invest all of your money in one company that then fails, you will lose everything. If you invest in multiple companies, it is unlikely that they all will fail. Diversification, therefore, reduces risk. Diversifying investments does not necessarily help you avoid penalty fees, increase liquidity, or eliminate income tax. 
+SOURCE: Investing Grade 8
+SOURCE: McWhinney, J. (2021, August 25). The many ways to achieve investment portfolio diversification.
+Retrieved October 24, 2023, from https://www.investopedia.com/articles/basics/05/diversification.asp PERSONAL FINANCIAL LITERACY EXAM—KEY 18 
+
+76. One difference between saving and investing is that investing 
+A. has less risk.
+B. helps you meet short-term financial goals.
+C. has a higher rate of return.
+D. is not important for retirement.
+
+76. C
+Has a higher rate of return. Investing has a higher rate of return than savings accounts and will yield much more wealth in the long run. Investing has more risk than saving, not less. It does not help you meet short-term financial goals; rather, it helps you meet long-term financial goals. Finally, investing is very important for retirement because saving alone will not bring enough wealth. Investing makes it possible to retire comfortably. 
+SOURCE: Investing Grade 8
+SOURCE: Royal, J. (2023, January 25). Saving vs. investing: How are they different and which is better?
+Retrieved October 24, 2023, from https://www.bankrate.com/investing/saving-vs-investing/ 
+
+82. Which of the following is a disadvantage of investing in stocks: 
+A. Staying ahead of inflation
+B. Less risk than bonds
+C. Growing with the economy
+D. Taxes on profitable stock sales
+
+82. D
+Taxes on profitable stock sales. Disadvantages of investing in stocks include high risk, time involved in research, and taxes on profitable stock sales. Advantages of investing in stocks include growing with the economy, staying ahead of inflation, and liquidity. Investing in stocks is riskier than investing in bonds. 
+SOURCE: Investing Grade 12
+SOURCE: Amadeo, K. (2022, March 30). Pros and cons of investing in stocks. Retrieved October 25, 2023, from
+https://www.thebalancemoney.com/stock-investing-for-the-individual-investor-3306182 
+
+85. If a stock price rises and falls sharply within a 52-week period, it is said to be 
+A. healthy.
+B. volatile.
+C. solid.
+D. stable.
+
+85. B
+Volatile. Prices that rise and fall sharply are said to be volatile. Stable, healthy, or solid are not words that would be used to describe a volatile stock. 
+SOURCE: Investing Grade 8
+SOURCE: Hayes, A. (2023, March 31). Volatility: Meaning in finance and how it works with stocks. Retrieved
+October 24, 2023, from https://www.investopedia.com/terms/v/volatility.asp 
+
+91. If Sam wants to compare today's closing price of a particular stock with yesterday's closing price, what column in a stock table should he look at? 
+A. Net change
+B. Price-earnings ratio
+C. 52-Week HI/LO
+D. Yield percentage
+
+91. A
+Net change. Net change shows the difference between today's closing price and the previous day's price. The price-earnings ratio (PE ratio) is determined by dividing the last closing price of the stock by the earnings per share. Investors often study the PE ratio to get an idea of whether the stock is overvalued or undervalued, compared to its competitors. The yield percentage is a financial ratio that shows the dividends that the company pays each year relative to the price per share. The 52-week HI/LO column shows the highest and lowest prices for the year. 
+SOURCE: Investing Grade 8
+SOURCE: Scott, G. (2022, April 25). Net change: What it is, how it works, charts. Retrieved October 24, 2023,
+from https://www.investopedia.com/terms/n/netchange.asp 
+
+97. Titus evaluates his goals, risk tolerance, and timeline, then spreads his assets across 50% stocks, 35% bonds, and 15% cash. In other words, Titus has properly __________ funds in his portfolio. 
+A. allocated
+B. diversified
+C. protected
+D. liquidated
+
+97. A
+Allocated. Asset allocation refers to the percentage of stocks, bonds, and cash in one's portfolio. By spreading his assets across stocks, bonds, and cash, Titus has allocated funds in his portfolio. If the situation described how Titus split the investments within each category (stocks, bonds, cash), that would be diversification. Liquidation means turning stocks, bonds, and real estate into cash, and it is generally used when a business goes bankrupt or when an investor sells their entire portfolio. There is always a degree of risk when investing, so it is unclear whether Titus protected funds in his portfolio. 
+SOURCE: Investing Grade 12
+SOURCE: New York Life. (2023). Asset allocation & diversification: The pillars of your financial plan. Retrieved
+October 24, 2023, from https://www.newyorklife.com/articles/asset-allocation-and-diversification PERSONAL FINANCIAL LITERACY EXAM—KEY 23 
+

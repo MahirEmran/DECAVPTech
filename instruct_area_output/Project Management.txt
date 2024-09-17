@@ -1,0 +1,252 @@
+24. Which of the following tasks is a project manager typically responsible for: 
+A. Determining and communicating the project objectives to clients
+B. Telling project team members how to complete their activities
+C. Providing direction and coordination to the project team work
+D. Completing and documenting all of the necessary project work
+
+24. C
+Providing direction and coordination to the project team work. The project manager is responsible for helping the team achieve a given project's objective, which means that they must oversee the project work to ensure all activities work together toward a common goal. Project managers should not tell team members exactly how to complete their work. The project manager is not responsible for completing all work; instead, they delegate tasks and rely on the abilities of team members to complete work. The project objectives are either determined by or include the input of clients or project sponsors. 
+SOURCE: PJ:007 Manage project team
+SOURCE: Gido, J., Clements, J., & Baker, R. (2018). Successful project management (7th ed.) [Lesson 10-1].
+Boston, MA: Cengage Learning, Inc. BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 6 
+
+35. Kara is preparing the work breakdown structure (WBS) for a new project. She has prepared five work packages. She has estimated the time to complete each package as follows: Package A—26 hours; Package B—50 hours; Package C—38 hours; Package D—6 hours; and Package E—15 hours. If Kara's estimates are accurate, has she followed the 8/80 rule? 
+A. Yes, the average time to complete each package is 27 hours, which meets the 8/80 criteria.
+B. Yes, Kara has scheduled the packages so that each one does not exceed 80 hours.
+C. No, package D does not meet the minimum requirement of taking eight hours to complete.
+D. No, Kara has scheduled more than 80 hours of work for the entire project.
+
+35. C
+No, package D does not meet the minimum requirement of taking eight hours to complete. A work breakdown structure (WBS) is the process of dividing project tasks into meaningful components to complete the project. Dividing the project into small work packages helps the project manager effectively schedule, assign, and monitor project activities. The 8/80 rule for dividing project work packages states that no package should take less than eight hours or more than 80 hours to complete. This rule intends to keep work packages in manageable units—not too small or too large. Because Kara allocated six hours to complete package D, she did not follow the 8/80 rule. 
+SOURCE: PJ:006 Prepare work breakdown structure (WBS)
+SOURCE: Pudussery, A. (2019, November 7). Work break down structures—10 key characteristics. Retrieved
+August 4, 2023, from https://www.wrenchsp.com/characteristics-of-good-work-break-downstructures 
+
+51. During which phase of a project do project team members perform archiving procedures? 
+A. Controlling
+B. Execution
+C. Definition
+D. Closing
+
+51. D
+Closing. During the closing phase of a project, the deliverables are given to stakeholders, the lessons learned document is developed, and all of the project documents are archived (stored) for future reference. The project is initiated during the definition phase. During the execution stage, the project is implemented. Controlling is the management function that monitors the work effort. 
+SOURCE: PJ:008 Close project
+SOURCE: Gido, J., Clements, J., & Baker, R. (2018). Successful project management (7th ed.) [Lesson 9-1].
+Boston, MA: Cengage Learning, Inc. 
+
+67. Which of the following is the primary activity performed during the execution phase of a project: 
+A. Financing
+B. Producing
+C. Arbitrating
+D. Forecasting
+
+67. B
+Producing. During the execution phase of a project, team members perform or produce the work to create the desired outputs. Forecasting is the process of estimating something and is a planning activity. Financing is the process of obtaining the funds to produce the project. Arbitrating is the process of facilitating a negotiation process. 
+SOURCE: PJ:009 Execute and control projects
+SOURCE: Watt, A., Barron, M., & Barron, A. (n.d.). 3. The project life cycle (phases). Retrieved August 4, 2023,
+from https://opentextbc.ca/projectmanagement/chapter/chapter-3-the-project-life-cycle-phasesproject-management 
+
+72. What section of the statement of work (SOW) defines what the project will produce? 
+A. Schedule estimates
+B. Purpose statement
+C. Project deliverables
+D. Benefits and risks
+
+72. C
+Project deliverables. The statement of work (SOW) is a document that outlines the terms, commitments, and conditions of the project. It includes information about the project's activities, timelines, and deliverables. Deliverables are the goods, services, or documentation that will be provided to the stakeholder upon completion of the project—what the project will produce. The purpose statement defines the reason for the project. Schedule estimates are used to predict when work will be completed throughout the project. 
+SOURCE: PJ:005 Initiate project
+SOURCE: Landau, P. (2023, April 28). What is a statement of work? Definition & examples. Retrieved August
+4, 2023, from https://www.projectmanager.com/blog/statement-work-definition-examples 
+
+97. How can a project manager fast-track a project? 
+A. Increase managerial oversight
+B. Organize teams to run tasks concurrently
+C. Refrain from making changes to stay on course
+D. Add additional human resources
+
+97. B
+Organize teams to run tasks concurrently. Fast-tracking is a process in which team members complete tasks concurrently, focusing on them simultaneously rather than sequentially. The manager should not refrain from changes because changes might be necessary to fast-track a project. Adding additional human resources is a different process known as crashing. Finally, to fast-track a project, a manager might have to decrease their central oversight, rather than increasing it. 
+SOURCE: PJ:010 Manage project schedule
+SOURCE: Lister, J. (2019). How can fast tracking affect a project? Retrieved August 4, 2023, from
+https://smallbusiness.chron.com/can-fast-tracking-affect-project-32112.html 
+
+15. Which of the following tools would be most helpful when managing a project schedule: 
+A. Code of conduct
+B. Statement of work
+C. Budget
+D. Gantt chart
+
+15. D
+Gantt chart. A Gantt chart is a visual representation of the elements in a project schedule and how they relate to and rely on each other. When managing a project schedule, a Gantt chart will be most helpful. A code of conduct, budget, and statement of work are important documents, but they are less helpful when managing a project schedule. 
+SOURCE: PJ:010 Manage project schedule
+SOURCE: Grant, M. (2022, December 1). Gantt charting: Definition, benefits, and how they’re used. Retrieved
+October 18, 2023, from https://www.investopedia.com/terms/g/gantt-chart.asp 
+
+22. Annalise uses a work breakdown structure to divide her project into 
+A. scrum items.
+B. budget components.
+C. stakeholders.
+D. deliverables.
+
+22. D
+Deliverables. The work breakdown structure (WBS) is a document that details the division of a project workload into smaller, more manageable parts that are deliverable-oriented. Therefore, when Annalise uses a WBS, she’s dividing her project into deliverables. Work breakdown structures do not divide projects into stakeholders, budget components, or scrum items (a fictitious term). 
+SOURCE: PJ:006 Prepare work breakdown structure (WBS)
+SOURCE: Mathis, M. (n.d.). Work breakdown structure (WBS) purpose, process and pitfalls. Retrieved October
+26, 2023, from https://www.projectsmart.co.uk/work-breakdown-structure/work-breakdown-structurepurpose-process-pitfalls.php 
+
+37. Successfully executing and controlling a project requires consistent 
+A. procrastination.
+B. negotiation.
+C. delegation.
+D. communication.
+
+37. D
+Communication. Communication throughout the life of a project is crucial to that project’s success. Specifically, consistent communication is necessary for successfully executing and controlling a project. Procrastination involves putting off until tomorrow what could be done today and is not helpful when working on a project. Delegation and negotiation are sometimes necessary, but they are not required for successfully executing and controlling a project. 
+SOURCE: PJ:009 Execute and control projects
+SOURCE: Indeed. (2022, December 5). The importance of communication. Retrieved October 18, 2023, from
+https://www.indeed.com/career-advice/career-development/importance-of-communication-in-projectmanagement 
+
+59. Identifying and resolving issues that arise during a project is most likely to occur during what stage of project management? 
+A. Planning
+B. Monitoring and controlling
+C. Closing
+D. Initiation
+
+59. B
+Monitoring and controlling. Project monitoring and controlling is the fourth stage of the project management process. It involves ensuring the project stays on track and taking the appropriate corrective measures if it doesn’t. Therefore, identifying and resolving issues that arise during a project is most likely to occur during the monitoring and controlling stage of project management—not the initiation, planning, or closing stages. 
+SOURCE: PJ:009 Execute and control projects
+SOURCE: Doan, D. (2023, September 18). The 5 phases of project management. Retrieved October 18, 2023,
+from https://blog.hubspot.com/marketing/project-management-phases 
+
+60. What responsibilities does managing a project team involve? 
+A. Identifying risks and mediating conflict
+B. Mediating conflict and providing feedback
+C. Providing feedback and documenting progress
+D. Documenting progress and identifying risks
+
+60. B
+Mediating conflict and providing feedback. Managing a project team requires a lot of work, including mediating conflict, resolving issues, managing team changes, tracking team member performance, and providing feedback. Documenting progress and identifying risks are important steps in project management, but they aren’t necessarily part of managing a project team. 
+SOURCE: PJ:007 Manage project team
+SOURCE: Kissflow. (2023, October 10). 10 dynamic strategies for managing a project team. Retrieved October
+26, 2023, from https://kissflow.com/project/project-team-management/ 
+
+75. Which of the following helps project teams document knowledge gained from experience: 
+A. A risk checklist
+B. Lessons-learned document
+C. Communities of practice
+D. SWOT analysis
+
+75. B
+Lessons-learned document. The lessons-learned document is a project-end summary of what went well, what didn’t go well, and how to improve in the future. It allows project teams to identify areas of inefficiency, record their processes, and document knowledge gained from experience. A SWOT analysis is a marketing tool that investigates a business’s strengths, weaknesses, opportunities, and threats in an organized fashion. Communities of practice are diverse groups of employees across the organization who regularly meet to share knowledge and communicate with one another to encourage knowledge management practices. A risk checklist is a standardized list of risks that a business faces regularly, used to speed up the risk-identification process. 
+SOURCE: PJ:008 Close project
+SOURCE: Eby, K. (2021, May 6). Guide to lessons learned in project management. Retrieved October 18,
+2023, from https://www.smartsheet.com/content/lessons-learned 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 18 
+
+98. Artem wants to know when his new project has been successful, so he establishes a goal that is easy to track. Which of the following best describes Artem’s goal: 
+A. Measurable
+B. Professional
+C. Relevant
+D. Sympathetic
+
+98. A
+Measurable. A measurable goal is trackable and indicates if and when you’ve been successful. Because Artem established a goal that is easy to track, he has set a measurable goal. Goals are not typically described as sympathetic. Goals should be relevant—and they can be professional—but neither of these qualities is demonstrated in this example. 
+SOURCE: PJ:005 Initiate project
+SOURCE: Landau, P. (2023, August 5). How to write SMART goals: SMART goal examples. Retrieved October
+26, 2023, from https://www.projectmanager.com/blog/how-to-create-smart-goals 
+
+99. Rachel is working with her team to develop the company’s annual report. The report itself was designed on time, but delays in the approval process caused the project to fall behind schedule. To make sure the annual report is ready for the company’s annual conference next week, Rachel pays a rush fee to the printer— essentially, increasing her project budget to meet a deadline. What is this an example of? 
+A. Demonstrating honesty
+B. Prioritizing cost-effectiveness
+C. Crashing a project
+D. Delegating responsibilities
+
+99. C
+Crashing a project. Crashing a project means increasing a project’s resources to speed up its timeline. In this example, Rachel spent more money on a rush printing job so the annual report would be ready for the annual conference on time. This is not an example of delegating responsibilities, demonstrating honesty, or prioritizing cost-effectiveness. 
+SOURCE: PJ:010 Manage project schedule
+SOURCE: Simmons, M. (2020, September 16). Project crashing in project management: Definition & best
+practices. Retrieved October 18, 2023, from https://www.projectmanager.com/blog/project-crashingdefinition 
+
+3. Sonya wants to show her project team members the logical relationships among activities in their project. What format should she use to present this information? 
+A. Project schedule network diagram
+B. Project calendar
+C. Milestone and deliverable chart
+D. Bar chart
+
+3. A
+Project schedule network diagram. A project schedule network diagram shows activities and relationships. It is the best method for demonstrating the relationships among activities in a project. A bar chart is a depiction of activities, dates, and durations using vertical and horizontal axes. It does not necessarily show the logical relationships among the activities. A milestone chart is similar to a bar chart, but only shows the start or completion of major deliverables. Again, it does not show the relationships among activities. A project calendar is a tool that identifies working days and shifts that are available for scheduled activities. It is not the best option for showing the relationships among project activities. 
+SOURCE: PJ:010 Manage project schedule
+SOURCE: Holohan, R. (n.d.). 6 steps to successful schedules. Retrieved September 22, 2023, from
+https://www.projectsmart.co.uk/scheduling/6-steps-to-successful-schedules.php 
+
+12. Which of the following gives project teams the opportunity to identify areas of inefficiency, record their processes, and document knowledge gained from experience: 
+A. Lessons-learned document
+B. Project charter
+C. Scope statement
+D. Work breakdown structure
+
+12. A
+Lessons-learned document. The lessons-learned document is a project-end summary of what went well, what didn't go well, and how to improve in the future. It gives project teams the opportunity to identify areas of inefficiency, record their processes, and document knowledge gained from experience. The project charter is a formal document that officially authorizes a project to get underway. The scope statement is a description of the project and the work to be done within established deadlines and the allotted budget. The work breakdown structure is a document that details the division of a project workload into smaller, more manageable parts. 
+SOURCE: PJ:008 Close project
+SOURCE: Eby, K. (2021, May 6). Guide to lessons learned in project management. Retrieved September 22,
+2023, from https://www.smartsheet.com/content/lessons-learned 
+
+18. What is the benefit of performing integrated change control? 
+A. It allows all changes to be accepted and carried out.
+B. It allows project documents to change without changing the deliverables and processes.
+C. It provides the team with areas for improvement.
+D. It reduces risks that arise from making changes without considering the project as a whole.
+
+18. D
+It reduces risks that arise from making changes without considering the project as a whole. The Perform Integrated Change Control process involves reviewing all change requests, approving changes, and managing changes. Without this process, changes would not be thoroughly considered and analyzed before being made, which could bring risks and unintended consequences. Performing integrated change control does not allow all changes to be accepted; some change requests are denied. The Perform Integrated Change Control process does not necessarily provide the team with areas for improvement; instead, this is a function of the Close Project process. Finally, the Perform Integrated Change Control process includes both changes to the project documents and changes to the deliverables and processes. 
+SOURCE: PJ:009 Execute and control projects
+SOURCE: Mind Tools. (2023). Critical path analysis and PERT charts: Planning and scheduling more complex
+projects. Retrieved September 22, 2023, from https://www.mindtools.com/atzj5xr/critical-pathanalysis-and-pert-charts 
+
+55. The purpose of a project charter is to 
+A. determine when key deadlines will be met.
+B. break down work into smaller activities.
+C. define what needs to be accomplished.
+D. document what went well during a project.
+
+55. C
+Define what needs to be accomplished. A project charter is a document completed at the beginning of a project that lays the foundation of the project. It includes defining what needs to be accomplished during the course of the project. However, the project charter generally does not get into the detail of scheduling key deadlines and breaking down work into smaller activities. Those would be determined after as a part of the project planning process. Documenting what went well during a project happens after a project has been completed, whereas a project charter is created during the initiation phase. 
+SOURCE: PJ:005 Initiate project
+SOURCE: Gillis, A.S. (2023, March). Project charter. [Video & article]. Retrieved September 22, 2023, from
+https://www.techtarget.com/searchcio/definition/project-charter 
+
+72. Which of the following is an example of a project manager motivating a project team: 
+A. Ryan advises Samantha that she will need to perform additional duties while Maggie is on vacation.
+B. Tamara recognizes how hard her team is working, so she provides lunch for the team members.
+C. Marcus tells Thomas that he might work more efficiently if he performed one task before another one.
+D. Zoey sends an email requesting each team member provide her with a weekly activity report.
+
+72. B
+Tamara recognizes how hard her team is working, so she provides lunch for the team members. Effective project managers motivate their team members to reach project milestones and goals. Motivation often involves offering rewards (e.g., lunch), which expresses the project manager's appreciation for the team's hard work and can encourage team members to keep striving to achieve the team's goals. Marcus is providing Thomas with evaluative feedback and guidance. Ryan is delegating duties to Samantha. Zoey is communicating information to team members. 
+SOURCE: PJ:007 Manage project team
+SOURCE: Pandey, S. (2022, March 21). How to motivate your team for better performance in your project?
+Retrieved September 22, 2023, from https://www.projectcentral.com/blog/motivate-project-team/ BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 18 
+
+75. What should project managers do to ensure that team members will perform their designated tasks efficiently? 
+A. Correct the team members' mistakes for them
+B. Ask team members if they like their assignments
+C. Communicate their roles and responsibilities to them
+D. Provide a team evaluation form
+
+75. C
+Communicate their roles and responsibilities to them. An important aspect of the project manager's role is to communicate to team members their individual roles and responsibilities for executing the project. When team members understand what is expected of them, the project is more likely to run smoothly and achieve its goals. Providing evaluation forms, asking team members if they like their assignments, and correcting team members' mistakes for them will not help the team members perform their work efficiently. 
+SOURCE: PJ:007 Manage project team
+SOURCE: Project Management Qualification. (2022, December 17). 5 characteristics to build a successful
+project team. Retrieved September 22, 2023, from https://www.projectmanagementqualification.com/blog/2019/12/17/5-characteristics-build-successfulproject-team/ 
+
+77. What common pitfall might project teams encounter when developing a work breakdown structure? 
+A. Using the work breakdown structure to replace the project schedule
+B. Creating a corresponding work breakdown structure dictionary
+C. Listing all work breakdown structure components as deliverables
+D. Including all relevant individuals to help develop the work breakdown structure
+
+77. A
+Using the work breakdown structure to replace the project schedule. While the work breakdown structure (WBS) will provide a comprehensive view of the project's milestones and deliverables, it cannot replace the project schedule because it does not always sequence or organize work in order of performance. WBS components should be listed as deliverables (rather than activities or tasks). Many teams find creating a WBS dictionary is a valuable part of the WBS development process. Including relevant individuals in the WBS development process is recommended. 
+SOURCE: PJ:006 Prepare work breakdown structure (WBS)
+SOURCE: Mathis, M. (n.d.). Work breakdown structure (WBS) purpose, process and pitfalls. Retrieved
+September 22, 2023, from https://www.projectsmart.co.uk/work-breakdown-structure-purposeprocess-pitfalls.php 
+

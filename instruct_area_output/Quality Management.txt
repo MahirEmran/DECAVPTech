@@ -1,0 +1,206 @@
+19. Ethical quality management aims to benefit 
+A. the business and those outside it.
+B. individuals in positions of power.
+C. only those outside the business.
+D. the business and its employees only.
+
+19. A
+The business and those outside it. Quality management is the ongoing process of planning, implementing, and integrating quality into every aspect of an organization. Where quality management seeks to implement practices that benefit the business, ethical quality management aims to benefit both the business and those outside it. Organizations that prioritize ethical quality management are sensitive to the impact their products and internal processes have on consumers and society. 
+SOURCE: QM:012 Discuss ethical considerations in quality management
+SOURCE: LAP-QM-012—Quality Is the Best Policy (Ethics in Quality Management)
+BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 5 
+
+42. To continuously improve their quality processes, businesses need to 
+A. promote change.
+B. implement flexible policies.
+C. establish benchmarks.
+D. solicit customers.
+
+42. C
+Establish benchmarks. Continuous improvement is the ongoing practice of looking for ways to increase the levels of excellence in relation to a process, good, or service. To determine if a business is improving the quality of its various products and processes, it needs to establish benchmarks—ways to provide a basis for comparison or evaluation of various components. If a business determines that benchmarks are not being achieved, then it may need to change processes or take corrective action. Change might include soliciting new customers or implementing new policies, depending on the situation being evaluated. 
+SOURCE: QM:003 Discuss the need for continuous improvement of the quality process
+SOURCE: America Society for Quality. (2023). What is benchmarking? Retrieved August 4, 2023, from
+https://asq.org/quality-resources/benchmarking 
+
+53. Corey wants a quality product that performs as it is supposed to. In other words, Corey is looking for an item that is 
+A. durable.
+B. responsive.
+C. reliable.
+D. serviceable.
+
+53. C
+Reliable. A reliable product is one that performs as it is supposed to. The longer the amount of time between breakdowns, the more reliable a product is considered to be. A serviceable product is one that can be maintained or repaired. The easier it is to do so, the more serviceable the product is considered to be. A durable product is one that performs its purpose for a long period of time. The longer the period of time before the product fails, the more durable the product is considered to be. Responsiveness involves the level of promptness and willingness with which a service is provided. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+6. The DMAIC project methodology of Six Sigma involves five steps, including measure, analyze, improve, and control. What does the “D” stand for? 
+A. Debut
+B. Define
+C. Delegate
+D. Document
+
+6. B
+Define. Six Sigma is a popular quality-management methodology that relies on a five-step approach to improve any business process. This five-step approach asks practitioners to define the problem, measure initial performance, analyze the issue, improve performance, and control the process so it remains effective. Debuting, delegating, and documenting are not identified steps in the DMAIC project methodology of Six Sigma. 
+SOURCE: QM:002 Describe the nature of quality management frameworks (e.g., Six Sigma, ITIL, CMMI)
+SOURCE: Hayes, A. (2023, April 25). What is Six Sigma? Concept, steps, examples, and certification.
+Retrieved October 10, 2023, from https://www.investopedia.com/terms/s/six-sigma.asp 
+
+13. Anika is using the Plan-Do-Check-Act (PDCA) cycle to solve a problem at her company. In what stage should Anika identify the problem and determine success criteria? 
+A. Plan
+B. Do
+C. Act
+D. Check
+
+13. A
+Plan. The Plan-Do-Check-Act (PDCA) cycle is a tool used for continuous improvement, often as part of different quality management frameworks (e.g., Six Sigma, Lean, TQM). There are four steps: Plan (identify problems), Do (test possible solutions), Check (study results), and Act (implement the best solution). During the Plan stage, organizations should explore all available information and state success criteria, which will be used in subsequent steps. 
+SOURCE: QM:003 Discuss the need for continuous improvement of the quality process
+SOURCE: Mind Tools. (2023). PDCA (plan do check act). Retrieved October 10, 2023, from
+https://www.mindtools.com/as2l5i1/pdca-plan-do-check-act 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 4 
+
+16. Cameron feels strongly about the quality of both the products his company produces and the organization’s internal processes, systems, culture, and overall mindset. He attempts to apply an ethical lens to everything the company does. This best describes what ethical quality management characteristic? 
+A. A top-down approach
+B. A comprehensive approach
+C. Embraced by the entire organization
+D. Compliant with laws and regulations
+
+16. B
+A comprehensive approach. Businesses that effectively implement ethical quality management tend to have similar characteristics. One characteristic of ethical quality management is a comprehensive approach. Remember, quality doesn’t just refer to the caliber of a finished product. Quality is an all-encompassing term beyond products and services; it describes an organization’s internal processes, systems, culture, and overall mindset. Businesses implementing ethical quality management apply an ethical lens to everything they do. While a top-down approach, being embraced by the entire organization, and being compliant with laws and regulations are characteristics of ethical quality management, they aren’t necessarily shown in this example. 
+SOURCE: QM:012 Discuss ethical considerations in quality management
+SOURCE: LAP-QM-012—Quality Is the Best Policy (Ethics in Quality Management)
+
+87. Which of the following quality management frameworks emphasizes customer satisfaction and is based on the idea that all employees are responsible for ensuring quality: 
+A. Lean Management
+B. Six Sigma
+C. Herzberg’s Two-Factor Theory
+D. Total Quality Management
+
+87. D
+Total Quality Management. Quality management is the ongoing process of planning, implementing, and integrating quality into every aspect of an organization. The Total Quality Management (TQM) framework emphasizes customer satisfaction and is based on the idea that all employees are responsible for ensuring quality. Other TQM principles include continuous improvement, process adherence, a systematic approach, and data utilization. Lean management, often referred to simply as “lean,” is a quality-control method that focuses on maximizing customer value while minimizing waste. Six Sigma is a popular quality-management methodology that relies on a five-step approach to improve any business process. Herzberg’s Two-Factor Theory is a content theory of motivation in which human needs are classified into hygiene factors and motivation factors. 
+SOURCE: QM:002 Describe the nature of quality management frameworks (e.g., Six Sigma, ITIL, CMMI)
+SOURCE: Barone, A. (2023, June 7). What is Total Quality Management (TQM) and why is it important?
+Retrieved October 10, 2023, from https://www.investopedia.com/terms/t/total-quality-managementtqm.asp 
+
+96. In the business world, quality often refers to excellence, value, and 
+A. conformance.
+B. quantity.
+C. technology.
+D. empathy.
+
+96. A
+Conformance. In the business world, quality often refers to excellence, value, satisfaction, and conformance. Conforming to predetermined specifications is an aspect of quality that has plenty of examples in the manufacturing industry. Let’s say a manufacturer is producing glass bottles. Each bottle should be a certain size and shape and should have no rough edges. If a bottle does not meet these specifications, it isn’t a quality product. Businesses strive to keep these variations or defects to a minimum, keeping the overall quality of their production output as high as possible. Quality does not typically refer to empathy, technology, or quantity. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+7. What is the potential benefit to a business that continuously takes action to improve the quality of its goods and services? 
+A. Higher costs
+B. Increased premiums
+C. Increased product options
+D. Higher demand
+
+7. D
+Higher demand. Continuous improvement is an ongoing process that looks for ways to increase the levels of excellence in relation to a process, good, or service. Potential benefits of improved processes often increase the business's productivity levels. Increased productivity levels result in increased outputs, lower costs, and increased revenue. When quality improves, customer satisfaction levels often increase, which often results in a higher demand for the business's goods and services. A premium is an item that a business offers to the purchasers of a particular product. Offering premiums to customers and increasing product options do not impact the continuous quality-improvement efforts toward a business's products and are not potential benefits of said efforts. 
+SOURCE: QM:003 Discuss the need for continuous improvement of the quality process
+SOURCE: Weedmark, D. (2019, September 4). Benefits of continuous quality improvement (CQI). Retrieved
+September 22, 2023, from https://bizfluent.com/facts-5317408-benefits-continuous-qualityimprovement-cqi.html 
+
+28. The cost of designing a reliable, durable product is a(n) __________ cost. 
+A. appraisal
+B. prevention
+C. external failure
+D. internal failure
+
+28. B
+Prevention. Prevention costs are the costs associated with making sure defective products don't get made in the first place (quality assurance). These costs could include the design and engineering process, hiring and training capable employees, purchasing high-quality equipment and materials, etc. Appraisal costs are the costs associated with catching defective products as quickly as possible (quality control). Internal failure costs are the costs associated with defective products before they make it to the customer. External failure costs are the costs associated with defective products that have reached the customer. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+69. Businesses have an ethical obligation to make sure the products they sell to customers are 
+A. inexpensive.
+B. safe to use.
+C. marketed well.
+D. name-brand.
+
+69. B
+Safe to use. Businesses have an ethical obligation to make sure the products they sell to customers are safe to use. A lack of ethical quality-management practices can lead to defective (imperfect or faulty) products. While product defects are impossible to avoid completely, it’s important that businesses take care to limit production of defective products—for themselves and for the safety of consumers. Businesses do not have an ethical obligation to make sure the products they sell to customers are inexpensive, name-brand, or marketed well. 
+SOURCE: QM:012 Discuss ethical considerations in quality management
+SOURCE: LAP-QM-012—Quality Is the Best Policy (Ethics in Quality Management)
+
+79. A manufacturing company uses Six Sigma as a quality management framework. This means that the company 
+A. has created its own quality management framework.
+B. follows the plan-do-check-adjust approach.
+C. uses an IT-oriented approach to quality management.
+D. produces only 3.4 defects per million parts.
+
+79. D
+Produces only 3.4 defects per million parts. A popular quality management framework is Six Sigma, named for the statistical term that indicates only 3.4 defects per million. PDCA uses the plan-do-check-adjust approach. ITIL uses an IT-oriented approach. The company has not created its own quality management framework. 
+SOURCE: QM:002 Describe the nature of quality management frameworks (e.g., Six Sigma, ITIL, CMMI)
+SOURCE: University Alliance. (2021, January 12). What is Six Sigma? Retrieved September 22, 2023, from
+http://www.villanovau.com/resources/six-sigma/what-is-six-sigma/#.VsXLE_IrKUk 
+
+64. Yasir works for a company that manufactures glass bottles. His job is to inspect the bottles to make sure they were made correctly. He throws away any defective bottles. This example is best described as quality 
+A. assurance.
+B. improvement.
+C. circle.
+D. control.
+
+64. D
+Control. Quality control is a process that measures products against predetermined standards after the products have already been created. Quality assurance is an organization-wide system that businesses use to ensure that products meet quality standards. It includes quality control, but its scope is much bigger than just that, as it focuses on planning ahead for quality. Quality improvement involves an organization's willingness to change and adapt for the purpose of maintaining quality. A quality circle is a team of employees with similar roles who meet regularly to discuss issues and solve problems. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+79. A factor related to social responsibility that keeps quality at the forefront of the modern business world is 
+A. retention strategies.
+B. changing technology.
+C. globalization.
+D. environmental issues.
+
+79. D
+Environmental issues. Over the past few decades, quality has become more and more important to both customers and businesses. Some of the factors keeping quality at the forefront of the modern business world include changing technology, globalization, and environmental issues. Customers and businesses alike are aware of the need to preserve and protect the environment. Many organizations consider this one of their social responsibilities, and customers expect them to do their part. Quality management should include plans to create environmentally sustainable processes and products. Globalization and changing technology are not necessarily related to social responsibility. Retention strategies are not a factor keeping quality at the forefront of the modern business world. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+99. When evaluating the quality of its product, one factor that a business considers is the feedback that it receives from the product's users. This factor indicates 
+A. the efficiency of the production process.
+B. employee performance ratings.
+C. customer satisfaction levels.
+D. the product's durability.
+
+99. C
+Customer satisfaction levels. Quality management is the coordination of resources to ensure the degree of excellence of a process, good, or service. One aspect of quality management involves customer satisfaction levels with the business's products. To gauge customer satisfaction levels in relation to product quality, the business monitors sales and obtains and evaluates customer feedback. If customers are satisfied with product quality, customer feedback is likely to be positive, and sales will be steady or will increase. If product quality is declining, customer feedback will likely be negative, complaints and returns may increase, and sales may decrease. Factors that may affect customer satisfaction levels include the product's durability, the product's performance, and customer service. The efficiency of the production process and the employees' performance levels do not always affect product quality. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: Money Instructor. (2002-2023). How to measure business quality. Retrieved October 3, 2023, from
+https://content.moneyinstructor.com/1380/business-quality.html ENTREPRENEURSHIP EXAM—KEY 24 
+
+24. An important aspect of Jason's job is developing better, more efficient organizational processes. The aspect of quality management in which Jason is involved is quality 
+A. assurance.
+B. deviation.
+C. consistency.
+D. improvement.
+
+24. D
+Improvement. Quality management is the coordination of resources to ensure the degree of excellence of a process, good, or service. Quality improvement involves using a systematic approach to increase the levels of excellence in relation to a process, good, or service. Quality assurance is the processes involved in checking processes or products to ensure that they are consistently meeting the business's quality standards. Deviation is the degree to which a process or product does not meet the business's quality standards. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+42. Pineapple Technologies obtains quality parts and materials, creates reliable tools and processes for making products, and solicits customer feedback regarding satisfaction. Which of the following aspects of quality is the company demonstrating: 
+A. Quality reliability
+B. Quality assurance
+C. Quality control
+D. Quality improvement
+
+42. B
+Quality assurance. Quality assurance is an organization-wide system that businesses use to ensure that products meet quality standards. Some important tasks in quality assurance include obtaining quality parts and materials, creating reliable tools and processes for making products, and soliciting customer feedback regarding satisfaction and product quality. Quality control is a process that measures products against predetermined standards after the products have already been created. Quality improvement involves an organization’s willingness to change and adapt for the purpose of maintaining quality. Reliability, or consistency in performance, is part of quality. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+
+34. Which of the following is an example of what customers look for in a quality service: 
+A. Reliability
+B. Serviceability
+C. Destructibility
+D. Durability
+
+34. A
+Reliability. A reliable service is one that is consistently performed well. Customers look for reliability in the services they use so that they can rest assured that the job will be done and done well. Serviceability, durability, and destructibility are all words used to describe tangible products, not services. A serviceable product is one that can be maintained or repaired. A durable product is one that performs its purpose for a long period of time. A destructible product is one that can be destroyed. 
+SOURCE: QM:001 Explain the nature of quality management
+SOURCE: LAP-QM-001—Keep It Quality (Nature of Quality Management)
+

@@ -1,0 +1,365 @@
+11. To prevent unauthorized access to a computer system or network, businesses typically install 
+A. firewall software.
+B. spyware applications.
+C. debugger applications.
+D. compression software.
+
+11. A
+Firewall software. Firewalls are computer programs that secure and protect computer networks from unauthorized users. Spyware is a type of software that gathers information about a user's computer activity (e.g., browsing history) without their knowledge. Debugger applications help identify and correct computerprogramming errors. Compression software reduces the size of an electronic file, which reduces storage space and increases the speed of transmission. 
+SOURCE: FM:011 Describe the use of technology in the financial-information management function
+SOURCE: Check Point Software Technologies. (1994-2023). What is firewall software? Retrieved August 10,
+2023, from https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/what-is-firewallsoftware/ 
+
+24. A small-business owner set up budgeting software so that it connects directly to the business's bank accounts and loans. That way, the owner doesn't have to record each business expense individually. Instead, they just have to compare their receipts to the numbers that the software downloads from the bank. This budgetingapplication feature is commonly known as automatic 
+A. tracking.
+B. affirmation.
+C. alerts.
+D. backup.
+
+24. A
+Tracking. Most personal and business budgeting applications allow users to connect their budgeting software directly to their bank accounts (e.g., checking and savings) and loans. Rather than manually entering every expense, automatic tracking transmits expense information from the bank to the budgeting application without human intervention. However, it is still wise for budgeting-software users to compare this information to physical receipts to verify that the data are accurate. An automatic backup system copies and saves computer files regularly to prevent loss of important data. Budgeting applications are typically programmed to provide users with automatic alerts—reminders—to make payments that are coming due. An affirmation is something you want to accept, incorporate, or develop. It typically refers to a present or desired strength. 
+SOURCE: FM:013 Demonstrate budgeting applications
+SOURCE: Accounting Tools. (2022, December 20). Budgeting and planning software definition. Retrieved
+August 8, 2023, from https://www.accountingtools.com/articles/budgeting-and-planning-software 
+
+46. Alexei determines who in his company is permitted to read data within the financial information management system. Alexei has assumed responsibility for the __________ stewardship of the company's financial information. 
+A. definition
+B. access
+C. environmental
+D. geospatial
+
+46. B
+Access. Stewardship of a company's financial information is an aspect of financial information management. In other words, the financial information management function is responsible for protecting the quality and integrity of any financial information that the company possesses. Several types of financial information stewardship exist, including both access and definition stewardship. Access stewardship is the ability to decide who is permitted or denied access to data within the financial information management system. Definition stewardship is the ability to determine what data within the financial information management system mean. Environmental stewardship is not usually associated with financial information management; it involves responsibility for the protection and conservation of natural resources. Geospatial is not a form of stewardship. 
+SOURCE: FM:003 Explain the role of ethics in financial-information management
+SOURCE: University of Dayton. (n.d.). Financial stewardship. Retrieved August 8, 2023, from
+https://udayton.edu/finadmin/divisions/budget_planning/_resources/financial_stewardship/index.php FINANCE CLUSTER EXAM—KEY 11 
+
+49. Which of the following are factors that affect a business's decision to offer credit to a customer: 
+A. Credit rating, objectives, and income
+B. Debt ratio, credit rating, and education
+C. Income, debt ratio, and credit rating
+D. Debt ratio, education, and objectives
+
+49. C
+Income, debt ratio, and credit rating. To reduce the risk of nonpayment or default on a loan, a business considers several factors before it extends credit to its customers. Data such as the customer's income, debt ratio, and credit rating indicate to the business whether the customer is a good credit risk or not. The customer's objectives and educational level are not primary considerations. 
+SOURCE: FM:009 Describe techniques used to analyze customer financial information
+SOURCE: Investopedia. (2023, April 27). Credit risk: Definition, role of ratings, and examples. Retrieved August
+8, 2023, from https://www.investopedia.com/terms/c/creditrisk.asp 
+
+69. Iliana, an accountant, provides information to executives about the costs of implementing recyclable packaging. This is an example of how 
+A. financial information can assist in sustainability reporting.
+B. financial information should only be shared with top-level executives.
+C. accountants can help organizations use activity-based costing.
+D. sustainability efforts are usually too expensive to implement.
+
+69. A
+Financial information can assist in sustainability reporting. One way that financial information can be used is to support sustainability reporting. Sustainability is the practice of focusing on meeting the needs of the present without compromising the ability of future generations to meet their economic, environmental, and social needs. Using recyclable packaging is an example of a sustainable practice. By providing information about its cost, Iliana is helping her company use financial information for sustainability reporting. Sustainability efforts are not necessarily too expensive to implement. This example is not related to activity-based costing. Finally, financial information should not necessarily only be shared with top-level executives. 
+SOURCE: FM:016 Discuss non-traditional uses for financial information (e.g., lean, sustainability reporting,
+activity-based costing [ABC], six sigma) 
+SOURCE: Keddie, L. (2021, February 3). What is sustainability accounting? What does ESG mean? We have
+answers. Retrieved August 8, 2023, from https://sprott.carleton.ca/2021/02/what-is-sustainabilityaccounting-what-does-esg-mean-we-have-answers/ 
+
+70. Which type of financial analysis is best for comparing a single company's historical financial information to determine trends? 
+A. Liquidity analysis
+B. Horizontal analysis
+C. Vertical analysis
+D. Leverage analysis
+
+70. B
+Horizontal analysis. Horizontal analyses compare the information from a single company's income statements over multiple years. This allows analysts to determine trends and make forecasts for future performance. Vertical analyses are used in comparing companies within the same industry, even companies of vastly different sizes. This is because a vertical analysis of an income statement results in the calculation of multiple ratios, which are more easily compared across multiple companies of different sizes than are dollars. Leverage analyses are effective at determining company performance by resulting in a debt-to-equity ratio. These are typically performed with income statement information for a single year. Liquidity analyses are performed with information from a company's balance sheet to determine if a company is able to meet its short-term debts. 
+SOURCE: FM:014 Demonstrate financial analysis applications
+SOURCE: Corporate Finance Institute. (2020, February 16). Types of financial analysis. Retrieved August 8,
+2023, from https://corporatefinanceinstitute.com/resources/accounting/types-of-financial-analysis/ 
+
+72. Why is it important for businesses to keep accurate accounts-receivable information? 
+A. To monitor aging accounts
+B. To classify stocks
+C. To forecast sales
+D. To evaluate interest rates
+
+72. A
+To monitor aging accounts. The accounts receivable—all the monies owed to a firm by its customers—should be monitored carefully because they affect the business's cash flow and its ability to pay its employees and creditors. To collect the monies owed to them, the business should implement follow-up procedures to contact customers with delinquent or aging accounts. Businesses do not monitor accounts-receivable information to forecast sales, classify stocks, or evaluate interest rates. 
+SOURCE: FM:002 Explain the nature and scope of the financial-information management function
+SOURCE: Accounting Tools. (2022, November 21). Accounts receivable aging definition. Retrieved August 8,
+2023, from https://www.accountingtools.com/articles/what-is-accounts-receivable-aging.html FINANCE CLUSTER EXAM—KEY 17 
+
+76. Makayla wants to know whether or not her customer can pay short-term debts. What type of financial ratio analysis should Makayla use? 
+A. Asset turnover
+B. Profit margin
+C. Working capital
+D. Debit/Equity
+
+76. C
+Working capital. Working capital is a measure of short-term financial health that can be found by subtracting current liabilities from current assets. It indicates whether or not a company can cover its current debts, so it is the appropriate technique to provide Makayla with the information she needs. Debit/Equity ratio shows the relationship between total liabilities and shareholders' equity. It indicates how much debt a company is using to finance its assets. This ratio will not provide the information that Makayla needs. Asset turnover ratio measures sales revenue in relation to the value of assets. It indicates efficiency of performance, which is not what Makayla needs to know. Finally, profit margin demonstrates the amount of each dollar of sales that is kept in earnings. This is not related to Makayla's inquiry. 
+SOURCE: FM:009 Describe techniques used to analyze customer financial information
+SOURCE: Bloomenthal, A. (2023, March 17). Financial ratio analysis: Definition, types, examples, and how to
+use. Retrieved August 8, 2023, from https://www.investopedia.com/terms/r/ratioanalysis.asp FINANCE CLUSTER EXAM—KEY 18 
+
+98. The accounting staff at the Sun Valley Granola Company recently completed their annual review of the company's budget. The team noticed that the company spent more money on advertising and promotion in the last year than on quality control. One staff member remarked that the company had been receiving an increase in complaints from dissatisfied customers than in previous years. What function of financial information management did the company neglect in this situation? 
+A. Policy setting
+B. Planning
+C. Budgeting
+D. Stewardship
+
+98. D
+Stewardship. Financial stewardship involves ensuring that a company's financial resources are allocated appropriately and ethically to fulfill the company's mission. In this situation, the Sun Valley Granola Company failed to engage in financial stewardship because it spent more money promoting its products than ensuring that its products were high-quality. There is not enough information given in this example to determine whether the company neglected to plan, budget, or set policies. 
+SOURCE: FM:003 Explain the role of ethics in financial-information management
+SOURCE: Nonprofit Accounting Basics. (2022, September 1). Stewardship & accountability. Retrieved August
+8, 2023, from https://www.nonprofitaccountingbasics.org/reporting-operations/stewardshipaccountability 
+
+12. Which of the following is the first step a business should take when developing a budget: 
+A. Understanding its goals
+B. Estimating income
+C. Determining budget surplus or deficit
+D. Identifying expenses
+
+12. A
+Understanding its goals. The first step a business should take when developing a budget is to gain a firm understanding of its goals. By understanding the goals the organization is working toward in the period covered by the budget, the business can prepare a budget that effectively aligns with those goals. The second step the business should take is to estimate its income for the period covered by the budget, followed by identifying its expenses. Determining its budget surplus or deficit comes after the business estimates its income and identifies expenses. 
+SOURCE: FM:013 Demonstrate budgeting applications
+SOURCE: Stobierski, T. (2021, November 16). How to prepare a budget for an organization: 4 steps. Retrieved
+December 21, 2023, from https://online.hbs.edu/blog/post/how-to-prepare-a-budget-for-anorganization 
+
+18. Which of the following statements best represents a technical analysis: 
+A. It uses statistical trends gathered from trading activity.
+B. It uses ratios gathered from data in financial statements.
+C. It helps analysts to arrive at an intrinsic value for the security.
+D. It analyzes a security’s fundamental attributes rather than looking for patterns.
+
+18. A
+It uses statistical trends gathered from trading activity. The two types of financial analysis are fundamental analysis and technical analysis. A technical analysis is a process using historical information from market activity, prices, and volume to evaluate securities and predict future price activity. A technical analysis uses statistical trends gathered from trading activity and looks for patterns to understand the market of a security, rather than analyzing a security’s fundamental attributes. A fundamental analysis uses ratios gathered from data in financial statements to determine a business's value. In addition to a thorough review of the company's economic and financial situations, a fundamental analysis can help analysts arrive at an intrinsic value for the security. 
+SOURCE: FM:014 Demonstrate financial analysis applications
+SOURCE: Tuovila, A. (2023, December 20). Financial analysis: Definition, importance, types, and examples.
+Retrieved December 27, 2023, from https://www.investopedia.com/terms/f/financial-analysis.asp 2024 HS ICDC FINANCE CLUSTER EXAM—KEY 5 
+
+25. Lean Six Sigma is different than Six Sigma in that Lean Six Sigma 
+A. doesn't focus on waste reduction.
+B. prioritizes defect detection over prevention.
+C. is not fact-based or data-driven.
+D. aims to reduce variation and waste.
+
+25. D
+Aims to reduce variation and waste. Lean refers to a quality-control method that focuses on maximizing customer value while minimizing waste, whereas Six Sigma is a popular quality-management methodology that relies on a five-step approach to improve any business process by reducing process variation and enhancing process control. Therefore, Lean Six Sigma is a fact-based, data-driven philosophy of improvement that aims to reduce waste and variation. Lean Six Sigma prioritizes defect prevention over defect detection. 
+SOURCE: FM:016 Discuss non-traditional uses for financial information (e.g., lean, sustainability reporting,
+activity-based costing [ABC], six sigma) 
+SOURCE: American Society for Quality. (2023). What is Six Sigma? Retrieved December 27, 2023,
+from https://asq.org/quality-resources/six-sigma 
+
+32. The SOSWYM Company is excellent at financial recordkeeping, as it allows the company to see which of its items are selling and helps with decision-making. This is an example of how good recordkeeping can help 
+A. keep track of deductible expenses.
+B. prepare tax returns.
+C. monitor the progress of a business.
+D. prepare financial statements.
+
+32. C
+Monitor the progress of a business. Keeping good records is very important to companies, as it will help them monitor the progress of their business, prepare financial statements and tax returns, identify sources of income, keep track of deductible expenses, and more. Just like with the SOSWYM Company in this scenario, good recordkeeping can help with monitoring the progress of a business, as it can show whether a business is improving, which items are selling, or what changes need to be made. This is not an example of how good recordkeeping can help prepare financial statements or tax returns or keep track of deductible expenses. 
+SOURCE: FM:002 Explain the nature and scope of the financial-information management function
+SOURCE: Internal Revenue Service (2023, March 23). Why should I keep records? Retrieved December 19,
+2023, from https://www.irs.gov/businesses/small-businesses-self-employed/why-should-i-keeprecords 
+
+38. Before Kirk's loan application is approved, the bank is likely to analyze his 
+A. medical history.
+B. debt ratio.
+C. inflation rate.
+D. political affiliation.
+
+38. B
+Debt ratio. The debt ratio refers to a financial ratio that indicates a company's or individual's level of debt in relation to their assets, expressed as a decimal or percentage. If the applicant has a high level of outstanding debt and few liquid assets, the applicant is more likely to default on the loan. The bank may consider the economy's inflation rate in relation to Kirk's debt ratio when evaluating the loan application. The bank will likely not consider Kirk's political affiliation or medical history. 
+SOURCE: FM:009 Describe techniques used to analyze customer financial information
+SOURCE: Hayes, A. (2023, December 16). What is the debt ratio? Retrieved December 27, 2023, from
+https://www.investopedia.com/terms/d/debtratio.asp 
+
+40. Which of the following is a way in which activity-based costing enhances the costing process: 
+A. It accumulates all costs in one company-wide pool.
+B. It transfers overhead costs from low-volume products to high-volume products.
+C. It assigns overhead and direct costs to related products and services.
+D. It expands the number of cost pools used to assemble overhead costs.
+
+40. D
+It expands the number of cost pools used to assemble overhead costs. Activity-based costing (ABC) is a costing method that assigns overhead and indirect costs to related products and services. Essentially, ABC first assigns costs to activities that are the real cause of overhead and then assigns costs of those activities only to the products or services that actually demand the activities. One way in which ABC enhances the costing process is by expanding the number of cost pools used to assemble overhead costs. Rather than accumulating all costs in one company-wide pool, it pools costs by activity. ABC transfers overhead costs from high-volume products to low-volume products, thus raising the unit cost of low-volume products. 
+SOURCE: FM:016 Discuss non-traditional uses for financial information (e.g., lean, sustainability reporting,
+activity-based costing [ABC], six sigma) 
+SOURCE: Kenton, W. (2023, December 16). Activity-based costing (ABC): Method and advantages defined
+with example. Retrieved December 28, 2023, from https://www.investopedia.com/terms/a/abc.asp 
+
+42. Scott, a financial analyst, wants to determine whether a company has substantial short-term assets to cover its immediate liabilities without selling inventory. What liquidity ratio should he use? 
+A. Current
+B. Cash
+C. Days sales outstanding
+D. Acid-test
+
+42. D
+Acid-test. An acid-test ratio determines whether a company has substantial short-term assets to cover its immediate liabilities without selling inventory. It does so by measuring the company's ability to meet its shortterm obligations with its most liquid assets. The ratio therefore excludes inventories from its current assets, as inventory may not be converted to cash quickly. A current ratio measures a company's ability to meet current liabilities out of current assets. A cash ratio removes many current assets when considering a business's ability to meet its short-term goals, as it only looks at assets that are already liquid. A days sales outstanding ratio refers to the average number of days it takes a company to collect payment after making a sale. 
+SOURCE: FM:009 Describe techniques used to analyze customer financial information
+SOURCE: Hayes, A. (2023, December 17). Understanding liquidity ratios: Types and their importance.
+Retrieved December 27, 2023, from https://www.investopedia.com/terms/l/liquidityratios.asp 
+
+47. Ashley prepares a budget that serves as a request for the purchase of a property. This best describes what type of budget? 
+A. Operating
+B. Promotional
+C. Capital
+D. Cash
+
+47. C
+Capital. A capital budget typically is a request for purchases of large assets (such as property, equipment, or IT systems) that create major demands on a company's cash flow. Capital budgets are often used to allocate funds, set priorities, and control risks in decision-making. Because Ashley prepares a budget that serves as a request for the purchase of a property, this scenario is an example of a capital budget. An operating budget details the revenues and expenses associated with day-to-day operations and divides them into major categories (such as revenues, salaries, and benefits). A cash budget ties capital and operating budgets together and accounts for the timing of both payments and receipt of cash from revenues. Cash budgets help businesses manage their cash flow effectively by assessing whether additional capital is required, if there is excess capital, or whether the company needs to raise more money. A promotional budget refers to the amount of money a business plans to spend on promoting its goods and services during a certain period of time. 
+SOURCE: FM:013 Demonstrate budgeting applications
+SOURCE: Schmidt, J. (2023). Budgeting. Retrieved December 21, 2023, from
+https://corporatefinanceinstitute.com/resources/fpa/budgeting 2024 HS ICDC FINANCE CLUSTER EXAM—KEY 12 
+
+48. Which of the following is a way in which a central data repository for financial information can benefit a company: 
+A. It is only useful for tech-savvy employees.
+B. It houses data across several locations.
+C. It complicates the onboarding process.
+D. It helps ensure data accuracy.
+
+48. D
+It helps ensure data accuracy. Central data repositories allow for businesses to store their information and data from different sources in a logical, organized way. Data repositories help ensure data accuracy by helping businesses avoid data duplication, eliminate inconsistencies in data, and circumvent other problems. Data repositories store data in one, centralized location. Central data repositories are useful for everyone, no matter how tech-savvy one is, as they allow team members to navigate data with ease. Data repositories do not complicate the onboarding process; rather, they make it easier for new team members to understand a business’s organizational structure and find the data they need. 
+SOURCE: FM:011 Describe the use of technology in the financial-information management function
+SOURCE: Mizrahi, E. (2023, September 14). What are the benefits of a data repository? Retrieved December
+20, 2023, from https://www.secoda.co/blog/what-are-the-benefits-of-a-data-repository 
+
+60. Which of the following is a way in which businesses can effectively safeguard important financial information: 
+A. Maintaining security software
+B. Using public Wi-Fi networks
+C. Avoiding regular updates to devices
+D. Using simple passwords
+
+60. A
+Maintaining security software. There are many ways businesses can effectively safeguard important financial information. One of the best ways to do so is to maintain security software, meaning that all internet-enabled devices should be equipped with strong, updated security software that regularly checks for harmful activity with the use of firewalls, antivirus protection, and more. Companies should regularly update their devices and security software. Companies should encourage employees to use strong, complex passwords rather than simple passwords. Companies should use private Wi-Fi networks when possible. But if they need to use public networks, they should never allow for personal or financial information to be shared. 
+SOURCE: FM:011 Describe the use of technology in the financial-information management function
+SOURCE: Carter, J. (2023, February 13). 8 tips for keeping your financial information secure. Retrieved
+December 20, 2023, from https://creativeplanning.com/insights/financial-planning/8-tips-for-keepingyour-financial-information-secure 
+
+93. Theo is the financial planner for the Anderson family. Theo often recommends high-risk, high-commission investments in an effort to earn a larger commission for himself. This is an example of 
+A. a finance charge.
+B. acting in good faith.
+C. a conflict of interest.
+D. complying with laws and regulations.
+
+93. C
+A conflict of interest. A conflict of interest is a situation in which it is impossible to be truly impartial. Because Theo is prioritizing his own personal gain over his client’s well-being, this is an example of a conflict of interest. This is not an example of complying with laws and regulations or acting in good faith. A finance charge refers to the interest charged on the outstanding balance of a credit account. 
+SOURCE: FM:003 Explain the role of ethics in financial-information management
+SOURCE: Sherman, F. (2019, November 5). Business ethics for a finance manager. Retrieved December 20,
+2023, from https://smallbusiness.chron.com/business-ethics-finance-manager-20490.html 2024 HS ICDC FINANCE CLUSTER EXAM—KEY 23 
+
+97. Which of the following is an advantage of a financial management information system: 
+A. It makes decisions for businesses.
+B. It does not allow for integration.
+C. It helps with planning and decreases efficiency.
+D. It gives businesses a competitive advantage.
+
+97. D
+It gives businesses a competitive advantage. A financial management information system (FMIS) is simply the automation of financial operations. Businesses with an FMIS have a competitive advantage over businesses that do not, as it leverages the power of information technology to bring more productivity and, thus, more satisfaction to the customer. An FMIS helps businesses stay one step ahead of their competition. An FMIS allows for integration, helps with planning, and increases efficiency. While it may help businesses with decisionmaking, an FMIS does not make decisions for businesses. 
+SOURCE: FM:002 Explain the nature and scope of the financial-information management function
+SOURCE: LaMarco, N. (2019, February 13). What are the benefits of a financial management information
+system? Retrieved December 19, 2023, from https://smallbusiness.chron.com/benefits-financialmanagement-information-system-71943.html 2024 HS ICDC FINANCE CLUSTER EXAM—KEY 24 
+
+4. A primary responsibility of financial-information management is to 
+A. report financial transactions.
+B. negotiate contracts with vendors.
+C. implement sales policies.
+D. develop new products.
+
+4. A
+Report financial transactions. Financial-information management is the ongoing process of gathering, maintaining, and storing financial data. Businesses use financial data to develop reports that aid the business decision-making process and meet compliance requirements. An important aspect of financial-information management is maintaining data about financial transactions such as accounts receivable (e.g., customer sales transactions) and accounts payable (monetary outflows). The business's buyers negotiate contracts with vendors. Buyers may or may not use financial information as leverage during the negotiation process with vendors. The product/service management function of the business focuses on new product development. The selling function of the business implements sales policies. 
+SOURCE: FM:002 Explain the nature and scope of the financial-information management function
+SOURCE: Gartenstein, D. (2018, April 5). Why is financial management so important in business? Retrieved
+September 29, 2023, from https://bizfluent.com/why-is-financial-management-so-important-inbusiness.html FINANCE CLUSTER EXAM—KEY 2 
+
+11. Karen needs to cut expenses to save money. Which budget should she consult? 
+A. Cash
+B. Financial
+C. Static
+D. Operational
+
+11. D
+Operational. An operational budget is a forecast and analysis of projected income and expenses over the course of a specific time period. It includes revenue and expenses such as materials, inventory, marketing, and more. If Karen is looking for ways to cut expenses, the operational budget provides detailed information that could assist her in this decision-making process. The financial budget includes capital expenditures, the cash budget, the budgeted balance sheet, and the budgeted statement of cash flows. The financial budget shows how operations and planned capital affect cash. The cash budget is part of the financial budget and forecasts how much cash the organization has and how much it needs. These two budgets do not provide the details about various expenses that the operational budget includes, so they would not be helpful to Karen in this situation. A static budget is a budget that is based on the level of output planned at the start of the budget period. It does not change, regardless of other factors. Since Karen needs to modify her budget by cutting expenses, she should not necessarily consult a static budget. 
+SOURCE: FM:013 Demonstrate budgeting applications
+SOURCE: Indeed. (2022, June 24). Guide to understanding operational and capital budgets. Retrieved
+September 29, 2023, from https://www.indeed.com/career-advice/career-development/operationalbudget-vs-capital-budget 
+
+15. How could financial analysis applications be used to identify possible conflicts of interest? 
+A. By comparing vendor payables posted to purchase orders
+B. By comparing yearly volume with on-hand quantity for stock items
+C. By comparing employee phone numbers and addresses to vendor information for payables
+D. By isolating entries against authorization records for new or terminated employees
+
+15. C
+By comparing employee phone numbers and addresses to vendor information for payables. A conflict of interest is a situation in which it is impossible to be truly impartial. It would prevent someone from performing their duties and responsibilities objectively. To spot probable conflicts of interest, businesses can use their financial analysis applications to cross check employee data with those of vendors. The other examples can be used to analyze financial data for other purposes. 
+SOURCE: FM:014 Demonstrate financial analysis applications
+SOURCE: Ellison, J. (2023). Conflicts of interest. Retrieved September 29, 2023, from
+https://www.audimation.com/conflicts-of-interest 
+
+16. Before extending credit, businesses should analyze their customers' 
+A. technical assets.
+B. stock purchases.
+C. capital gains.
+D. debt ratios.
+
+16. D
+Debt ratios. Offering credit involves allowing the buyer to purchase now and pay later. Offering credit is a risk to businesses because customers may fall behind in making and/or default on their payments. Therefore, businesses collect and analyze a variety of financial information about their customers before extending credit. The debt ratio is a tool that calculates a customer's assets in relation to the customer's level of debt as a percentage. If a customer's debt is low in relation to their assets (primarily income), the customer is more likely to have money to make payments, making them a good candidate for credit. Stock purchases, capital gains, and technical assets are not factors that typically influence a business's decision to extend credit to a customer. 
+SOURCE: FM:009 Describe techniques used to analyze customer financial information
+SOURCE: Hayes, A. (2023, July 7). What is the debt ratio? Retrieved September 29, 2023,
+from https://www.investopedia.com/terms/d/debtratio.asp 
+
+29. If a company decides to adopt a Lean methodology, one of its primary focuses will be to 
+A. lessen defects.
+B. eliminate waste.
+C. reduce variation.
+D. slow down processes.
+
+29. B
+Eliminate waste. Lean methodology focuses on eliminating waste, taking time out of processes, and creating a better flow to meet demand. Lean emphasizes increasing speed to reduce the amount of time between activities, events, or cycles, not slowing down processes. Reducing variation and lessening defects are some of the primary focuses of Six Sigma methodology. Where Lean aims to improve speed, Six Sigma looks to reduce the number of errors in a process and improve quality. 
+SOURCE: FM:016 Discuss non-traditional uses for financial information (e.g., lean, sustainability reporting,
+activity-based costing [ABC], six sigma) 
+SOURCE: GreyCampus. (n.d.). Difference between Lean and Six Sigma. Retrieved September 29, 2023,
+from https://www.greycampus.com/opencampus/lean-six-sigma-green-belt/difference-between-leanand-six-sigma 
+
+31. To determine the bills that are due in the next 10 days and the dollar amount of each bill, a company needs to use a financial analysis application to evaluate its 
+A. accounts payable.
+B. dividend payments.
+C. credit rating.
+D. sales revenue.
+
+31. A
+Accounts payable. Accounts payable are the monies owed by the business to others. Accounts-payable applications help businesses organize bills and allocate funds to pay bills when they are due. Budgeting tools and sales applications can help a business analyze its sales revenue. Dividends are payments made to stockholders for their investments. A credit rating is the score assigned to a borrower based on previous loans. 
+SOURCE: FM:014 Demonstrate financial analysis applications
+SOURCE: Tuovila, A. (2022, July 25). Understanding accounts payable (AP) with examples and how to record
+AP. Retrieved September 29, 2023, from https://www.investopedia.com/terms/a/accountspayable.asp 
+
+38. Which of the following is a benefit of financial-information management software: 
+A. Provides users with faster, better access to data from multiple sources
+B. Reduces risk and lowers confidence in the confidentiality and safety of data
+C. Improves productivity by replacing automated activities with manual tasks
+D. Lowers compliance costs by eliminating audit trails and economies of scale
+
+38. A
+Provides users with faster, better access to data from multiple sources. Financial-information management software has a number of benefits. It provides users with faster, better access to data, even from multiple sources. It also improves productivity by replacing tasks that used to be completed by hand with automated activities. It lowers compliance costs, but it does so by increasing audit trails and economies of scale, not eliminating them. Finally, it reduces risk and increases users' confidence in the confidentiality, safety, and integrity of data. 
+SOURCE: FM:011 Describe the use of technology in the financial-information management function
+SOURCE: LaMarco, N. (2019, February 13). What are the benefits of a financial management information
+system? Retrieved September 29, 2023, from https://smallbusiness.chron.com/benefits-financialmanagement-information-system-71943.html FINANCE CLUSTER EXAM—KEY 10 
+
+47. In addition to collecting, maintaining, and reporting data about financial transactions, financial-information management is also responsible for analyzing and reporting 
+A. dominant buying motives.
+B. market and competitive indicators.
+C. participative decision-making.
+D. recent third-party agreements.
+
+47. B
+Market and competitive indicators. In addition to collecting, maintaining, and reporting data about financial transactions, financial-information management is also responsible for maintaining internal operational data and analyzing and reporting external market and competitive indicators. The financial-information management function is not typically responsible for maintaining information about participative decision-making, dominant buying motives, or recent third-party agreements. 
+SOURCE: FM:002 Explain the nature and scope of the financial-information management function
+SOURCE: LaMarco, N. (2019, February 13). What are the benefits of a financial management information
+system? Retrieved September 29, 2023, from https://smallbusiness.chron.com/benefits-financialmanagement-information-system-71943.html FINANCE CLUSTER EXAM—KEY 12 
+
+68. In the lean approach to accounting, inventory is treated as a(n) 
+A. revenue.
+B. liability.
+C. asset.
+D. equity.
+
+68. B
+Liability. Unlike traditional accounting, in which inventory is considered an asset, lean accounting treats inventory as a liability because having an inventory requires labor, storage, and other expenses. Inventory is viewed as an asset in traditional accounting methods because it is a value owned and not owed. Inventory cannot be considered a revenue until it is sold and ceases to be inventory. Equity refers to the amount of value that a shareholder has invested in a business. 
+SOURCE: FM:016 Discuss non-traditional uses for financial information (e.g., lean, sustainability reporting,
+activity-based costing [ABC], six sigma) 
+SOURCE: Antony, D. (n.d.). Benefits of lean accounting in a lean manufacturing company. Retrieved
+September 29, 2023, from https://smallbusiness.chron.com/benefits-lean-accounting-leanmanufacturing-company-4924.html FINANCE CLUSTER EXAM—KEY 17 
+
