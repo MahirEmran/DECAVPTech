@@ -1,3 +1,5 @@
+Finance 2024 Exams
+
 11. To prevent unauthorized access to a computer system or network, businesses typically install 
 A. firewall software.
 B. spyware applications.

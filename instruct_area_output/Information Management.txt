@@ -1,3 +1,5 @@
+Business Admin Core 2024 Exams
+
 3. Which of the following is a potential risk involved with information management: 
 A. Higher interest rates
 B. Increased use of outsourcing
@@ -352,6 +354,8 @@ SOURCE: NF:007 Demonstrate basic word processing skills
 SOURCE: Microsoft. (2023). Undo, redo, or repeat an action. Retrieved October 3, 2023, from
 https://support.microsoft.com/en-us/office/undo-redo-or-repeat-an-action-84bdb9bc-4e23-4f06-ba78f7b893eb2d28 BUSINESS ADMINISTRATION CORE EXAM—KEY 21 
 
+Business Management Administration 2024 Exams
+
 12. Holly, Jamar, and Ricki are working on a project together, even though they are geographically far away from each other. They use the internet to work on documents together, share files, and communicate quickly and easily. What type of software are Holly, Jamar, and Ricki using? 
 A. Groupware
 B. Spyware
@@ -578,6 +582,8 @@ Financial. Financial records are documents containing information related to the
 SOURCE: NF:001 Describe the nature of business records
 SOURCE: LAP-NF-001—Record It (Business Records)
 
+Entrepreneurship 2024 Exams
+
 26. If a marketer is looking to gather data from a company's sales team, what information can they expect to find? 
 A. Updates on current trends in the marketing industry
 B. Who the company's current and potential customers are
@@ -761,6 +767,8 @@ Analyze. The collected data must be analyzed, or interpreted, in order to be use
 SOURCE: IM:010 Explain the nature of marketing research
 SOURCE: LAP-IM-010—Seek and Find (Marketing Research)
 ENTREPRENEURSHIP EXAM—KEY 22 
+
+Finance 2024 Exams
 
 7. Information management should ensure that information is 
 A. retrievable.
@@ -951,6 +959,8 @@ Ethical; information management. Information management is the process of access
 SOURCE: NF:111 Explain the role of ethics in information management
 SOURCE: Fletcher, C. (2022, February 26). Why the ethical use of data and user privacy concerns matter.
 Retrieved September 28, 2023, from https://venturebeat.com/datadecisionmakers/why-the-ethicaluse-of-data-and-user-privacy-concerns-matter 
+
+Hospitality 2024 Exams
 
 7. When preparing the property's marketing plan, Samantha researched the current, popular travel destinations; the ways in which visitors spend their money; the duration of their vacations; and their demographics. These are examples of __________ trends. 
 A. industry
@@ -1482,6 +1492,8 @@ D. result in audits.
 Save time and money. Appropriate information management has many benefits for a business, including saving time and money by making operations run more smoothly. Appropriate information management should make decisions easier and should reduce a business's risk of undergoing an unnecessary audit. Appropriate information management may or may not create more jobs. 
 SOURCE: NF:110 Discuss the nature of information management
 SOURCE: LAP-NF-110—In the Know (Nature of Information Management)
+
+Marketing 2024 Exams
 
 1. How can researchers protect the integrity of the marketing information they collect? 
 A. By interpreting it correctly

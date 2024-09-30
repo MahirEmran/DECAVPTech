@@ -1,3 +1,5 @@
+Business Admin Core 2024 Exams
+
 12. Which of the following is an example of a law: 
 A. You must wait in line to check out at the grocery store.
 B. You must follow the speed limit while driving.
@@ -65,6 +67,8 @@ D. licensing arrangement.
 Corporation. Corporations can be complex to form, but they provide protection for their owners because each owner's liability is limited to the amount of their investment. A partnership is a business owned by two or more people. A sole proprietorship is a type of business ownership in which only one person owns and manages the business. A licensing arrangement is a business structure that requires the authorization or permission from an owner to another entity to use trademarked, copyrighted (e.g., logo, name), or patented material for a specific activity, during a specific time period, for the profit of both parties. 
 SOURCE: BL:003 Explain types of business ownership
 SOURCE: LAP-BL-003—Own It Your Way (Types of Business Ownership)
+
+Business Management Administration 2024 Exams
 
 1. To sell sweatshirts, jackets, and T-shirts imprinted with ABC University's logo, the Collegiate Sportswear Company pays royalties to the university. What type of business ownership does this situation exemplify? 
 A. Business-format franchise
@@ -173,138 +177,6 @@ SOURCE: BL:159 Describe factors affecting the settlement of legal matters
 SOURCE: Findlaw. (2016, June 20). What does it mean to settle a case? Retrieved October 4, 2023, from
 https://www.findlaw.com/litigation/legal-system/what-does-it-mean-to-settle-a-case.html 
 
-70. Which of the following is most likely to help you implement effective risk management: 
-A. Membership in a professional organization
-B. An advertising campaign
-C. A long-term career plan
-D. Up-to-date knowledge of laws and regulations
-
-70. Copyright protection gives the copyright holder the exclusive right to copy, distribute, perform, or display the
-copyrighted work. That protection is maintained for the life of the author plus an additional 70 years after the death of the author. The protection does not last 10, 200, or 25 years. 
-SOURCE: BL:051 Describe methods used to protect intellectual property
-SOURCE: Entrepreneur. (n.d.). Intellectual property. Retrieved October 13, 2023, from
-https://www.entrepreneur.com/encyclopedia/intellectual-property 34. A Handling accounts payable. Working capital management focuses on the company’s current balance of assets and liabilities. This includes accounts payable, which is all the money owed by a business to others. Financing investments, paying shareholders, and demand forecasting fall under capital investment decisions because they are concerned with long-term projects. Demand forecasting is a supply chain management process of predicting and planning for demand; it is not directly tied to working capital management. 
-SOURCE: FI:354 Explain the role of finance in business
-SOURCE: LAP-FI-354—Money Matters (Role of Finance)
-35. B Political. Risk is the possibility of loss (failure) or gain (success). There are different types of risk, including political, currency (foreign exchange), internal, external, technological, human, etc. Political risk, a major international risk for businesses, occurs when a country’s government changes its policies, such as by enacting trade barriers or requesting additional funds to export items in the country. This is not an example of currency, internal, or technological risk. 
-SOURCE: RM:092 Describe international considerations affecting risk management
-SOURCE: Beers, B. (2023, July 17). Top risks for international businesses. Retrieved October 4, 2023, from
-https://www.investopedia.com/ask/answers/06/internationalfinancerisks.asp 36. B Familiarize yourself with the venue. Presenters should always familiarize themselves with the venue where they are speaking, including the equipment they intend to use. Jamie did not check the projector ahead of time, making his presentation a more difficult endeavor. Jamie has not yet begun presenting, so he has not ignored his audience or spoken in an unclear manner. Jamie did show up on time to the venue, but he forgot to check the equipment. 
-SOURCE: CO:055 Extract relevant information from written materials
-SOURCE: MindTools. (2023). 10 common presentation mistakes. Retrieved October 16, 2023, from
-https://www.mindtools.com/avmnivr/10-common-presentation-mistakes 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 9 37. D Communication. Communication throughout the life of a project is crucial to that project’s success. Specifically, consistent communication is necessary for successfully executing and controlling a project. Procrastination involves putting off until tomorrow what could be done today and is not helpful when working on a project. Delegation and negotiation are sometimes necessary, but they are not required for successfully executing and controlling a project. 
-SOURCE: PJ:009 Execute and control projects
-SOURCE: Indeed. (2022, December 5). The importance of communication. Retrieved October 18, 2023, from
-https://www.indeed.com/career-advice/career-development/importance-of-communication-in-projectmanagement 38. A Personally identifiable information. Personally identifiable information (PII) is any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another is a potential security risk to customers. Therefore, it is important for companies to protect this information. Patented intelligence integration, partial individual inputs, and patronage-implementation idea are not acknowledged acronyms regarding customer protection. 
-SOURCE: OP:518 Comply with strategies to protect digital customer data (e.g., information about customers,
-customers' credit-card numbers, passwords, customer transactions) 
-SOURCE: Rossi, B. (2019, December 3). 10 ways businesses can protect customer data. Retrieved November
-3, 2023, from https://www.information-age.com/10-ways-businesses-can-protect-customer-data-128/ 39. D Transformational. Change management is the process of guiding an organization through a change, including those made to company cultures, procedures, technology, infrastructure, etc. Large, often dramatic changes— such as deciding to expand the business internationally or launching a new product—are often called transformational changes. Adaptive changes are typically smaller incremental changes that evolve over time. “Personnel” refers to employees, which are not necessarily related to large and dramatic changes. “Creative changes” isn’t a term recognized in change management. 
-SOURCE: SM:096 Explain the change-management lifecycle
-SOURCE: Miller, K. (2020, March 19). 5 critical steps in the change management process. Retrieved
-September 29, 2023, from https://online.hbs.edu/blog/post/change-management-process 40. B Loss of use. Loss of use coverage helps homeowners pay for additional expenses they have incurred while their house is being repaired or restored. If Raphael’s home is damaged or destroyed, loss of use coverage will help pay the temporary costs of living while awaiting repairs. Personal property coverage pays for an individual’s personal items, such as furniture, clothing, or electronics. Personal liability coverage helps protect a homeowner if a legal suit is brought against them for bodily injury or property damage. Dwelling coverage is a type of home insurance that covers the actual costs to repair or rebuild a homeowner’s house if it is damaged or destroyed. 
-SOURCE: FI:571 Determine insurance needs
-SOURCE: Travelers. (2022). Home insurance coverage. Retrieved October 6, 2023, from
-https://www.travelers.com/home-insurance/coverage 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 10 41. A Prioritize daily activities. The eight steps in the time-management process are set goals; identify objectives; create monthly, weekly, and daily to-do lists; prioritize daily activities; schedule daily activities; and follow your plan. Since Jared has already completed the first five steps of the process, his next step will be to prioritize his daily activities. Once he prioritizes them, he can schedule his daily activities before following his plan and putting it into action. Although keeping a time log may help Jared to better manage his time, it is not a step in the time-management process. 
-SOURCE: PD:019 Use time-management skills
-SOURCE: LAP-PD-019—About Time (Time Management)
-42. B Prioritize. Knowledge management is the process of creating, identifying, collecting, organizing, sharing, and using knowledge and knowledge sources for the benefit of the organization or business. The knowledge management process can be split into six stages: Prioritize, audit, capture, curate, deliver, optimize. The first stage of the knowledge management process is to prioritize the knowledge. This is done by determining what customers are actually asking about and prioritizing that information using the 80-20 rule—80% of queries will be solved using 20% of your knowledge. 
-SOURCE: KM:018 Apply knowledge management processes
-SOURCE: eGain. (2023). What is a knowledge management process? Retrieved October 27, 2023, from
-https://www.egain.com/what-is-knowledge-management-process 43. B It ends a dispute before the end of a trial. Settling a case means ending a dispute before the end of a trial. Trials are expensive, but cases that reach settlement can avoid the expense of a trial while still offering some compensation for the wrong that was committed. Settlements do not take place after a trial. Even though they can sometimes speed up the process, lawyers and courtroom procedure are not necessary to reach a settlement. Both parties must agree to the settlement. 
-SOURCE: BL:159 Describe factors affecting the settlement of legal matters
-SOURCE: Findlaw. (2016, June 20). What does it mean to settle a case? Retrieved October 4, 2023, from
-https://www.findlaw.com/litigation/legal-system/what-does-it-mean-to-settle-a-case.html 44. C Abstract. An abstract in a research report is a brief overview that highlights all the important aspects of the research in a concise manner. Abstracts are always brief, go straight to the point, and come before the introduction. The introduction of a research report highlights the objectives of the research, the problem the research sets to solve, and the specifics of the research problem. The findings section details the results of the research. The conclusion comes at the end of the report and is a summary of all of the information in the report and outlines the significance of the entire study. 
-SOURCE: CO:186 Write research reports
-SOURCE: Longe, B. (2023, July 27). Research report: Definition, types + [writing guide]. Retrieved October 10,
-2023, from https://www.formpl.us/blog/research-report 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 11 45. C It makes knowledge easier to record. Knowledge management is the process of creating, identifying, collecting, organizing, sharing, and using knowledge and knowledge sources for the benefit of the organization or business. Technology facilitates knowledge management in organizations because it makes knowledge easier to record, access, and store. While knowledge management can go a long way toward helping professionals retain knowledge, it does not necessarily ensure knowledge will be retained. 
-SOURCE: KM:003 Explain the use of technology in knowledge management
-SOURCE: IBM. (n.d.). What is knowledge management? Retrieved October 27, 2023, from
-https://www.ibm.com/topics/knowledge-management 46. C Must be commercially valuable. Trade secrets are intellectual property rights or confidential information that can be sold or licensed. For information to qualify as a trade secret, the information must be commercially valuable and be known by only a limited group of persons, rather than a large group of people. In addition, the information must be subject to reasonable steps taken by the rightful holder of the information to keep it secret, including the use of confidentiality agreements. 
-SOURCE: KM:004 Explain legal considerations for knowledge management
-SOURCE: WIPO. (n.d.). Frequently asked questions: Trade secrets. Retrieved October 27, 2023, from
-https://www.wipo.int/tradesecrets/en/tradesecrets_faqs.html 47. B Show why the change is necessary. According to the steps in the process of leading change, Sandra should first show why the change is necessary. If Sandra wants her staff to take the change seriously, she must show them why the change is good for both them and the company. The second step of the process is to ask others to join in leading the change, followed by communicating the change to everyone involved. After addressing the resistance to change, the final step of the process is to put the change into action. 
-SOURCE: EI:005 Lead change
-SOURCE: LAP-EI-005—Start the Revolution (Leading Change)
-48. B Achieve customer satisfaction. The ultimate goal of supply chains is customer satisfaction—a measure of how well a business has met its customers’ expectations. From a supply chain perspective, achieving customer satisfaction means creating and maintaining a system that produces high-quality products and distributes those products effectively. While many supply chains span several countries, others are confined to local communities. Raw materials are important in supply chains but are not the ultimate goal. While supply chains should aim to be flexible, it is not their most important goal. 
-SOURCE: OP:479 Describe supply chain networks
-SOURCE: Hayes, A. (2023, March 28). The supply chain: From raw materials to order fulfillment. Retrieved
-October 27, 2023, from https://www.investopedia.com/terms/s/supplychain.asp 49. C Collaboration. Collaboration is a cooperative arrangement in which two or more parties contribute and share responsibilities to achieve success. While collaboration requires cooperation, it is about much more than getting along with others or helping them with a task or a project. Collaboration occurs when all team members work together to generate ideas to accomplish a shared goal that goes beyond the ability of any one person to achieve. Concurrence refers to multiple activities taking place at the same time. Clarification is the process of making something clear and understandable. 
-SOURCE: EI:130 Collaborate with others
-SOURCE: LAP-EI-130—Genius Is a Team Sport (Collaborating With Others)
-2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 12 50. C Train employees to recognize threats. One of the best ways a company can improve its cybersecurity is by training its employees to recognize threats. Doing so helps staff members identify cybersecurity threats and to properly report them. Encouraging the use of basic and simple passwords, avoiding implementing multifactor authentication, and allowing employees access to all company information are not ways in which a company can improve its cybersecurity. Rather, companies should encourage the use of complex passwords, implement multifactor authentication, and limit employee access to only what is necessary. 
-SOURCE: OP:518 Comply with strategies to protect digital customer data (e.g., information about customers,
-customers' credit-card numbers, passwords, customer transactions) 
-SOURCE: Conlin, B. (2023, October 20). How to improve your small business's cybersecurity in an hour.
-Retrieved October 31, 2023, from https://www.businessnewsdaily.com/15046-quick-cybersecuritytips.html 51. C Properly train employees on the data change. When there is a change in data in an organization, it is important for the organization to properly train employees on the data change. Not doing so can lead to confusion and mistakes. Other common data change best practices include conducting regular audits of datasets, maintaining history logs of data, and storing data in a central location (rather than multiple locations) to ensure everyone is accessing the same information. 
-SOURCE: NF:264 Adhere to data change best practices
-SOURCE: Spector, E. (2023, April 12). 6 best practices to improve change management at scale. Retrieved
-October 11, 2023, from https://www.heap.io/blog/6-best-practices-to-improve-change-managementat-scale 52. A Personal involvement or emotion. Logic helps you make sense of the facts. It involves comparing and contrasting information apart from personal involvement or emotion. It entails looking at the alternatives from a neutral point of view instead of from your perspective. Using logic does not necessarily remove the need for input from others, the possibility of making a mistake, or the need for maximum input. 
-SOURCE: PD:017 Make decisions
-SOURCE: LAP-PD-017— Weigh Your Options (Decision-Making)
-53. A Social media accounts and photos. A digital asset is anything that is created or stored digitally, provides value, establishes ownership, and is discoverable. Examples of digital assets include social media accounts, photos, email lists, websites, videos, documents, manuscripts, and intellectual property such as logos. Hardware, printers, and desktop computers are physical, tangible objects that cannot be stored digitally. Therefore, they are not examples of digital assets. 
-SOURCE: OP:517 Comply with strategies for protecting business' digital assets (e.g., website, social media,
-email, etc.) 
-SOURCE: Frankenfield, J. (2023, September 9). Digital asset: Meaning, types, and importance. Retrieved
-October 31, 2023, from https://www.investopedia.com/terms/d/digital-asset-framework.asp 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 13 54. C Content strategy. A content strategy is the practice of planning content, deliverables, or materials to be presented to the public. In the case of social media, a content strategy helps businesses maintain a professional online presence. A knowledge gap is an area or subject an individual or group don’t know anything about. A labor contract is an agreement between a union and a company outlining the wages, fringe benefits, working conditions, and rules under which employees will work. Cyberlaws are regulations that apply to online activities. 
-SOURCE: CO:206 Distinguish between using social media for business and personal purposes
-SOURCE: Gibbings, M. (2022, August 9). Strengthen your professional presence on social media. Retrieved
-October 16, 2023, from https://hbr.org/2022/08/strengthen-your-professional-presence-on-socialmedia 55. A $25 million. Free cash flow is the money that remains after a company pays for operating expenses and capital expenditures. The formula for calculating free cash flow is: Free cash flow = Cash flow from operations – Capital expenditures. When inserting the figures from this scenario, the formula is: Free cash flow = $100 million – $75 million. The difference is $25 million, making it the company's free cash flow. 
-SOURCE: FI:541 Interpret cash-flow statements
-SOURCE: Murphy, C.B. (2023, October 7). What is the formula for calculating free cash flow? Retrieved
-October 10, 2023, from https://www.investopedia.com/ask/answers/033015/what-formulacalculating-free-cash-flow.asp 56. C Satisfaction. Customer satisfaction is a measure of how well a business or product meets or exceeds customer expectations. If Zae is happy with his laptop, then he is demonstrating customer satisfaction. Customer loyalty is a customer's preference for a business; in other words, how often the customer purchases the business's goods or services. Customer appreciation is a term used to describe a business’s demonstration of goodwill to customers. Customer feedback is evaluative or corrective information given by the customer to the salesperson. Zae is not giving customer feedback in this instance. 
-SOURCE: MK:019 Demonstrate connections between company actions and results (e.g., influencing consumer
-buying behavior, gaining market share, etc.) 
-SOURCE: LAP-MK-019—Just Do It...Right (Company Actions and Results)
-57. D Exit. An exit interview refers to discussions with employees who are leaving that are designed to gain feedback for the business. In terms of knowledge management, exit interviews are used by companies as a way to capture and transfer knowledge. An expert interview is used in market research to obtain information on the market, consumers, products, and services. A personal interview is a data collection method in which a researcher sits down with a respondent one-on-one to ask questions and record the respondent's answers. A phone interview includes surveying individuals via phone to obtain research data. 
-SOURCE: KM:005 Identify techniques that can be used to capture and transfer knowledge in an organization
-SOURCE: Bamboo HR. (2023). Exit interview. Retrieved October 27, 2023, from
-https://www.bamboohr.com/resources/hr-glossary/exit-interview 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 14 58. A Change. Change management is the process of guiding an organization through a change, including those made to company cultures, procedures, technology, infrastructure, etc. Because Kelsey is working to implement a new policy—which would be a significant change for the organization—she should work through the steps of a change management plan. Channel management includes processes by which marketers ensure products are distributed to customers efficiently and effectively. Crisis management is a public relations strategy that involves the ongoing management, planning, and coordination of resources in the event undesirable circumstances occur. Customer relationship management includes the strategies, processes, technology, and people a business uses to build, maintain, and maximize the long-term value of customer relationships. 
-SOURCE: SM:095 Explain the nature of change management
-SOURCE: Miller, K. (2020, March 19). 5 critical steps in the change management process. Retrieved
-September 29, 2023, from https://online.hbs.edu/blog/post/change-management-process 59. B Monitoring and controlling. Project monitoring and controlling is the fourth stage of the project management process. It involves ensuring the project stays on track and taking the appropriate corrective measures if it doesn’t. Therefore, identifying and resolving issues that arise during a project is most likely to occur during the monitoring and controlling stage of project management—not the initiation, planning, or closing stages. 
-SOURCE: PJ:009 Execute and control projects
-SOURCE: Doan, D. (2023, September 18). The 5 phases of project management. Retrieved October 18, 2023,
-from https://blog.hubspot.com/marketing/project-management-phases 60. B Mediating conflict and providing feedback. Managing a project team requires a lot of work, including mediating conflict, resolving issues, managing team changes, tracking team member performance, and providing feedback. Documenting progress and identifying risks are important steps in project management, but they aren’t necessarily part of managing a project team. 
-SOURCE: PJ:007 Manage project team
-SOURCE: Kissflow. (2023, October 10). 10 dynamic strategies for managing a project team. Retrieved October
-26, 2023, from https://kissflow.com/project/project-team-management/ 61. A Company downsizing. Downsizing, or reducing the size and payroll of a company by eliminating workers, would be most likely to inspire changes to business processes. When companies cut costs and reduce manpower, they are often forced to significantly change their processes to accommodate for the changes in budget and manpower. Meeting with a new client or firing a single employee are unlikely to inspire business process changes because they are relatively insignificant events in comparison. A routine safety inspection may bring about process changes if a safety hazard is discovered, but this occurrence is less likely to inspire change than the downsizing of an entire company. 
-SOURCE: OP:476 Explain the causes of business process changes
-SOURCE: Hayes, A. (2022, December 26). Business process redesign (BPR). Retrieved October 27, 2023,
-from https://www.investopedia.com/terms/b/business-process-redesign.asp 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 15 62. A Accessible. One of the biggest advantages of internal data is that they are readily available for analysis. The ability to make quick decisions is enhanced by almost-instant access to information. Internal data are not necessarily more accurate or impartial than external data. The accuracy and impartiality of data depends on the validity and dependability of the sources providing the data. Internal data are usually less comprehensive than external data because external data comprise all sources of information outside a business, including data from the internet, other businesses, and academic studies. 
-SOURCE: NF:014 Monitor internal records for business information
-SOURCE: Lido. (2023). Managing internal and external data to optimize your business. Retrieved September
-29, 2023, from https://www.lido.app/post/internal-and-external-data 63. D Continuous. Though each business is unique, there are certain staffing tasks that every organization undertakes. Unlike organizing (another managerial function), staffing is a continuous activity—it’s happening across the business, all the time. Organizing lays the foundation for staffing, but staffing is what gets employees in the door and in the right job positions. Staffing is not necessarily a technological, emotional, or risky activity. 
-SOURCE: SM:065 Describe managerial considerations in staffing
-SOURCE: LAP-SM-065—Dream Team Maker (Staffing)
-64. B Replace the product. If consumers don’t buy a product, the producer must change it, replace it, or go out of business. Each time a consumer makes a purchase, they are casting an economic vote in the marketplace. These economic votes enable consumers to control what will be produced. Raising the product’s price will likely further discourage customers from buying the product. Hiring new employees does not address the issue that customers do not like the product. Suing customers would not increase sales, and there would likely be no grounds for a lawsuit. 
-SOURCE: EC:009 Explain the concept of private enterprise
-SOURCE: LAP-EC-909—People Power (The Private Enterprise System)
-65. D Sales numbers. Quantitative data are numerical facts and figures such as time and money. Sales numbers are an example of monetary data that are not subjective. Feedback forms, diaries and logs, and focus groups are examples of qualitative data. 
-SOURCE: OP:521 Evaluate project success
-SOURCE: LAP-OP-521—Making the Grade (Evaluating Project Success)
-66. B Provide consistent communication. Maintaining clear and consistent communication channels is one of the most important principles of supplier relationships. Regular communications will help all involved parties better understand each other’s operations, culture, and vision. It is important to be proactive, not reactive, when maintaining supplier relationships. It is a mistake to overpromise business opportunities or attempt practices that are infeasible. Businesses should embrace automated technologies because they help improve virtually any business processes, including vendor relationships. 
-SOURCE: OP:241 Maintain vendor/supplier relationships
-SOURCE: Lavelle, E. (2023, October 23). 10 ways to improve your supplier relationships. Retrieved October
-23, 2023, from https://enable.com/blog/10-ways-to-improve-your-supplier-relationships 2024 HS ICDC BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 16 67. D Motivating. Motivation is the process of getting employees to strive to achieve management’s objectives because they want to achieve them. In an ideal world, employees would want to reach the company’s goals just out of the goodness of their hearts—but that’s not how people are. In the workplace, motivation keeps employees working hard and putting forth as much effort as they can to achieve their own goals. This is not an example of instructing, planning, or delegating. 
-SOURCE: SM:066 Discuss managerial considerations in directing
-SOURCE: LAP-SM-066—Take Action (Managerial Directing)
-68. A Automation. Automation is the method of using technology to complete tasks for the purpose of reducing human effort and labor. As machines and computers become more intelligent, they will continue to further the usefulness of automation in supply chains and supply chain management. Raw materials are items in their natural state or condition—raw materials have been an important element of supply chains well before the implementation of machine learning and AI. Manual labor is decreasing due to machine learning and AI, not increasing. Tariffs are not directly related to automation. 
-SOURCE: OP:478 Describe the impact of technology on supply chain management
-SOURCE: Stackpole, B. (2020, February 14). 5 supply chain technologies that deliver competitive advantage.
-Retrieved October 23, 2023, from https://mitsloan.mit.edu/ideas-made-to-matter/5-supply-chaintechnologies-deliver-competitive-advantage 69. D It can be gained through an experience. Tacit knowledge is knowledge an individual possesses that is difficult to transfer to others either verbally or in writing. Tacit knowledge is gained through some sort of experience. Tacit knowledge is harder to grasp than explicit knowledge, which is knowledge that can be easily communicated to others or readily captured and stored in some type of document or database. 
-SOURCE: KM:001 Explain the nature of knowledge management
-SOURCE: LAP-KM-001—Know Go (The Nature of Knowledge Management)
-70. D
-Up-to-date knowledge of laws and regulations. Risk management is a business activity that involves the planning, controlling, preventing, and procedures used by management to limit business losses. To implement effective risk management, you should have up-to-date knowledge of laws and regulations, as this will help an organization avoid losses due to legal noncompliance. A long-term career plan, an advertising campaign, and membership in a professional organization will not necessarily help you implement effective risk management. 
-SOURCE: RM:043 Discuss legal considerations affecting risk management
-SOURCE: Gracy, M. (2023, September 2). How to implement risk management framework (quick guide).
-Retrieved October 10, 2023, from https://sprinto.com/blog/risk-management-framework/ 70. D
-Up-to-date knowledge of laws and regulations. Risk management is a business activity that involves the planning, controlling, preventing, and procedures used by management to limit business losses. To implement effective risk management, you should have up-to-date knowledge of laws and regulations, as this will help an organization avoid losses due to legal noncompliance. A long-term career plan, an advertising campaign, and membership in a professional organization will not necessarily help you implement effective risk management. 
-SOURCE: RM:043 Discuss legal considerations affecting risk management
-SOURCE: Gracy, M. (2023, September 2). How to implement risk management framework (quick guide).
-Retrieved October 10, 2023, from https://sprinto.com/blog/risk-management-framework/ 
-
 71. Which of the following best describes a plaintiff in the litigation process: 
 A. The party that answers a complaint and defends themselves
 B. The party that makes a formal legal complaint
@@ -375,6 +247,8 @@ Mediation. Mediation is the process in which a neutral third party works to help
 SOURCE: BL:161 Discuss the arbitration/mediation process
 SOURCE: Shonk, K. (2023, August 7). What is an arbitration agreement? Retrieved September 21, 2023, from
 https://www.pon.harvard.edu/daily/conflict-resolution/what-is-an-arbitration-agreement/ 
+
+Entrepreneurship 2024 Exams
 
 16. Which form of business ownership makes up the minority of businesses in the U.S. yet makes up the majority of sales? 
 A. Sole proprietorships
@@ -507,6 +381,8 @@ Minimum-wage laws. By passing laws that require businesses to pay workers a mini
 SOURCE: BL:007 Explain the nature of human resources regulations
 SOURCE: Employment Law Handbook. (n.d.). Minimum wage laws. Retrieved October 2, 2023, from
 https://www.employmentlawhandbook.com/employment-and-labor-laws/topics/wage-andhour/minimum-wage/ 
+
+Finance 2024 Exams
 
 30. Six months ago, Xander bought 500 shares of stock at $25 per share. Today, he sold all 500 shares for $48 per share. What type of tax is Xander obligated to pay as a result of this financial transaction? 
 A. Stock sales tax
@@ -771,6 +647,8 @@ SOURCE: BL:149 Describe the use of technology in compliance
 SOURCE: Craig, S. (2021, August 4). How technology can impact the future of compliance. Retrieved
 September 28, 2023, from https://www.complianceandethics.org/how-technology-can-impact-thefuture-of-compliance 
 
+Hospitality 2024 Exams
+
 14. From a legal standpoint, hospitality and tourism customers have the right to expect businesses in this industry to take 
 A. reasonable care.
 B. no risks.
@@ -826,28 +704,7 @@ D. Customs broker
 6. B
 Freight forwarder. A freight forwarder organizes the shipping of goods in an international transaction; they act as an intermediary between a business and a transportation company. Customs brokers, on the other hand, focus solely on imported goods and act as an intermediary between a business and the customs department. Freight forwarders work with both importers and exporters. Neither an import officer nor an export official satisfies this description. 
 SOURCE: BL:145 Explain the nature of import/export law
-SOURCE: Garland, J. (2020, December 16). Freight forwarder vs. Customs broker: What’s the difference?
-Retrieved November 28, 2023, from https://www.asianausa.com/freight-forwarder-customs-brokerdifference/ 6.95%. An effective rate is the average percentage a merchant pays to process a credit card transaction. The
-formula to calculate effective rate is: (Total amount deducted for processing / total monthly sales) x 100. When inserting the information from this scenario, the formula is: (8,219.90 / 118,229.07) x 100 = 6.95%. 
-SOURCE: FI:790 Calculate credit-card processing costs
-SOURCE: Rej, M. (2023, April 10). How do you calculate processing rates? Retrieved November 16, 2023,
-from https://merchantcostconsulting.com/lower-credit-card-processing-fees/how-do-you-calculateprocessing-rates 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 23 96. B Variability. Hospitality and tourism products are highly variable or inconsistent. Consistency differs based on the service provider’s skillset. Guests often have different expectations, which contributes to variability in hospitality and tourism. Perishability means hospitality products can’t be stored for later use. Inseparability refers to the fact that both hospitality customers and employees are intertwined and become part of the service. Intangibility means hospitality and tourism products can’t always be felt, seen, heard, or tasted before or after purchase. 
-SOURCE: PM:081 Explain the concept of product in the hospitality and tourism industry
-SOURCE: Geographic Book. (2023, September 3). Characteristics of tourism product. Retrieved November 21,
-2023, from https://geographicbook.com/characteristics-of-tourism-product/ 97. B Influencer marketing. Influencer marketing is a marketing strategy that involves paying a third party to promote a business’s products or services. The tourism industry is increasingly leveraging influencers—prominent people on social media—to appeal to younger customers, who are statistically more likely to be active on social media. Ambush marketing is a promotional technique whereby a non-sponsoring business tries to associate with an event to gain recognition as a sponsor. Assembly lines are a production method in which the product moves past workers who each do one assigned production task and is rarely used in the tourism industry. An open-door policy is a business practice whereby management encourages communication between employees and their superiors. 
-SOURCE: NF:048 Describe current issues and trends in the hospitality and tourism industry
-SOURCE: Smart Meetings. (2023, July 21). Top 10 trends impacting the hospitality industry. Retrieved
-November 20, 2023, from https://www.smartmeetings.com/tips-tools/74256/top-10-trends-impactinghospitality-industry 98. A Demonstrate corporate responsibility. All companies have an impact on the communities around them, and they should ensure that impact is positive rather than negative. One way businesses can exhibit corporate responsibility is by showing concern for the community, like by sponsoring youth programs, organizing food drives, hosting charity benefits, or raising money for disaster relief. Providing proper training for employees, utilizing touchpoints to reinforce company image, and providing excellent customer service are positive company actions, but they are not being demonstrated in the example. 
-SOURCE: MK:019 Demonstrate connections between company actions and results (e.g., influencing consumer
-buying behavior, gaining market share, etc.) 
-SOURCE: LAP-MK-019—Just Do It…Right (Company Actions and Results)
-99. A Winter sports areas. Because Isaac and Penelope want to spend their next vacation skiing and snowboarding, they should investigate winter sports areas. People travel to destinations with winter conditions (real or artificial) to participate in winter sports activities, such as skiing, snowboarding, ice skating, and tobogganing. Isaac and Penelope should not investigate beach areas (islands, resorts, etc.), towns and cities, or natural areas (mountains, forests, etc.) to ski or snowboard. 
-SOURCE: SE:502 Discuss key travel destinations in major geographical regions
-SOURCE: Stainton, H. (2023, January 9). The 9 types of tourist destinations. Retrieved November 28, 2023,
-from https://tourismteacher.com/types-of-tourist-destinations 2024 HS ICDC HOSPITALITY AND TOURISM CLUSTER EXAM—KEY 24 100. D Value to customers. Product marketing refers to the entire process of delivering a product to a customer and receiving feedback. Service marketing involves a person or business promoting services it offers to its customers. Where product marketing sells value to customers in the form of products, service marketing sells a relationship to customers in the form of services. Product marketing sells tangible products, whereas the services in service marketing are intangible. 
-SOURCE: MK:008 Differentiate between service marketing and product marketing
-SOURCE: Surbhi, S. (2018, January 20). Difference between product marketing and service marketing.
-Retrieved November 21, 2023, from https://keydifferences.com/difference-between-product-andservice-marketing.html 
+SOURCE: Garland, J. (2020, December 16). Freight forwarder vs. Customs broker: What’s the difference?Retrieved November 28, 2023, from https://www.asianausa.com/freight-forwarder-customs-brokerdifference/ 
 
 19. What do business owners consider when they select a business ownership structure? 
 A. Product versatility, advertising strategies, and personal circumstances
@@ -884,6 +741,8 @@ Protect natural resources. The primary purpose of environmental regulations is t
 SOURCE: BL:073 Discuss the nature of environmental law
 SOURCE: Laws.com. (2019, December 23). Know the purpose of environmental law. Retrieved September 26,
 2023, from https://environmental.laws.com/environmental-law/purpose-of-environmental-law 
+
+Marketing 2024 Exams
 
 38. Brea, Robert, and Lincoln are college friends who want to start a business. Brea has creative ability, Robert's expertise is selling, and Lincoln's expertise is management. However, each has limited capital. Their ideal type of business ownership is a 
 A. merger.

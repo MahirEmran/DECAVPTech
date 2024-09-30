@@ -1,3 +1,5 @@
+Business Admin Core 2024 Exams
+
 31. Identifying goals, deciding what work will be done, and setting due dates is part of the __________ management function. 
 A. directing
 B. controlling
@@ -8,6 +10,8 @@ D. planning
 Planning. Planning involves deciding what work will be done and how it will be accomplished. First, managers identify goals. Then, they identify methods of achieving those goals and the resources required to carry out the plans. They also set dates for completing tasks and projects. As the manager of an ice-cream shop, for instance, you might set a goal of increasing sales. You might then decide to increase advertising to help achieve that goal. Planning is important because it lays the groundwork for all of the other management functions. Organizing, staffing, directing, and controlling decisions are based on the plans the business has established. 
 SOURCE: SM:001 Explain the concept of management
 SOURCE: LAP-SM-001—Manage This! (Concept of Management)
+
+Business Management Administration 2024 Exams
 
 2. Which of the following statements is true about the directing function of management: 
 A. It uses standardized communication.
@@ -316,6 +320,8 @@ Initiating action. The directing function of management is the process of provid
 SOURCE: SM:066 Discuss managerial considerations in directing
 SOURCE: LAP-SM-066—Take Action (Managerial Considerations in Directing)
 
+Entrepreneurship 2024 Exams
+
 14. Key performance indicators used to assess business performance should align with the business's 
 A. corporate culture.
 B. payroll and benefits.
@@ -565,6 +571,8 @@ Understand the risks involved. A business plan is the written document that is d
 SOURCE: SM:007 Explain the nature of business plans
 SOURCE: LAP-SM-007— Plan Now, Succeed Later (Nature of Business Plans)
 
+Finance 2024 Exams
+
 52. If a company spends all of its financial resources to discover a new way to purify water, it could be classified as a __________ organization. 
 A. zero-risk
 B. risk-tolerant
@@ -575,6 +583,8 @@ D. risk-adverse
 Risk-seeking. A company that spends all of its financial resources to discover a new way to purify water is a risk-seeking organization because it is hoping to gain from the discovery while risking its financial health. Riskadverse and risk-tolerant organizations do not seek new risks. A zero-risk approach to risk management involves eliminating all possible risks. 
 SOURCE: SM:075 Explain the nature of risk management
 SOURCE: LAP-SM-075—Prepare for the Worst; Expect the Best (Nature of Risk Management)
+
+Hospitality 2024 Exams
 
 36. Which of the following tasks would a manager complete when organizing: 
 A. Arranging an office space
@@ -656,6 +666,8 @@ D. Increased efficiency
 Increased efficiency. Division of labor is the process of dividing a large job into units, or job tasks, and assigning an individual to do each of the tasks. Division of labor allows for specialization, which makes organizations more efficient because the work is divided and shared to take advantage of employees’ skills. Division of labor does not necessarily lead to more direct oversight, teamwork opportunities, or professional development. 
 SOURCE: SM:064 Explain managerial considerations in organizing
 SOURCE: LAP-SM-064—Put It All Together (Managerial Organizing)
+
+Marketing 2024 Exams
 
 26. When assessing risks associated with an upcoming event, sports/event organizations should acquire input from all levels of management and 
 A. financial consultants.

@@ -154,14 +154,30 @@ def organize_instruct_areas():
         if not os.path.isfile('instruct_area_output/' + v + '.txt'):
             with open('instruct_area_output/' + v + '.txt', mode='x') as f2:
                 f2.write("")
+
+    exam_names = {
+        'BAC': 'Business Admin Core 2024 Exams',
+        'BMA': 'Business Management Administration 2024 Exams',
+        'Ent': 'Entrepreneurship 2024 Exams',
+        'Fin': 'Finance 2024 Exams',
+        'Hospitality': 'Hospitality 2024 Exams',
+        'Mktg': 'Marketing 2024 Exams',
+        'PF': 'Personal Finance 2024 Exams',
+    }
+
     for filename in os.listdir('output/'):
+        examname = exam_names[filename.split(" ")[0]]
         with open('output/' + filename, encoding='utf-8') as f:
             lines = f.readlines()
+
             num = 1
             question = ""
             key2 = ""
             for i in range(len(lines)):
                 if lines[i].startswith(f'{num+1}.'):
+                    if not examname in deca_questions[key2]:
+                        deca_questions[key2].append(examname)
+                        deca_questions[key2].append('\n\n')
                     deca_questions[key2].append(question)
                     key2 = ''
                     question = ''
@@ -205,18 +221,18 @@ def exclude_file(filename):
     return filename == 'PF Area.txt' or filename == 'BMA State.txt' or filename == 'Fin State.txt'
 
 def main():
-    for filename in os.listdir('output/'):
-        if exclude_file(filename):
-            continue
-        with open('output/' + filename, mode='w') as f:
-            f.write('')
+    # for filename in os.listdir('output/'):
+    #     if exclude_file(filename):
+    #         continue
+    #     with open('output/' + filename, mode='w') as f:
+    #         f.write('')
     for filename in os.listdir('instruct_area_output/'):
         with open('instruct_area_output/' + filename, mode='w') as f:
             f.write('')
     
-    organize_q_a()
+    # organize_q_a()
    
-    remove_blank_lines()
+    # remove_blank_lines()
     organize_instruct_areas()
     # count_unique_clusters()
 

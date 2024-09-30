@@ -1,3 +1,5 @@
+Business Management Administration 2024 Exams
+
 26. How can management reduce the business's level of risk associated with ethics? 
 A. Advise employees that following business ethics depends on the situation
 B. Assume employees know what constitutes ethical behavior
@@ -80,6 +82,17 @@ SOURCE: RM:092 Describe international considerations affecting risk management
 SOURCE: Beers, B. (2023, July 17). Top risks for international businesses. Retrieved October 4, 2023, from
 https://www.investopedia.com/ask/answers/06/internationalfinancerisks.asp 
 
+70. Which of the following is most likely to help you implement effective risk management: 
+A. Membership in a professional organization
+B. An advertising campaign
+C. A long-term career plan
+D. Up-to-date knowledge of laws and regulations
+
+70. D
+Up-to-date knowledge of laws and regulations. Risk management is a business activity that involves the planning, controlling, preventing, and procedures used by management to limit business losses. To implement effective risk management, you should have up-to-date knowledge of laws and regulations, as this will help an organization avoid losses due to legal noncompliance. A long-term career plan, an advertising campaign, and membership in a professional organization will not necessarily help you implement effective risk management. 
+SOURCE: RM:043 Discuss legal considerations affecting risk management
+SOURCE: Gracy, M. (2023, September 2). How to implement risk management framework (quick guide).Retrieved October 10, 2023, from https://sprinto.com/blog/risk-management-framework/ 70. D
+
 73. Foreign exchange risk is also called __________ risk. 
 A. human
 B. environmental
@@ -150,6 +163,8 @@ D. A risk assessment
 A risk assessment. An important aspect of risk management is conducting a risk assessment, which is the process of determining the level of risk associated with an action or product. Sometimes as a result of conducting a risk assessment, a manager may find that a perceived risk is much less threatening than they originally thought. For example, although Sasha's team members were alarmed by rumors of bear attacks, she may discover while conducting her risk assessment that the rumors are untrue and that there is little chance of bear attack at the park. An environmental scan is a process in which businesses gather information about their surroundings, analyze that information, and determine the future impact of that information. Risk communication focuses on how to effectively communicate information associated with risk. A SWOT analysis is a marketing tool that investigates a business's strengths, weaknesses, opportunities, and threats in an organized fashion. 
 SOURCE: RM:041 Explain the role of ethics in risk management
 SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+
+Entrepreneurship 2024 Exams
 
 5. The first step in an organizational risk assessment is 
 A. pinpointing who might be harmed.
@@ -258,6 +273,8 @@ Risks help businesses determine objectives. When businesses are determining thei
 SOURCE: RM:044 Discuss the relationship between risk and business objectives
 SOURCE: Pike, R. (2018, October 31). Building a bridge between risk management and business objectives.
 Retrieved October 3, 2023, from https://www.finance-monthly.com/2018/10/building-a-bridgebetween-risk-management-and-business-objectives/ ENTREPRENEURSHIP EXAM—KEY 19 
+
+Finance 2024 Exams
 
 42. To reduce the risk of loss due to fire or power outages, a financial business should protect its computer data by 
 A. monitoring data-transmission rates.
@@ -506,6 +523,8 @@ Return on investment risk. Cloud computing keeps businesses from having to inves
 SOURCE: RM:042 Describe the use of technology in risk management
 SOURCE: Coles, C. (2015, June 22). 11 advantages of cloud computing and how your business can benefit
 from them. Retrieved September 29, 2023, from https://cloudsecurityalliance.org/blog/2015/06/22/11advantages-of-cloud-computing-and-how-your-business-can-benefit-from-them 
+
+Hospitality 2024 Exams
 
 54. Which of the following actions can the LBS Company take to control risk that is associated with external factors: 
 A. Implement business policies

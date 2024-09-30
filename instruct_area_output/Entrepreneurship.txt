@@ -1,3 +1,5 @@
+Business Admin Core 2024 Exams
+
 60. A car dealership gives back to its community by hosting charity fundraisers and donating to local organizations. These actions by the car dealership are examples of 
 A. competition in the marketplace.
 B. technical analysis.
@@ -8,6 +10,8 @@ D. systematic random sampling.
 Corporate social responsibility. Corporate social responsibility is an increasingly popular strategy for attracting ethics-minded customers. It involves donating a portion of profits to charity, sponsoring health and wellness initiatives, or giving back to the community in other ways. Competition is a rivalry between two or more businesses competing for customers. While the car dealership may be engaging in competition, hosting fundraisers and donating to local organizations does not necessarily point to competition with other firms. Systematic random sampling is a probability sampling method in which researchers place sampling units into a random list. Technical analysis is a marketing process using historical information from market activity, prices, and volume to evaluate securities and predict future price activity. 
 SOURCE: EN:044 Describe the use of business ethics in entrepreneurship
 SOURCE: LAP-EN-044—Ethical Excellence (Ethics in Entrepreneurship)
+
+Business Management Administration 2024 Exams
 
 90. Businesses that are built on strong ethical principles are more likely to 
 A. avoid legal trouble.
@@ -20,6 +24,8 @@ Avoid legal trouble. Businesses that are built on strong ethical principles are 
 SOURCE: EN:044 Describe the use of business ethics in entrepreneurship
 SOURCE: LAP-EN-044—Ethical Excellence (Ethics in Entrepreneurship)
 BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 21 
+
+Entrepreneurship 2024 Exams
 
 7. Kyra is a business owner who wants to calculate individual employee productivity. She knows that last month, her team of four workers generated $10,000 worth of goods by working 200 hours in an office space measuring 1,000 square feet. What is the labor productivity per employee for the whole month? 
 A. $40,000
@@ -497,6 +503,8 @@ SOURCE: EN:034 Explain the need for continuation planning
 SOURCE: Cincinnati Life. (n.d.). 6 common mistakes in business continuation planning. Retrieved October 2,
 2023, from https://blog.cinfin.com/2017/05/30/life-insurance-business-continuation-planning/ 
 
+Finance 2024 Exams
+
 89. It is important to be honest about the time commitment required when interviewing potential employees for a new business because 
 A. entrepreneurs shouldn't hire employees with busy personal lives.
 B. being honest should weed out the people who aren't dedicated to the job.
@@ -507,6 +515,8 @@ D. employees who are overburdened are unlikely to stay with the company.
 Employees who are overburdened are unlikely to stay with the company. It can be tempting for entrepreneurs to sugarcoat the amount of time and effort that will be needed from employees—but this approach is destined to backfire. Employees who are hired under the impression that they will only work 20 hours per week, for example, will certainly not appreciate it when they are told they actually need to work 30 or 40, especially if their compensation doesn't increase accordingly. If workers are consistently overburdened, they are unlikely to stay with the company for very long—and will probably resent the company's management in the meantime. Entrepreneurs shouldn't discriminate against people with busy personal lives when hiring employees. Many people are able to effectively balance an active personal and professional life. Being honest is important so that employees know what to expect at work. The primary purpose of honesty in the employee search is not to weed out people who are not dedicated to the job—it's to provide transparency for all prospective workers. It is not true that employees are not legally allowed to work more than 40 hours per week. 
 SOURCE: EN:044 Describe the use of business ethics in entrepreneurship
 SOURCE: LAP-EN-044—Ethical Excellence (Ethics in Entrepreneurship)
+
+Hospitality 2024 Exams
 
 20. Which of the following statements regarding international trade is true: 
 A. Only large companies typically benefit from conducting international trade.
@@ -519,6 +529,8 @@ Online businesses can easily become involved in international trade. A company t
 SOURCE: EN:041 Describe small-business opportunities in international trade
 SOURCE: Ikenson, D. (2022, June 13). The e-commerce revolution is transforming global trade and benefitting
 the U.S. economy. Retrieved August 3, 2023, from https://www.forbes.com/sites/danikenson/2022/06/13/the-e-commerce-revolution-is-transformingglobal-trade-and-benefitting-the-us-economy/ 
+
+Marketing 2024 Exams
 
 41. Which of the following is an example of corporate social responsibility: 
 A. A business provides three weeks of vacation time to all employees.
