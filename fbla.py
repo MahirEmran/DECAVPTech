@@ -1,6 +1,8 @@
 import pandas as pd 
 import smtplib
 from email.mime.text import MIMEText
+import os
+import PyPDF2
 
 def get_dict():
     df = pd.read_csv('fbla_input/members.csv')
@@ -16,18 +18,18 @@ def get_emails(s, d):
     emails = [d[x] for x in s.split("; ")]
     return ';'.join(emails)
 
-def send_emails(df):
-    for row in df:
-        sender = 'fblanchs.exec@gmail.com'
-        password = 'fblaexec!'
-        subject = f'NCCC {row['Name']} Objective Test Scores'
-        msg = MIMEText(get_body(row['Attendees'], row['objective Score 1']))
-        msg['Subject'] = subject
-        msg['From'] = sender
-        msg['To'] = ', '.join(row['Emails'].split(';'))
-        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
-            smtp_server.login(sender, password)
-            smtp_server.sendmail(sender, recipients, msg.as_string())
+# def send_emails(df):
+#     for row in df:
+#         sender = 'fblanchs.exec@gmail.com'
+#         password = 'fblaexec!'
+#         subject = f'NCCC {row['Name']} Objective Test Scores'
+#         msg = MIMEText(get_body(row['Attendees'], row['objective Score 1']))
+#         msg['Subject'] = subject
+#         msg['From'] = sender
+#         msg['To'] = ', '.join(row['Emails'].split(';'))
+#         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
+#             smtp_server.login(sender, password)
+#             smtp_server.sendmail(sender, recipients, msg.as_string())
 
 def get_body(names, num):
     names = names.replace("; ", " & ")
@@ -38,10 +40,37 @@ def get_body(names, num):
     s += "Thank you for competing!\nNorth Creek FBLA"
     return s
 
+def convert_pdf_to_text(dir, out_dir):
+    for filename in os.listdir(dir):
+        pdf_path = dir + filename
+        # Open the PDF file in read-binary mode
+        with open(pdf_path, 'rb') as pdf_file:
+            # Create a PdfReader object instead of PdfFileReader
+            pdf_reader = PyPDF2.PdfReader(pdf_file)
+
+            # Initialize an empty string to store the text
+            text = ''
+
+            for page_num in range(len(pdf_reader.pages)):
+                page = pdf_reader.pages[page_num]
+                text += page.extract_text()
+
+        # Write the extracted text to a text file
+        with open(out_dir+filename[0:-4:1]+".txt", 'w', encoding='utf-8') as txt_file:
+            txt_file.write(text)
+
+def send_rubrics(members, path):
+    pass
+
+
 def main():
-    d = get_dict()
-    df = get_new_df(d)
-    send_emails(df)
+    members = get_dict()
+    path = "rubrics_txt/"
+    # df = get_new_df(d)
+    # send_emails(df)
+    convert_pdf_to_text('rubrics/', path)
+    # send_rubrics(members, path)
+
 
 if __name__ == "__main__":
     main()
