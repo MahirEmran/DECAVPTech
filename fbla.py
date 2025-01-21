@@ -60,7 +60,40 @@ def convert_pdf_to_text(dir, out_dir):
             txt_file.write(text)
 
 def send_rubrics(members, path):
-    pass
+    errs = []
+    recipients = set()
+    files = []
+    for filename in os.listdir(path):
+
+        event_name = " ".join(filename[:filename.index("-")].split("_"))
+        names = get_names_from_rubric(path + filename)
+        if names is None:
+            errs.append("No names found in file: " + path + filename)
+            continue
+        for name in names:
+            try:
+                recipients.add(members[name])
+            except:
+                errs.append("Name " + name + " not found in member email spreadsheet")
+        
+        print(event_name)
+    for err in errs:
+        print(err)
+
+def get_names_from_rubric(path):
+    names = []
+    with open(path, 'r', encoding='utf-8') as f:
+        for line in f.readlines():
+            if line.startswith("Revision:"):
+                s = line[8:]
+                words = s.split(", ")
+                for name in words:
+                    chars = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ")  # Allowed characters
+                    clean_name = ''.join(filter(lambda c: c in chars, name))
+                    names.append(clean_name)
+                break
+
+    return names if len(names) != 0 else None
 
 
 def main():
@@ -69,7 +102,7 @@ def main():
     # df = get_new_df(d)
     # send_emails(df)
     convert_pdf_to_text('rubrics/', path)
-    # send_rubrics(members, path)
+    send_rubrics(members, path)
 
 
 if __name__ == "__main__":
