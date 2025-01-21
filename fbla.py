@@ -102,11 +102,12 @@ def send_rubrics(members, path):
 
 
 def send_rubric_emails(emails):
-    print(emails)
+
     for key in emails:
         sender = 'mahiremran7@gmail.com'
         password = 'ceem jtwt fphw rfgd' 
         subject = f'(mahir testing) NCCC Results'
+        print(key[1])
         msg = MIMEMultipart()
         msg['Subject'] = subject
         msg['From'] = sender
@@ -122,7 +123,7 @@ def send_rubric_emails(emails):
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
             smtp_server.login(sender, password)
             smtp_server.sendmail(sender, [key[0]], msg.as_string())
-        time.sleep(3)
+        time.sleep(5)
 
 
 def get_rubric_email_body(name, events):
@@ -156,6 +157,16 @@ def get_names_from_rubric(path):
 
 def main():
     members = get_dict()
+
+    for file_name in os.listdir('rubrics_txt'):
+        file_path = os.path.join(directory, file_name)
+
+        # Check if it's a file before deleting
+        if os.path.isfile(file_path):
+            os.remove(file_path)
+            print(f"Deleted file: {file_path}")
+        else:
+            print(f"Skipping non-file item: {file_path}")
     path = "rubrics_txt/"
     # df = get_new_df(d)
     # send_emails(df)
