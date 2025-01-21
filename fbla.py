@@ -6,7 +6,6 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 import os
 import PyPDF2
-
 def get_dict():
     df = pd.read_csv('fbla_input/members.csv')
     return {a+' '+b: c for a, b, c in zip(df['First Name'], df['Last Name'], df['Email'])}
@@ -25,6 +24,18 @@ def get_emails(s, d):
 #     for row in df:
 #         sender = 'fblanchs.exec@gmail.com'
 #         password = 'fblaexec!'
+#         subject = f'NCCC {row['Name']} Objective Test Scores'
+#         msg = MIMEText(get_body(row['Attendees'], row['objective Score 1']))
+#         msg['Subject'] = subject
+#         msg['From'] = sender
+#         msg['To'] = ', '.join(row['Emails'].split(';'))
+#         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
+#             smtp_server.login(sender, password)
+#             smtp_server.sendmail(sender, recipients, msg.as_string())
+# def send_emails(df):
+#     for row in df:
+#         sender = 'mahiremran7@gmail.com'
+#         password = 'fayg xbee ofgl alfm'
 #         subject = f'NCCC {row['Name']} Objective Test Scores'
 #         msg = MIMEText(get_body(row['Attendees'], row['objective Score 1']))
 #         msg['Subject'] = subject
@@ -79,7 +90,11 @@ def send_rubrics(members, path):
                 emails[t].append(filename)
             except:
                 errs.append("Name " + name + " not found in member email spreadsheet")
-        
+    # print(emails)
+    emails = {
+        ('1099249@apps.nsd.org', 'Mahir Emran'): ['Data_Analysis-Final-Presentation_Entry1166654_Ansari,_Bansal,_Emran_Judge1.txt', 'Future_Business_Educator-Presentation_Entry1166720_Koushik_Judge1.txt', 'Future_Business_Educator-Presentation_Entry1166720_Koushik_Judge2.txt'],
+('1093029@apps.nsd.org', 'Archini Koushik'): ['Future_Business_Educator-Presentation_Entry1166720_Koushik_Judge1.txt', 'Future_Business_Educator-Presentation_Entry1166720_Koushik_Judge2.txt'],
+    }
     send_rubric_emails(emails)
     
     for err in errs:
@@ -87,36 +102,39 @@ def send_rubrics(members, path):
 
 
 def send_rubric_emails(emails):
+    print(emails)
     for key in emails:
-        sender = 'fblanchs.exec@gmail.com'
-        password = 'fblaexec!'
-        subject = f'NCCC Results'
-        msg = MIMEText(get_rubric_email_body(key[1], emails[key]))
+        sender = 'mahiremran7@gmail.com'
+        password = 'ceem jtwt fphw rfgd' 
+        subject = f'(mahir testing) NCCC Results'
+        msg = MIMEMultipart()
         msg['Subject'] = subject
         msg['From'] = sender
-        msg['To'] = emails[key][0]
+        msg['To'] = key[0]
+        body = get_rubric_email_body(key[1], emails[key])
+        msg.attach(MIMEText(body, 'plain'))
         for f in emails[key]:
-            with open('rubrics/' + f[0:f.index('.txt')] + ".pdf", "rb") as fil:
-                part = MIMEApplication(
-                    fil.read(),
-                    Name=basename(f)
-                )
-            # After the file is closed
-            part['Content-Disposition'] = 'attachment; filename="%s"' % basename(f)
-            msg.attach(part)
+            file_path = 'rubrics/' + f[0:f.index('.txt')] + ".pdf"
+            with open(file_path, "rb") as fil:
+                part = MIMEApplication(fil.read(), Name=basename(file_path))
+                part['Content-Disposition'] = f'attachment; filename="{basename(file_path)}"'
+                msg.attach(part)
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
             smtp_server.login(sender, password)
-            smtp_server.sendmail(sender, [emails[key][0]], msg.as_string())
+            smtp_server.sendmail(sender, [key[0]], msg.as_string())
+        time.sleep(3)
+
 
 def get_rubric_email_body(name, events):
     msg = ""
     msg += f'Hello {name},\n\n'
     msg += "attached are results for these events:\n\n"
-    for event in events:
-        event_name = " ".join(event[:event.index("-")].split("_"))
+    eventnames = {" ".join(event[:event.index("-")].split("_")) for event in events}
+    for event in eventnames:
         msg += f'{event}\n'
     msg += f'\nthx!\n\n'
     msg += f'bye - NCFBLA aka mahir testing rn'
+    return msg
     
 
 
