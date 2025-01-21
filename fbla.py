@@ -1,6 +1,9 @@
 import pandas as pd 
 import smtplib
 from email.mime.text import MIMEText
+from os.path import basename
+from email.mime.application import MIMEApplication
+from email.mime.multipart import MIMEMultipart
 import os
 import PyPDF2
 
@@ -61,24 +64,61 @@ def convert_pdf_to_text(dir, out_dir):
 
 def send_rubrics(members, path):
     errs = []
-    recipients = set()
-    files = []
+    emails = dict()
     for filename in os.listdir(path):
-
-        event_name = " ".join(filename[:filename.index("-")].split("_"))
+        
         names = get_names_from_rubric(path + filename)
         if names is None:
             errs.append("No names found in file: " + path + filename)
             continue
         for name in names:
             try:
-                recipients.add(members[name])
+                t = (members[name], name)
+                if t not in emails:
+                    emails[t] = list()
+                emails[t].append(filename)
             except:
                 errs.append("Name " + name + " not found in member email spreadsheet")
         
-        print(event_name)
+    send_rubric_emails(emails)
+    
     for err in errs:
         print(err)
+
+
+def send_rubric_emails(emails):
+    for key in emails:
+        sender = 'fblanchs.exec@gmail.com'
+        password = 'fblaexec!'
+        subject = f'NCCC Results'
+        msg = MIMEText(get_rubric_email_body(key[1], emails[key]))
+        msg['Subject'] = subject
+        msg['From'] = sender
+        msg['To'] = emails[key][0]
+        for f in emails[key]:
+            with open('rubrics/' + f[0:f.index('.txt')] + ".pdf", "rb") as fil:
+                part = MIMEApplication(
+                    fil.read(),
+                    Name=basename(f)
+                )
+            # After the file is closed
+            part['Content-Disposition'] = 'attachment; filename="%s"' % basename(f)
+            msg.attach(part)
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
+            smtp_server.login(sender, password)
+            smtp_server.sendmail(sender, [emails[key][0]], msg.as_string())
+
+def get_rubric_email_body(name, events):
+    msg = ""
+    msg += f'Hello {name},\n\n'
+    msg += "attached are results for these events:\n\n"
+    for event in events:
+        event_name = " ".join(event[:event.index("-")].split("_"))
+        msg += f'{event}\n'
+    msg += f'\nthx!\n\n'
+    msg += f'bye - NCFBLA aka mahir testing rn'
+    
+
 
 def get_names_from_rubric(path):
     names = []
