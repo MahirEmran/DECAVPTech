@@ -3,28 +3,47 @@ import smtplib
 from email.mime.text import MIMEText
 import time
 
-def send_emails(df):
+def send_prof_emails(df):
+    """
+    Sends emails to people in df, where df is assumed to have the following format:
+    Name,Email
+    Mahir Emran,1099249@apps.nsd.org
+    Essentially has a Name and Email column
+    """
     for idx, row in df.iterrows():
+        # Ignore this totally nothing is happening here :D
         if row['Name'] == 'Jeff Stride':
             continue
-        sender = 'mahiremran7@gmail.com'
-        password = 'esuj nxoq wesk sfkh'
+        sender = ''
+        password = ''
+        # Pulls sender info from the txt file
+        with open('sender_info.txt') as f:
+            lines = f.readlines()
+            sender = lines[0]
+            password = lines[1]
         subject = "North Creek FBLA Judging Request"
+        # Gets the body of the email with the name of the person being emailed
         msg = MIMEText(get_body(row['Name']))
         msg['Subject'] = subject
         msg['From'] = sender
         msg['To'] = row['Email']
         print(row['Email'])
+        # Sends the email
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
             smtp_server.login(sender, password)
             smtp_server.sendmail(sender, [row['Email']], msg.as_string())
+        # Pauses program for 5s to not get timed out on requests
         time.sleep(5)
 
 def get_body(name):
+    """
+    Given the name of the person being emailed, return a String
+    of the body of the email
+    """
+    # Gets the last name of the person being emailed
     lastname = name.split(' ')[-1]
     print(lastname)
-
-    
+    # Creates the body to be sent in the email
     s = f'Dear Professor {lastname},\n\n'
     s += "I hope this message finds you well. My name is Mahir Emran, and I’m part of our Future Business Leaders of America (FBLA) club at North Creek High School.\n\n" 
     s += "We are organizing our annual Winter Leadership Conference on February 1st, 2025 where 900+ students from 12 high schools compete in various subjects such as marketing, computer science, business, and public speaking. We would love to have you as a judge to score and give feedback on student presentations!\n\n"
@@ -39,6 +58,7 @@ def get_body(name):
     return s
 
 def main():
+    # Reads the CSV of professors to send emails to
     send_emails(pd.read_csv('fbla_input/uwb_profs_test.csv'))
     print('Done')
 
