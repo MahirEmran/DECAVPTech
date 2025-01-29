@@ -60,6 +60,7 @@ def get_body(name):
 def main():
     # Reads the CSV of professors to send emails to
     send_emails(pd.read_csv('fbla_input/uwb_profs_test.csv'))
+
     print('Done')
 
 if __name__ == "__main__":

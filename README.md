@@ -14,5 +14,8 @@ abcd efgh ijkl mnop
 then you can run whichever file you want to. note you probably have to set up python environment + run `pip install` for certain libraries
 
 * `deca_pdfs.py` isn't important that was for earlier in the year lmao
-* `fbla_rubrics.py` is for sending out emails of fbla rubrics (put rubric pdfs in `rubrics/` directory, delete all old rubrics)
+* `fbla_rubrics.py` is for sending out emails of fbla rubrics (put rubric pdfs in `rubrics/` directory, delete all old rubrics).
+    * `send_objtest_emails` is used for sending out objective test emails, takes in a file directory (CSV of scores)
+    * `send_rubrics` is used for sending our rubric emails, takes in directory with rubrics PDFS
+    * Assumes `fbla_input/members.csv` exists, contains info mapping FBLA member names to their NSD email
 * `prof_emails.py` was old code used to send out emails to professors, could be used in future (can repurpose to send emails to ppl in general if needed)

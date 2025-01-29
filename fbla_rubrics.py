@@ -11,39 +11,68 @@ import time
 
 def get_member_info():
     df = pd.read_csv('fbla_input/members.csv')
+    # members = {}
+    # for a, b, c in zip(df['First Name'], df['Last Name'], df['Email']):
+    #     if a + ' ' + b in members:
+    #         raise Exception("Duplicate name " + a + ' ' + b + ' present in member list')
+    #     members[a + ' ' + b] = c
     return {a+' '+b: c for a, b, c in zip(df['First Name'], df['Last Name'], df['Email'])}
 
 
-def get_objtest_df(filename, members):
+def get_objtest_emails(filename):
     df = pd.read_csv(filename)
-    df['Emails'] = df['Attendees'].apply(lambda x: ';'.join([members[x] for x in s.split("; ")]))
-    return df
+    results = {}
+    for index, row in df.iterrows():
+        group_name = row['Group Name']
+        test_name = row['Name']
+        attendees = row['Attendees']
+        score = row['objective Score 1']
+        if isinstance(attendees, str) and "; " in attendees:
+            team_members = attendees.split("; ")
+            team_info = f"{test_name}\n"
+            for member in team_members:
+                member_score = df[(df['Group Name'] == group_name) & (df['Name'] == test_name) & (df['Attendees'] == member)]['objective Score 1'].values
+                if len(member_score) > 0:
+                    team_info += f"{member}'s score: {member_score[0]}\n"
+            team_info += f"Team Average: {score}\n"
+            for member in team_members:
+                if member not in results:
+                    results[member] = ""
+                results[member] += team_info + "\n"        
+        else:
+            if attendees not in results:
+                results[attendees] = ""
+            results[attendees] += f"{test_name}\n{attendees}'s score: {score}\n\n"
+    return results
 
-def send_objtest_emails(filename, score_col, names_col):
+
+def send_objtest_emails(filename):
     members = get_member_info()
-    df = get_objtest_df(filename, members)
-    for row in df:
+    emails = get_objtest_emails(filename)
+    for k, v in emails.items():
         sender = ''
         password = ''
         with open('sender_info.txt') as f:
             lines = f.readlines()
             sender = lines[0]
             password = lines[1]
-        subject = f'NCCC {row["Name"]} Objective Test Scores'
-        msg = MIMEText(get_objtest_body(row[names_col], row[score_col]))
+        subject = f'NCCC Objective Test Scores'
+        msg = MIMEText(get_objtest_email_body(k, v))
         msg['Subject'] = subject
         msg['From'] = sender
-        msg['To'] = ', '.join(row['Emails'].split(';'))
+        msg['To'] = members[k]
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_server:
             smtp_server.login(sender, password)
-            smtp_server.sendmail(sender, row['Emails'].split(';'), msg.as_string())
+            smtp_server.sendmail(sender, [members[k]], msg.as_string())
+        # Pauses program for 5s in between each email to not get timed out on requests
+        time.sleep(5)
 
-def get_objtest_body(names, num):
-    names = names.replace("; ", " & ")
-    s = f'Hello {names},\n\n'
-    s += f'Your score for this objective test was: {num}.\n'
-    s += "If this was a team event, this number is your team's average score.\n\n"
-    s += "Thank you for competing!\nNorth Creek FBLA"
+def get_objtest_email_body(name, scores):
+    s = f'Hello {name},\n\n'
+    s += f'This email contains your objective test score results for NCCC. If any of these were done with a team, you will see your team average and your other team members\' scores.\n\n'
+    s += scores
+    s += "Reply to this email if you have any questions or concerns. Thank you for competing at this conference!\n\n"
+    s += "Sincerely,\nNorth Creek FBLA"
     return s
 
 def convert_pdf_to_text(dir, out_dir):
@@ -83,7 +112,7 @@ def send_rubrics(members, path):
                     emails[t] = list()
                 emails[t].append(filename)
             except:
-                errs.append("Name " + name + " not found in member email spreadsheet")
+                errs.append("Name " + name + " not found in member email spreadsheet from rubric " + filename)
     send_rubric_emails(emails)
     for err in errs:
         print(err)
@@ -110,7 +139,7 @@ def send_rubric_emails(emails):
         if not sender or not password:
             raise Exception("Sender or password do not exist")
         # Subject of the email
-        subject = f'(mahir testing) NCCC Results'
+        subject = f'NCCC Results'
         print(key[1])
         msg = MIMEMultipart()
         msg['Subject'] = subject
@@ -143,7 +172,7 @@ def get_rubric_email_body(name, events):
     """
     msg = ""
     msg += f'Hello {name},\n\n'
-    msg += "attached are results for these events:\n\n"
+    msg += "At this conference, you participated in the following events:\n\n"
     # Gets a set of unique event names (so no repeats) by using the file name
     # Ex: Data_Analysis-Final-Presentation_Entry1166654_Ansari,_Bansal,_Emran_Judge1.txt
     # turns into Data Analysis
@@ -151,8 +180,11 @@ def get_rubric_email_body(name, events):
     eventnames = {" ".join(event[:event.index("-")].split("_")) for event in events}
     for event in eventnames:
         msg += f'{event}\n'
-    msg += f'\nthx!\n\n'
-    msg += f'bye - NCFBLA aka mahir testing rn'
+    msg += f'\nAttached to this email are the rubric PDFs containing your scores and feedback from your judges. They are named accordingly with each event you participated in. If you competed in an event with a team, your teammates have also received the corresponding rubrics.\n\n'
+    msg += f'Reply to this email with any questions you have. Do NOT attempt to contact your judges; there will be consequences for doing so.\n\n'
+    msg += f'Thank you for competing at this conference!\n\n'
+    msg += f'Sincerely,\n'
+    msg += f'North Creek FBLA'
     return msg
     
 def get_names_from_rubric(path):
@@ -215,7 +247,7 @@ def main():
     # In other words, if a team takes an objective test, only one email should be sent; right now it is two
     # TODO: Consider grouping objective test scores into one email? So instead of above, I would get one
     # email with all my objective test scores (would contain team average and ONLY my individual)
-    # send_objtest_emails('fbla_input/scores2.csv', 'objective Score 1', 'Attendees')
+    # send_objtest_emails('fbla_input/scores2.csv')
 
 
 if __name__ == "__main__":
