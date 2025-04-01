@@ -1,3 +1,7 @@
+"""
+This code is no longer maintained and is not guaranteed to work.
+It was made to extract questions and answers from DECA PDFs and organize them into text files.
+"""
 import os
 import os.path
 import pdfplumber

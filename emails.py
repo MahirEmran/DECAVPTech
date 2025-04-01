@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 import time
 
-def send_prof_emails(df):
+def send_prof_emails(df, subject):
     """
     Sends emails to people in df, where df is assumed to have the following format:
     Name,Email
@@ -21,7 +21,7 @@ def send_prof_emails(df):
             lines = f.readlines()
             sender = lines[0]
             password = lines[1]
-        subject = "North Creek FBLA Judging Request"
+      
         # Gets the body of the email with the name of the person being emailed
         msg = MIMEText(get_body(row['Name']))
         msg['Subject'] = subject
@@ -38,28 +38,32 @@ def send_prof_emails(df):
 def get_body(name):
     """
     Given the name of the person being emailed, return a String
-    of the body of the email
+    of the body of the email. It reads input/body.txt to get the body of the email.
+    
+    input/body.txt should contain everything that is in the body of the email, EXCEPT
+    for the greeting, which is added in this function.
+    
+    You could update this to change the details for the conference. In addition, right now
+    it just uses the last name for the professor. Maybe this should be changed.
     """
     # Gets the last name of the person being emailed
     lastname = name.split(' ')[-1]
     print(lastname)
+
     # Creates the body to be sent in the email
     s = f'Dear Professor {lastname},\n\n'
-    s += "I hope this message finds you well. My name is Mahir Emran, and I’m part of our Future Business Leaders of America (FBLA) club at North Creek High School.\n\n" 
-    s += "We are organizing our annual Winter Leadership Conference on February 1st, 2025 where 900+ students from 12 high schools compete in various subjects such as marketing, computer science, business, and public speaking. We would love to have you as a judge to score and give feedback on student presentations!\n\n"
-    s += "If you want to see the available events, they are listed at https://www.fbla.org/high-school/competitive-events/.\n\n"
-    s += "We offer two shifts from 7:30AM - 12:30PM and 11:00AM-4:00PM. The event will be hosted at North Creek High School (3613 191st Pl SE, Bothell, WA 98012). Availability for either shift would be amazing!\n\n"
-    s += "If you're interested or would like more details, I’d be happy to provide further information. The form to sign up as a judge is this link: https://docs.google.com/forms/d/e/1FAIpQLSfj1gbcBChgCmuTsclTvKaWo613D-75BIHKlMHLWfZw_Ybm1Q/viewform\n\n"
-    s += "Thank you for considering this opportunity!\n"
-    s += "Best regards,\n"
-    s += "Mahir Emran\n"
-    s += "FBLA VP of Technology Development\n"
-    s += "North Creek High School\n"
+    
+    with open('input/body.txt') as f:
+        lines = f.readlines()
+        # Reads the body of the email
+        for line in lines:
+            s += line
+    print(s)
     return s
 
 def main():
     # Reads the CSV of professors to send emails to
-    send_emails(pd.read_csv('fbla_input/uwb_profs_test.csv'))
+    send_prof_emails(pd.read_csv('input/uwb_profs_test.csv'), "North Creek FBLA Judging Request")
 
     print('Done')
 
