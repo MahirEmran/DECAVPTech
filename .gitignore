@@ -4,3 +4,5 @@ output/
 pdfs/
 rubrics/
 rubrics_txt/
+scores.py
+stats.txt

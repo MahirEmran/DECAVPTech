@@ -6,6 +6,8 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 import os
 import PyPDF2
+import numpy as np
+import statistics
 import time
 
 
@@ -58,9 +60,17 @@ def send_rubrics(conf_name):
                 emails[t].append(filename)
             except:
                 errs.append("Name " + name + " not found in member email spreadsheet from rubric " + filename)
-    send_rubric_emails(emails, conf_name)
+    # print(emails)
+    sorted_emails = sorted(emails.items(), key=lambda x: x[0][1])
+    emails = dict(sorted_emails)
+    # print(emails)
+    
     for err in errs:
         print(err)
+    # Important: Will ONLY send emails if there are no errors
+    if len(errs) != 0:
+        send_rubric_emails(emails, conf_name)
+        
 
 
 def send_objtest_emails(conf_name):
@@ -197,8 +207,13 @@ def convert_pdf_to_text(dir, out_dir):
     """
     for filename in os.listdir(dir):
         pdf_path = dir + filename
-        # Open the PDF file in read-binary mode
+        print(pdf_path)
+        text = ''
+        if filename == '.DS_Store':
+            continue
+  
         with open(pdf_path, 'rb') as pdf_file:
+            
             # Create a PdfReader object instead of PdfFileReader
             pdf_reader = PyPDF2.PdfReader(pdf_file)
             # Initialize an empty string to store the text
@@ -210,6 +225,18 @@ def convert_pdf_to_text(dir, out_dir):
         # filename[0:-4:1] removes the .pdf from name, adds .txt 
         with open(out_dir+filename[0:-4:1]+".txt", 'w', encoding='utf-8') as txt_file:
             txt_file.write(text)
+
+def first_number_index(s):
+    for i, char in enumerate(s):
+        if char.isdigit():
+            return i
+    return -1  # Return -1 if no number is found
+
+def first_letter_index(s):
+    for i, char in enumerate(s):
+        if not char.isdigit():
+            return i
+    return -1  # Return -1 if no letter is found
 
 
 def get_names_from_rubric(path):
@@ -225,18 +252,36 @@ def get_names_from_rubric(path):
     with open(path, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             # Revision: is reference for where the names are
-            if line.startswith("Revision:"):
-                s = line[8:]
+            if line.startswith(("Revision:", "1 Revision:", "2 Revision:", "3 Revision:")):
+                s = ''
+
+                if "Competitive Events Guidelines" in line:
+                    
+                    continue
+                start = 8
+                if line.startswith(("1", "2", "3")):
+                    start += 2
+                if first_number_index(line) != -1:
+                    
+                    s = line[start:start+first_number_index(line[start:])]
+                else:
+                    s = line[start:]
+   
                 # Names are split like commas
                 words = s.split(", ")
                 for name in words:
                     # Uses set to filter to only alphabetic and space
                     # TODO: change to regex
-                    chars = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ")
+                    chars = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- ")
                     clean_name = ''.join(filter(lambda c: c in chars, name))
+                    if clean_name.endswith("ST"):
+                        clean_name = clean_name[:-2]
                     names.append(clean_name)
                 # Breaks since the first line with Revision: is the one that contains all the names
-                break
+                if not "Competitive Events Guidelines" in line:
+                    break
+
+    
     # Returns None if no names are found
     return names if len(names) != 0 else None
 
@@ -324,7 +369,9 @@ def main():
     # Code for sending rubrics
     # Assumes member info is in input/members.csv, rubric PDFs are in rubrics/
     # Input is a conference name
-    # send_rubrics('NCCC 2025')
+    send_rubrics('WAFBLA SBLC 2025')
+
+ 
 
     # Code for sending objective test scores
     # Assumes member info is in input/members.csv, scores are in input/scores.csv
